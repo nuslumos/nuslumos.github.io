@@ -1,42 +1,37 @@
 ---
-title: "Sanders Lab - Contact"
+title: "LUMOS Lab - Contact"
 layout: textlay
 excerpt: "Contact."
 sitemap: false
 permalink: /contact/
 ---
 
-# Contact
+# Open positions
 
-## Lab Location
+Thank you for your interest in joining the Sanders Lab.
 
-Sanders Lab is in Rock Hall of the UCSF Mission Bay Campus ([Google Map](https://goo.gl/maps/wLQbKoAUSTS2)):
+## Graduate students
 
-Room 448, Floor 4, Rock Hall
-1550 4th Street
-San Francisco
-CA 94158
+Dr. Sanders is a member of the [Neuroscience graduate program (part of PIBS)](https://neurograd.ucsf.edu/about-neuroscience-graduate-program) and the [Pharmaceutical Sciences and Pharmacogenomics (PSPG) graduate program](https://pspg.ucsf.edu), which is part of the [Quantitative Biosciences Consortium (QBC)](https://qbc.ucsf.edu). If you are interested in a rotation in the Sanders Lab, please contact Dr. Sanders directly using the details on his [USCF profile page](https://profiles.ucsf.edu/stephan.sanders). We are primarily a computational lab working on the genetics of neurodevelopmental disorders, so a background in coding and/or genetics helps students make the most of their rotation.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/contactpic/map.png" style="width: 600px">
+If you are interested, please contact Dr. Sanders directly using the details on his [USCF profile page](https://profiles.ucsf.edu/stephan.sanders).
 
- 
-### Parking
+## Postdoctoral researchers
 
-There are two car parks in close proximity to Rock Hall shown on the map above:
+We have more data and research ideas than trainees, so are keen to recruit exceptional researchers. The lab offers a collaborative and supportive environment and has a strong track record in helping students develop and begin their own independent research careers. The lab has expertise in high-performance computing and analytical pipelines, allowing novel analytic methods to be performed at scale. We are currently looking for researchers with a strong computational background in:
 
-Parking off [4th Street](https://www.google.com/maps/place/Third+Street+Garage/@37.768572,-122.38973,18z/data=!3m1!4b1!4m2!3m1!1s0x808f7fc58c60662d:0x6886a31478ecb0) (charged by the hour)
-Parking off [South Street](https://www.google.com/maps/search/401+South+Street/@37.76892,-122.388106,19z/data=!3m1!4b1) (charged by the day, or 2hrs)
- 
-### Public transport
-There are two MUNI lines with stops in close proximity to UCSF Mission Bay: the T-Third St and 55-16th St.
+- Genomic and functional genomic analysis, including whole-genome sequencing, single-cell sequencing, and integrative analysis of genomic and functional genomic data 
+- Statistical analysis, including network analysis and quantitative trait analysis
+- Genetic therapies, including antisense oligonucleotides (ASOs), gene replacement, and CRISPR-based approaches for the treatment of rare genetic disorders in humans
 
-1. T-Third St. [link](https://www.sfmta.com/routes/t-third-street)
-1. 55-16th St. [link](https://www.sfmta.com/routes/55-16th-street)
- 
-### UCSF Shuttle
-Several UCSF shuttle lines stop on 4th Street outside Rock Hall. Shuttles arrive across the street from Rock Hall (east) and leave on the same side of the street as Rock Hall (west), see map above.
+If you are interested, please contact Dr. Sanders directly using the details on his [USCF profile page](https://profiles.ucsf.edu/stephan.sanders).
 
-- The UCSF Shuttle map can be found [here](https://campuslifeservices.ucsf.edu/upload/transportation/files/UCSF_Shuttle_Map_8.5x11.pdf)
 
-- The Next Shuttle can be found [here](https://ucsf.tripshot.com/)
+# Lab Location
+
+College of Design and Engineering
+National University of Singapore
+1 Engineering Drive 2
+Block E1A #06-25
+Singapore 117576
 
