@@ -37,6 +37,12 @@
 
 
 
+- name: Guo Hao
+  photo: guohao.png
+  info: PhD Candidate
+  url: guo_hao
+  group: 2
+
 - name: Xie Jiaohong
   photo: none.png
   info: PhD Candidate
