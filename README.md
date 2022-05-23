@@ -8,6 +8,8 @@ The website is deployed using [GitHub Pages](https://sanderslab.github.io) and t
 
 First, add your picture to [/image/teampic](https://github.com/nuslumos/nuslumos.github.io/tree/master/images/teampic). Then, add your name here [/_data/team_members.yml](https://github.com/nuslumos/nuslumos.github.io/blob/master/_data/team_members.yml). Finally, create a readme file in [/team](https://github.com/nuslumos/nuslumos.github.io/tree/master/team) refering to existing files. 
 
+Personal page is required to contain four parts: education，publication，presentation，award. 
+
 # How to add pubilication/news
 
 **Publication**: Add list here [_data/publist.yml](https://github.com/nuslumos/nuslumos.github.io/blob/master/_data/publist.yml). Image should be added to [images/pubpic](https://github.com/nuslumos/nuslumos.github.io/tree/master/images/pubpic). 
