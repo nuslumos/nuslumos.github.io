@@ -1,7 +1,7 @@
 ---
-title: "LUMOS - Publications"
+title: "Sanders Lab - Publications"
 layout: gridlay
-excerpt: "LUMOS -- Publications."
+excerpt: "Sanders Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

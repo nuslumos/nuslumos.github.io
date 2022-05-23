@@ -9,15 +9,15 @@ permalink: /
 # Welcome to Lab for Urban Mobility Systems at NUS
 
 
-<!-- ![image](https://www.nus.edu.sg/images/default-source/identity-images/NUS_logo_full-horizontal.jpg){: style="width: 170px; float: left;margin-right: 20px; border: 10px"} -->
+![image](https://www.nus.edu.sg/images/default-source/identity-images/NUS_logo_full-horizontal.jpg){: style="width: 170px; float: left;margin-right: 20px; border: 10px"}
 
 
 NUS Lab for Urban Mobility Systems aims xxxxx.
 
 There are five main areas of research:
 
-1. **Traffic Management**: (Introduction)
-2. **Shared Mobility**: (Introduction)
+1. **Traffic Management**: xxxx
+2. **Shared Mobility**: xxxxx
 
 
 ### Technologies and methods

@@ -1,7 +1,7 @@
 ---
-title: "LUMOS - Research"
+title: "Sanders Lab - Research"
 layout: textlay
-excerpt: "LUMOS -- Research"
+excerpt: "Sanders Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
@@ -14,7 +14,7 @@ permalink: /research/
 
 ## Traffic Management in Mixed Connected Environment
 <div style="text-align: justify">
-(Sample) Traffic management is a key branch within logistics. It concerns the planning, control and purchasing of transport services needed to physically move vehicles (for example aircraft, road vehicles, rolling stock and watercraft) and freight.
+Connected vehicle
 </div>
 ---- 
 
@@ -22,7 +22,7 @@ permalink: /research/
 
 ## Ridesharing
 <div style="text-align: justify">
-(Sample) Ridesharing is a service that arranges one-way transportation on short notice. The two biggest ridesharing companies are Uber and Lyft. The biggest difference between them is their availability.
+Connected vehicle
 </div>
 ---- 
 
