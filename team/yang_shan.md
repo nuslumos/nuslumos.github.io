@@ -6,7 +6,7 @@ email: yang_shan@u.nus.edu
 twitter:
 github:
 scholar: 
-photo: liuyang.png
+photo: yangshan.png
 ucsf: 
 ---
 
