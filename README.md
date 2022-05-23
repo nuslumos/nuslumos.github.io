@@ -8,18 +8,13 @@ The website is deployed using [GitHub Pages](https://sanderslab.github.io) and t
 
 First, add your picture in [/image/teampic](https://github.com/nuslumos/nuslumos.github.io/tree/master/images/teampic). Then, add your name here [/_data/team_members.yml](https://github.com/nuslumos/nuslumos.github.io/blob/master/_data/team_members.yml). Finnally, create a readme file in [/team](https://github.com/nuslumos/nuslumos.github.io/tree/master/team) refering to existing files. 
 
-# How to add pubilication
+# How to add pubilication/news
 
-Add list here [_data/publist.yml](https://github.com/nuslumos/nuslumos.github.io/blob/master/_data/publist.yml). Image should be added to [images/pubpic](https://github.com/nuslumos/nuslumos.github.io/tree/master/images/pubpic). 
+**Publication**: Add list here [_data/publist.yml](https://github.com/nuslumos/nuslumos.github.io/blob/master/_data/publist.yml). Image should be added to [images/pubpic](https://github.com/nuslumos/nuslumos.github.io/tree/master/images/pubpic). 
+**News**: Add list here [_data/news.yml](https://github.com/nuslumos/nuslumos.github.io/blob/master/_data/news.yml).
 
-# How to change research
+# How to change research/homepage/contact
 
-Edit file [_pages/research.md](https://github.com/nuslumos/nuslumos.github.io/blob/master/_pages/research.md)
-
-# How to change home page
-
-Edit file [_pages/home.md](https://github.com/nuslumos/nuslumos.github.io/blob/master/_pages/home.md)
-
-# How to change contact
-
-Edit file [_pages/contact.md](https://github.com/nuslumos/nuslumos.github.io/blob/master/_pages/contact.md)
+**Research**: [_pages/research.md](https://github.com/nuslumos/nuslumos.github.io/blob/master/_pages/research.md)
+**Home Page**: [_pages/home.md](https://github.com/nuslumos/nuslumos.github.io/blob/master/_pages/home.md)
+**Contact**: [_pages/contact.md](https://github.com/nuslumos/nuslumos.github.io/blob/master/_pages/contact.md)
