@@ -66,3 +66,27 @@ As our transportation system grows in capacity and usage, it becomes increasingl
 - information provision in connected transportation networks.
 
 ----
+
+# Project
+
+## Intelligent Traffic Diffusion Plan Generation, Effective Assessment and Dissemination Strategies
+
+The project is a collaboration between NUS and ST Engineering on an AI research programme in the area of Smart City.  The project aims to use sensor data and V2X technology and develop AI-based solutions, which can reduce and manage traffic congestion.
+
+Studies have shown that traffic incidents are one of the most common causes of traffic congestion. To minimize the impact of traffic incidents on congestions, we aim to develop a framework to dynamically generate effective traffic diffusion plans, as well as dissemination strategies to distribute guidance information to drivers in a timely manner. Intelligent tools such as machine learning, deep reinforcement learning, traffic simulation, and optimization techniques are used in this project.
+
+![Intelligent Traffic Diffusion Plan Generation Fig 1](https://cde.nus.edu.sg/cee/wp-content/uploads/sites/7/2022/03/Intelligent-Traffic-Diffusion-Plan-Generation-Fig-1-1024x511.png)_Fig. 1. Heat map of heavy traffic occurrences from 15 -22 Sept 2020. Data source: LTA Datamall website _
+
+In many cities including Singapore, traffic information such as accident notifications are displayed on electronic signboards situated along the expressways or broadcasted periodically over the radio and social media channels. In line with the Smart Nation initiative, this project implements smart solutions to transform the way such traffic information is generated and disseminated.
+
+![Intelligent Traffic Diffusion Plan Generation Fig 2](https://cde.nus.edu.sg/cee/wp-content/uploads/sites/7/2022/03/Intelligent-Traffic-Diffusion-Plan-Generation-Fig-2.png)
+
+_Fig. 2. Simulating lane-changing behaviour in response to information displayed on an electronic signboard (top left)_
+
+To provide accurate and personalised traffic information to drivers, a response plan system based on reinforcement learning is being developed. With reinforcement learning, optimal dissemination strategies can be employed for different road segments affected by accidents and congestions, such that the total traffic delay across the entire road network is minimized. When an accident occurs, information such as alternative route suggestions can be generated. This information, along with the incident alert, can be sent directly to individual cell phones and in-vehicle units within an affected zone. This ensures that drivers have access to real-time, personalised information. Drivers will be able to avoid congested roads while the overall network congestion is reduced.
+
+![Intelligent Traffic Diffusion Plan Generation Fig 3](https://cde.nus.edu.sg/cee/wp-content/uploads/sites/7/2022/03/Intelligent-Traffic-Diffusion-Plan-Generation-Fig-3.png)
+
+_Fig. 3 Simulating route-changing behaviour as driver, in response to information displayed on an electronic signboard, move to the main arterial road to avoid an accident on the expressway _
+
+With the rise of vehicle-to-everything (V2X) communication technology on the road, drivers do not have to rely on satellite technology to receive timely traffic information. Through inter-vehicle communication or information exchange between roadside infrastructures and vehicles, traffic alerts can be delivered faster in response to real-time information. Therefore, in this project, we will also study the use of V2X to disseminate dynamic messages for the optimal generation of a response plan based on deep reinforcement learning. We believe the intelligent response plan system developed in this project will make a significant improvement to the Intelligent Transportation System of Singapore to handle traffic incidents.
