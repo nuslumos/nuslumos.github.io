@@ -6,7 +6,7 @@ The website is deployed using [GitHub Pages](https://sanderslab.github.io) and t
 
 # How to add team member
 
-First, add your picture to [/image/teampic](https://github.com/nuslumos/nuslumos.github.io/tree/master/images/teampic). Then, add your name here [/_data/team_members.yml](https://github.com/nuslumos/nuslumos.github.io/blob/master/_data/team_members.yml). Finnally, create a readme file in [/team](https://github.com/nuslumos/nuslumos.github.io/tree/master/team) refering to existing files. 
+First, add your picture to [/image/teampic](https://github.com/nuslumos/nuslumos.github.io/tree/master/images/teampic). Then, add your name here [/_data/team_members.yml](https://github.com/nuslumos/nuslumos.github.io/blob/master/_data/team_members.yml). Finally, create a readme file in [/team](https://github.com/nuslumos/nuslumos.github.io/tree/master/team) refering to existing files. 
 
 # How to add pubilication/news
 
