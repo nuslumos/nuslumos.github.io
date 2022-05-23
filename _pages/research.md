@@ -61,7 +61,8 @@ Drivers will be able to avoid congested roads while the overall network congesti
 <div style="text-align:justify">
 As our transportation system grows in capacity and usage, it becomes increasingly important to manage traffic congestion and promote smart and sustainable technological development. Built upon prior research findings and unique expertise, the lab will continue to pursue its goals and improve the transportation system performance in terms of planning, design, operations, and management. Key lines of future research are
 </div>
-<li>future urban mobility systems</li>
-<li>smart infrastructure and data-driven congestion management</li>
-<li>information provision in connected transportation networks.</li>
+- future urban mobility systems
+- smart infrastructure and data-driven congestion management
+- information provision in connected transportation networks.
+
 ----

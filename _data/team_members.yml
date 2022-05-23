@@ -15,12 +15,19 @@
   info: PhD Student
   url: yang_shan
   group: 2
+  
+- name: Gu Ruixue
+  photo: guruixue.jpg
+  info: PhD Candidate
+  url: gu_ruixue
+  group: 2
       
 - name: Liu Jialin
   email: e0943032@u.nus.edu
   school: Beijing Jiaotong University
   group: 3
-
+  
+  
 - name: Hu Lu
   info: Research Fellow
   url: https://faculty.swjtu.edu.cn/hulu/zh_CN/tdcy/139449/content/1402.htm
@@ -41,5 +48,5 @@
   group: 4
   year: 2015-2020
   current: Harbin Institute of Technology
-  
+
  
