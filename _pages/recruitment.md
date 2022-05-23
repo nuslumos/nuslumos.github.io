@@ -1,5 +1,5 @@
 ---
-title: "Sanders Lab - Recruitment"
+title: "LUMOS - Recruitment"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

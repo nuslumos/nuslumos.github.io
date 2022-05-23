@@ -1,5 +1,5 @@
 ---
-title: "LUMOS Lab - Contact"
+title: "LUMOS - Contact"
 layout: textlay
 excerpt: "Contact."
 sitemap: false

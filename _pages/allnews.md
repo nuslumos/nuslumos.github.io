@@ -1,7 +1,7 @@
 ---
-title: "Sanders Lab - News"
+title: "LUMOS - News"
 layout: textlay
-excerpt: "Sanders Lab at UCSF."
+excerpt: "LUMOS at NUS."
 sitemap: false
 permalink: /allnews.html
 ---
