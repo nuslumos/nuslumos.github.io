@@ -15,6 +15,12 @@
   info: PhD Student
   url: yang_shan
   group: 2
+  
+- name: Gu Ruixue
+  photo: guruixue.jpg
+  info: PhD Candidate
+  url: gu_ruixue
+  group: 2
       
 - name: Liu Jialin
   photo: liujialin.jpg
@@ -22,11 +28,6 @@
   url: liu_jialin
   group: 3
   
-- name: Gu Ruixue
-  photo: guruixue.jpg
-  info: PhD Candidate
-  url: gu_ruixue
-  group: 4
   
 - name: Hu Lu
   info: Research Fellow
