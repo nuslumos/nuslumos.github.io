@@ -11,10 +11,13 @@ First, add your picture in [/image/teampic](https://github.com/nuslumos/nuslumos
 # How to add pubilication/news
 
 **Publication**: Add list here [_data/publist.yml](https://github.com/nuslumos/nuslumos.github.io/blob/master/_data/publist.yml). Image should be added to [images/pubpic](https://github.com/nuslumos/nuslumos.github.io/tree/master/images/pubpic). 
+
 **News**: Add list here [_data/news.yml](https://github.com/nuslumos/nuslumos.github.io/blob/master/_data/news.yml).
 
 # How to change research/homepage/contact
 
 **Research**: [_pages/research.md](https://github.com/nuslumos/nuslumos.github.io/blob/master/_pages/research.md)
+
 **Home Page**: [_pages/home.md](https://github.com/nuslumos/nuslumos.github.io/blob/master/_pages/home.md)
+
 **Contact**: [_pages/contact.md](https://github.com/nuslumos/nuslumos.github.io/blob/master/_pages/contact.md)
