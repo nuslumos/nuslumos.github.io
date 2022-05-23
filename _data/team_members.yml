@@ -17,9 +17,8 @@
   group: 2
       
 - name: Liu Jialin
-  photo: liujialin.jpg
-  info: Exchange Student
-  url: liu_jialin
+  email: e0943032@u.nus.edu
+  school: Beijing Jiaotong University
   group: 3
 
 - name: Hu Lu
