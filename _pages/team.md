@@ -119,7 +119,6 @@ permalink: /team/
 <i class="alumni2">{{ member.school }} ({{ member.school }}</i>)
 <i class="alumni2">email: {{ member.email }}</i> {% if member.extlink %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.extlink }}">(Link)</a>
 {% endif %}
-{% endif %}
 
 {% endif %}
 {% endfor %}
