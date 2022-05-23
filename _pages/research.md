@@ -14,7 +14,7 @@ permalink: /research/
 
 ## Traffic Management in Mixed Connected Environment
 <div style="text-align: justify">
-(Sample) Traffic management is a key branch within logistics. It concerns the planning, control and purchasing of transport services needed to physically move vehicles (for example aircraft, road vehicles, rolling stock and watercraft) and freight.
+(Sample) Traffic management is a key branch within logistics. It concerns the planning, control and purchasing of transport services needed to physically move vehicles (for example aircraft, road vehicles, rolling stock and watercraft) and freight. A connected car is a car that can communicate bidirectionally with other systems outside of the car (LAN). This allows the car to share internet access, and hence data, with other devices both inside and outside the vehicle.
 </div>
 ---- 
 
