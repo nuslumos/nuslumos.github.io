@@ -4,11 +4,56 @@
   url: liu_yang
   group: 0
 
+
 - name: Yang Zhenyu
   photo: yangzhenyu.png
   info: Research Fellow
   url: yang_zhenyu
   group: 1
+
+- name: Xie Tingting
+  photo: none.png
+  info: Research Fellow
+  url: xie_tingting
+  group: 1
+
+- name: Tang Xindi
+  photo: none.png
+  info: Research Fellow
+  url: tang_xindi
+  group: 1
+
+- name: Chen Enhui
+  photo: none.png
+  info: Research Fellow
+  url: chen_enhui
+  group: 1
+
+- name: Lai Xiongfei
+  photo: laixiongfei.png
+  info: Research Fellow
+  url: lai_xiongfei
+  group: 1
+
+
+
+- name: Xie Jiaohong
+  photo: none.png
+  info: PhD Candidate
+  url: xie_jiaohong
+  group: 2
+
+- name: Zhu Dan
+  photo: none.png
+  info: PhD Candidate
+  url: zhu_dan
+  group: 2
+
+- name: Gu Ruixue
+  photo: guruixue.jpg
+  info: PhD Candidate
+  url: gu_ruixue
+  group: 2
 
 - name: Yang Shan
   photo: yangshan.png
@@ -16,17 +61,21 @@
   url: yang_shan
   group: 2
   
-- name: Gu Ruixue
-  photo: guruixue.jpg
-  info: PhD Candidate
-  url: gu_ruixue
+- name: Zhu Xiaolei
+  photo: none.png
+  info: PhD Student
+  url: zhu_xiaolei
   group: 2
+  
+
+
       
 - name: Liu Jialin
   email: e0943032@u.nus.edu
   school: Beijing Jiaotong University
   group: 3
-  
+
+
   
 - name: Hu Lu
   info: Research Fellow
