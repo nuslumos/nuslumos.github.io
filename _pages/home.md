@@ -12,16 +12,13 @@ permalink: /
 <!-- ![image](https://www.nus.edu.sg/images/default-source/identity-images/NUS_logo_full-horizontal.jpg){: style="width: 170px; float: left;margin-right: 20px; border: 10px"} -->
 
 
-NUS Lab for Urban Mobility Systems aims xxxxx.
+NUS Lab for Urban Mobility Systems aims at (introduction).
 
-There are five main areas of research:
+There are serval main areas of research:
 
-1. **Traffic Management**: (Introduction)
-2. **Shared Mobility**: (Introduction)
+1. **Traffic Management**: (Sample) raffic management is a key branch within logistics. It concerns the planning, control and purchasing of transport services needed to physically move vehicles (for example aircraft, road vehicles, rolling stock and watercraft) and freight.
+2. **Shared Mobility**: (Sample) Shared transportation has grown tremendously since we began in 2014 as a result of renewed interest in urbanism and growing environmental, energy, and economic concerns intensifying the need for sustainable alternatives. Simultaneously, advances in electronic and wireless technologies made sharing assets—and data—easier and more efficient. 
 
-
-### Technologies and methods
-xxxxxx
 
 ### Collaborators
 We work with closely with numerous collaborators, including [Prof. Meng Qiang](https://cde.nus.edu.sg/cee/staff/meng-qiang/) in NUS, [Prof. Nie Yu](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/nie-yu.html) in Northwestern, and xxxx.
