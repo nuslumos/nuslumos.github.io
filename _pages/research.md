@@ -10,7 +10,7 @@ permalink: /research/
 
 ---
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/cv.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/sharing.png){: style="width: 500px; float: left;margin-right: 30px; border: 10px"}
 
 ## Shared Mobility System Design and Operations
 <div style="text-align: justify">
@@ -25,23 +25,35 @@ At the long-run infrastructure planning and design level, we focus on the design
 ---- 
 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/ridesharing.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/respic/congestion.png){: style="width: 500px; float: left;margin-right: 30px; border: 10px"}
 
-## Understanding the role of ASD genes
+## Smart Congestion Management and Information Provision
 <div style="text-align: justify">
-The genes discovered through exome sequencing provide an entree into the biology of ASD, hopefully as a foundation for developing theraputics. The Sanders Lab takes two research approaches: 1) To consider ASD-associated genes en masse to look for patterns of convergence [State MW, Šestan N Science 2012](https://www.ncbi.nlm.nih.gov/pubmed/22984058); 2) To investigate the genes with the strongest evidence of ASD association, such as SCN2A in depth.
-
-Through the first approach, the Sanders Lab has helped delineate two major functional roles of ASD-associated genes: 1) gene expression regulators (GER), i.e. genes that influence the expression of other genes such as CHD8 and ARID1B; and 2) neuronal communication, such as SCN2A and NRXN1, see [De Rubeis et al. Nature 2014](https://www.ncbi.nlm.nih.gov/pubmed/25363760) and [Sanders et al. Neuron 2015](https://www.ncbi.nlm.nih.gov/pubmed/26402605). Co-expression analysis showed convergence across multiple ASD-associated genes during mid-fetal development in the prefrontal cortex and this result was driven by layer 5/6 glutamatergic neurons ([Willsey et al. Cell 2015](https://www.ncbi.nlm.nih.gov/pubmed/24267886)). Similar patterns have been identified through other systems-based approaches, reviewed in [Sanders Curr Opin Genet Dev 2015](https://www.ncbi.nlm.nih.gov/pubmed/26547130).
-
-The second approach has focused mainly on the gene SCN2A and is performed in collaboration with the [Bender lab at UCSF](https://benderlab.ucsf.edu/research-projects), the [SCN2A family group](http://www.scn2a.org), and [Simons VIP](https://simonsvipconnect.org). By integrating genetic data across multiple cases and cohorts with structural data on the NaV1.2 protein encoded by SCN2A and electrophysiology, we demonstrated that loss-of-function mutations of SCN2A lead to ASD and developmental delay, while gain-of-function mutations lead to epileptic encephalopathy ([Ben-Shalom et al. 2017](https://www.ncbi.nlm.nih.gov/pubmed/28256214)). 
-
+The past decades have witnessed the rapid development of information technologies in transportation systems. The dissemination of real-time travel information may guide travelers to choose modes and routes and schedule their trips to reduce travel times. We study information provision and develop modeling frameworks to predict the impacts of pretrip information and en-route information.
 </div>
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/sharing.png){: style="width: 300px; float: left;margin-right: 30px; border: 10px"}
-
-## Copy number variants (CNVs) in autism spectrum 
 <div style="text-align: justify">
-My early publications describe the development of a novel approach to detecting de novo CNVs in Illumina SNP genotyping data and applying this to Autism Spectrum Disorder (ASD) families from the Simons Simplex Collection (SSC). While de novo CNVs had previously been associated with ASD (Sebat et al. 2007), our analysis of this cohort of 1,124 families, including unaffected siblings, allowed us to clarify the genomic architecture. In turn, this allowed us to develop a statistical approach to evaluating whether specific genomic loci are associated with ASD; four de novo duplications at 7q11.23 met these criteria for ASD association with reduced sociability and, notably, deletions at the same locus are associated with increased social behavior in William’s Syndrome. We have recently (2015) published a CNV analysis of all 2,591 families in the SSC. By integrating CNV and exome data we showed that small de novo deletions contain one critical ASD gene, while large de novo CNVs contain multiple ASD risk genes. We use this finding to identify six ASD risk CNV loci and 65 ASD risk genes. I led the analysis and write up of both projects including the development of novel approaches to CNV detection. Autism Speaks cited our 2011 CNV analysis as one of the top Ten Autism Research Achievements. 
+Pre-trip information provision has been widely recognized as an effective instrument to relieve road congestion. We examine the implications of pretrip information on route choices, departure time choices, individual and social welfare, and congestion. We found that an information paradox may occur: additional information may not necessarily reduce congestion. In some instances, even though free information would deteriorate the system performance, a proper design of congestion pricing and information price could relieve road congestion. Considering the heterogeneous travel information provided by different information providers (IPs), we further examine the strategic interactions between IPs and users’ route choices using a “leader–follower” game. IPs (leaders) compete or cooperate to determine the optimal set of information to maximize their profits, and travelers (followers) choose their routes based on the information set they obtain. Our results show that IPs’ cooperation can reduce congestion and make the IPs better off.
+</div>
+<div style="text-align: justify">
+Recognizing that connected autonomous vehicle (CAV) technology will bring new opportunities to improve smart congestion management via information provision, we develop modeling frameworks to consider CAV technology. We consider a more general situation, in which travelers receive en-route information in real time, so that the negative impact of uncertainties can be further reduced. As illustrated in Figure 3, we consider a mixed-traffic flow with both connected vehicles and regular vehicles (RVs). We also propose modeling frameworks to explicitly describe the different characteristics of CAVs and RVs in the information acquisition process and predict the travelers’ heterogeneous routing and information decisions due to their technological differences. Furthermore, we investigate the impacts of information quality and CAV automation levels on the CAV market penetration and spatial distribution of congestion. It is found that the travel time saving from CAV technology and high-quality information is more pronounced for long trips and congested networks.
+</div>
+<div style="text-align: justify">
+Our studies in information provision highlight the importance of adequately designing an information scheme and integrating it with existing congestion management instruments, such as congestion pricing. Providing perfect and full information to travelers may not always reduce congestion. To strategically design information provision to mitigate congestion, travelers’ responses to information must be captured accurately. Our modeling frameworks serve as the fundamental basis. Experiments demonstrate that information can generally reduce congestion if the information is disseminated to the proper locations and travelers at the appropriate time. However, congestion cannot be minimized by providing traffic information. Joint implementation of an information and congestion pricing scheme can achieve this goal. A network-wide information provision and congestion pricing scheme is desirable to optimize system-wide congestion under travel time uncertainty.
+</div>
+-----
+
+![]({{ site.url }}{{ site.baseurl }}/images/respic/lane.png){: style="width: 500px; float: left;margin-right: 30px; border: 10px"}
+
+## Data-Driven Intelligent Traffic Diffusion Plan Generation 
+<div style="text-align: justify">
+Beginning in May 2020, we have been collaborating with ST Engineering on an artificial intelligence research program with the goal of building a people-centric, smart future for Singapore. Our project, “Intelligent Traffic Diffusion Plan Generation, Effective Assessment and Dissemination Strategies, aims to develop a framework to dynamically generate effective traffic diffusion plans as well as dissemination strategies to distribute guidance information to drivers in a timely manner. Intelligent tools, such as machine learning, deep reinforcement learning, traffic simulation, and optimization techniques, are used in this project.
+</div>
+<div style="text-align: justify">
+In many cities, including Singapore, traffic information, such as accident notifications, is displayed on electronic signboards situated along the expressways or broadcast periodically over the radio and social media channels (Figure 4). In line with the Smart Nation initiative, this project implements smart solutions to transform the way such traffic information is generated and disseminated.
+</div>
+<div style="text-align: justify">
+To provide accurate and personalized traffic information to drivers, a response plan system based on deep reinforcement learning is being developed. With reinforcement learning, optimal dissemination strategies can be employed for different road segments affected by accidents and congestions, such that the total traffic delay across the entire road network is minimized. When an accident occurs, information, such as alternative route suggestions, can be generated. This information, along with the incident alert, can be sent directly to individual cell phones and in-vehicle units within an affected zone. This ensures that drivers have access to real-time, personalized information.
+Drivers will be able to avoid congested roads while the overall network congestion is reduced. The intelligent response plan system developed in this project is a significant improvement over the traditional method.
 </div>
 ---
 
