@@ -16,8 +16,8 @@ NUS Lab for Urban Mobility Systems aims xxxxx.
 
 There are five main areas of research:
 
-1. **Traffic Management**: xxxx
-2. **Shared Mobility**: xxxxx
+1. **Traffic Management**: (Introduction)
+2. **Shared Mobility**: (Introduction)
 
 
 ### Technologies and methods
