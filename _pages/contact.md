@@ -8,7 +8,7 @@ permalink: /contact/
 
 # Open positions
 
-Thank you for your interest in joining the Sanders Lab.
+Thank you for your interest in joining the Lab for Urban Mobility Systems.
 
 ## Graduate students
 
