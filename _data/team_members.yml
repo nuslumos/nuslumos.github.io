@@ -1,13 +1,13 @@
 - name: Liu Yang
   photo: liuyang.png
-  info: Associate Professor
-  url: stephansanders
+  info: Assistant Professor
+  url: liu_yang
   group: 0
 
 - name: Yang Zhenyu
   photo: yangzhenyu.png
   info: Research Fellow
-  url: nickpage
+  url: yang_zhenyu
   group: 1
 
 - name: Yang Shan
