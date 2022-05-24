@@ -133,10 +133,10 @@ permalink: /team/
 {% for member in site.data.team_members %}
 {% if member.group == 4 %}
 
-<i class="alumni1">{{ member.name }}, {{ member.year }}</i><br>
-<i class="alumni1">{{ member.school }}</i><br>
-<i class="alumni1">Thesis: {{ member.thesis }}</i><br>
-<i class="alumni1">Job Placement: {{ member.job }} </i> {% if member.url %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.url }}">(Link)</a> {% endif %}
+<i class="alumni1" style="font-weight:bold">{{ member.name }}, {{ member.year }}</i><br>
+<i class="alumni2">{{ member.school }}</i><br>
+<i class="alumni2">Thesis: {{ member.thesis }}</i><br>
+<i class="alumni2">Job Placement: {{ member.job }} </i> {% if member.url %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.url }}">(Link)</a> {% endif %}
 
 {% endif %}
 {% endfor %}
@@ -150,8 +150,8 @@ permalink: /team/
 {% for member in site.data.team_members %}
 {% if member.group == 5 %}
 
-<i class="alumni1">{{ member.name }}</i><br>
-<i class="alumni1">Job Placement: {{ member.job }}</i> {% if member.url %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.url }}">(Link)</a> {% endif %}
+<i class="alumni1" style="font-weight:bold">{{ member.name }}</i><br>
+<i class="alumni2">Job Placement: {{ member.job }}</i> {% if member.url %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.url }}">(Link)</a> {% endif %}
 
 {% endif %}
 {% endfor %}
