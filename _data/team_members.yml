@@ -81,6 +81,25 @@
   school: Beijing Jiaotong University
   group: 3
 
+- name: Zhang Si
+  school: Beijing Jiaotong University
+  group: 3
+
+- name: Zhang Ping
+  school: Beijing Jiaotong University
+  group: 3
+
+- name: Wang Siyang
+  school: Beihang University
+  group: 3
+  
+- name: Li Weimeng
+  school: Beijing Jiaotong University
+  group: 3
+
+- name: Ye Shi
+  school: 
+  group: 3
 
 
 - name: Li Yuanyuan
@@ -106,15 +125,44 @@
   job: Postdoctoral Fellow, NUS
 
 
-
 - name: Hu Lu
   url: https://faculty.swjtu.edu.cn/hulu/zh_CN/tdcy/139449/content/1402.htm
   group: 5
-  job: Associate Professor, Southwest Jiaotong University
+  job: Associate Professor, School of Transportation and Logistics, Southwest Jiaotong University
+
+- name: Yu Guodong(co-supervise with William Haskell)
+  url: https://www.glxy.sdu.edu.cn/info/1131/3476.htm
+  group: 5
+  job: Associate Professor, School of Management, Shangdong University
+
+- name: Liu Peng
+  url: http://sem.buaa.edu.cn/szdw/xwyyzglx/lp/jbxx1.htm
+  group: 5
+  job: Associate Professor, School of Economics and Management, Beihang University
+
+- name: Zhang Dong (co-supervise with He Shuangchi)
+  group: 5
+  job: Alibaba DAMO Academy
 
 - name: Chen Yao
   url: https://faculty.bjtu.edu.cn/trans/9589.html
   group: 5
-  job: Assistant Professor, Beijing Jiaotong University
+  job: Assistant Professor, School of Traffic and Transportation, Beijing Jiaotong University
+
+- name: Li Tongfei
+  url: https://yanzhao.bjut.edu.cn/info/1209/3950.html
+  group: 5
+  job: Associate Professor, School of Traffic and Transportation, Beijing University of Technology
+
+- name: Zhao Hui
+  group: 5
+  job: Research Scientist, A*Star
+
+- name: Li Ruijie
+  url: https://ctten.swjtu.edu.cn/info/1044/6734.htm
+  group: 5
+  job: Assistant Professor, School of Transportation and Logistics, Southwest Jiaotong University
+
+
 
  
