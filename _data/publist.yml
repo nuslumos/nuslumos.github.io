@@ -17,3 +17,114 @@
     display: He et al. Transportation Science (2020)
   highlight: 1
   news2: 
+
+- title: "Shared autonomous vehicle management considering competition with human-driven private vehicles"
+  image: guo_2022.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0968090X21005295
+    display: Guo et al. Transportation Research Part C (2022)
+  highlight: 1
+  news2: 
+
+- title: "Information Provision and Congestion Pricing in Risky Road Networks with Heterogeneous Travelers"
+  image: liu_2021.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0968090X21001054
+    display: Li et al. Transportation Research Part C (2021)
+  highlight: 1
+  news2: 
+
+
+- title: "The static bike rebalancing problem with optimal user incentives"
+  image: li_2021_bike.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1366554520308589
+    display: Li et al. Transportation Research Part E (2021)
+  highlight: 1
+  news2: 
+
+- title: "Optimizing en-route matching in a ride-hailing system with boundedly rational users"
+  image: li_2021_ride.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S1366554521001022
+    display: Li et al. Transportation Research Part E (2021)
+  highlight: 1
+  news2: 
+
+- title: "A path-based equilibrium model for ridesharing matching"
+  image: li_2020.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0191261520303234
+    display: Li et al. Transportation Research Part B (2020)
+  highlight: 1
+  news2: 
+
+- title: "Vehicle Assignment and Relays for One-Way Electric Car-Sharing Systems"
+  image: zhang_2019.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0191261517311116
+    display: Zhang et al. Transportation Research Part B (2019)
+  highlight: 1
+  news2: 
+
+- title: "Departure Time and Route Choices in Bottleneck Equilibrium under Risk and Ambiguity"
+  image: liu_2018.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0191261517307385
+    display: Liu et al. Transportation Research Part B (2018)
+  highlight: 1
+  news2: 
+  
+- title: "Pricing Scheme Design of Ridesharing Program in Morning Commute Problem"
+  image: liu_2017_partc.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0968090X17300608
+    display: Liu et al. Transportation Research Part C (2017)
+  highlight: 1
+  news2: 
+
+- title: "Joint design of parking capacities and fleet size for one-way station-based carsharing systems with road congestion constraints"
+  image: hu_2016.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0191261516301072
+    display: Hu et al. Transportation Research Part B (2016)
+  highlight: 1
+  news2: 
+
+- title: "A semi-analytical approach for solving bottleneck model with general user heterogeneity"
+  image: liu_2015.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S019126151400174X
+    display: Liu et al. Transportation Research Part B (2015)
+  highlight: 1
+  news2: 
+
+- title: "Morning commute problem considering route choice, user heterogeneity and alternative system optima"
+  image: liu_2011.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0191261510001360
+    display: Liu et al. Transportation Research Part B (2011)
+  highlight: 1
+  news2: 
