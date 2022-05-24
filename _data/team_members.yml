@@ -82,26 +82,23 @@
   group: 3
 
 
-  
-- name: Hu Lu
-  info: Research Fellow
-  url: https://faculty.swjtu.edu.cn/hulu/zh_CN/tdcy/139449/content/1402.htm
-  group: 4
-  year: xxxx-xxxx
-  current: Southwest Jiaotong University
-
-- name: Chen Yao
-  info: Research Fellow
-  url: https://faculty.bjtu.edu.cn/trans/9589.html
-  group: 4
-  year: xxxx-xxxx
-  current: Beijing Jiaotong University
 
 - name: Li Yuanyuan
-  info: PhD/Research Fellow
+  School: B.S from HIT, M.S. from SEU. 
+  Thesis: IS
+  year: 2015-2020
   url: http://homepage.hit.edu.cn/liyuanyuan
   group: 4
-  year: 2015-2020
-  current: Harbin Institute of Technology
+  job: Assistant Professor, Harbin Institute of Technology
+
+- name: Hu Lu
+  url: https://faculty.swjtu.edu.cn/hulu/zh_CN/tdcy/139449/content/1402.htm
+  group: 5
+  job: Associate Professor, Southwest Jiaotong University
+
+- name: Chen Yao
+  url: https://faculty.bjtu.edu.cn/trans/9589.html
+  group: 5
+  job: Assistant Professor, Beijing Jiaotong University
 
  

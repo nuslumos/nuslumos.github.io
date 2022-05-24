@@ -126,14 +126,14 @@ permalink: /team/
 
 ## Alumni
 
+### Ph.D Student
+
 {% for member in site.data.team_members %}
 {% if member.group == 4 %}
 
-<i class="alumni1">{{ member.name }}</i><br>
-<i class="alumni2">{{ member.info }} ({{ member.year }}</i>) {% if member.current %} 
-<i class="alumni2">Current: {{ member.current }}</i> {% if member.extlink %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.extlink }}">(Link)</a>
-{% endif %}
-{% endif %}
+<i class="alumni1">{{ member.name }}, {{ member.year }}</i><br>
+<i class="alumni1">Thesis: {{ member.thesis }}</i><br>
+<i class="alumni2">Job Placement: {{ member.job }} (</i>) {% if member.url %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.url }}">(Link)</a> {% endif %}
 
 {% endif %}
 {% endfor %}
@@ -142,6 +142,20 @@ permalink: /team/
 
 ---
 
+### Postdoctoral Research Fellows
+
+{% for member in site.data.team_members %}
+{% if member.group == 5 %}
+
+<i class="alumni1">{{ member.name }}</i><br>
+<i class="alumni1">Job Placement: {{ member.job }}</i> {% if member.url %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.url }}">(Link)</a> {% endif %}
+
+{% endif %}
+{% endfor %}
+
+
+
+---
 
 
 
