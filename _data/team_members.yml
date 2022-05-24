@@ -40,36 +40,48 @@
 - name: Guo Hao
   photo: guohao.jpg
   info: PhD Candidate
+  year: 2017
+  thesis: Integrated design and operations for shared autonomous vehicle systems
   url: guo_hao
   group: 2
 
 - name: Xie Jiaohong
   photo: xiejiaohong.jpeg
   info: PhD Candidate
+  year: 2018
+  thesis: Mixed autonomy fleet management of sharing mobility 
   url: xie_jiaohong
   group: 2
 
 - name: Zhu Dan
   photo: none.png
   info: PhD Candidate
+  year: 2019
+  thesis: Design Autonomous Corridors in Road Networks
   url: zhu_dan
   group: 2
 
 - name: Gu Ruixue
   photo: guruixue.jpg
   info: PhD Candidate
+  year: 2020
+  thesis: Optimization of truck-drone delivery problems
   url: gu_ruixue
   group: 2
 
 - name: Yang Shan
   photo: yangshan.png
   info: PhD Student
+  year: 2022
+  thesis: Traffic information design via deep reinforcement learning approach
   url: yang_shan
   group: 2
   
 - name: Zhu Xiaolei
   photo: zhuxiaolei.JPG
   info: PhD Student
+  year: 2022
+  thesis: Data-driven transportation system planning
   url: zhu_xiaolei
   group: 2
   

@@ -93,6 +93,8 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
   <i>{{ member.info }}</i>
+  <i>{{ member.year }}</i>
+  <i>{{ member.thesis }}</i>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
