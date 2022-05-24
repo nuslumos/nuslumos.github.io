@@ -92,9 +92,9 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
-  <i>{{ member.info }}</i>
-  <i>{{ member.year }}</i>
-  <i>{{ member.thesis }}</i>
+  <i>{{ member.info }}</i> </br>
+  <i>Year: {{ member.year }}</i> </br>
+  <i>Thesis: {{ member.thesis }}</i> </br>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -118,8 +118,8 @@ permalink: /team/
 {% if member.group == 3 %}
 
 <i class="alumni1">{{ member.name }}</i><br>
-<i class="alumni2">{{ member.school }}</i><br>
-<i class="alumni2">email: {{ member.email }}</i> {% if member.extlink %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.extlink }}">(Link)</a> {% endif %}
+<i class="alumni1">{{ member.school }}</i><br>
+<i class="alumni1">email: {{ member.email }}</i> {% if member.extlink %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.extlink }}">(Link)</a> {% endif %}
 
 {% endif %}
 {% endfor %}
@@ -134,9 +134,9 @@ permalink: /team/
 {% if member.group == 4 %}
 
 <i class="alumni1" style="font-weight:bold">{{ member.name }}, {{ member.year }}</i><br>
-<i class="alumni2">{{ member.school }}</i><br>
-<i class="alumni2">Thesis: {{ member.thesis }}</i><br>
-<i class="alumni2">Job Placement: {{ member.job }} </i> {% if member.url %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.url }}">(Link)</a> {% endif %}
+<i class="alumni1">{{ member.school }}</i><br>
+<i class="alumni1"><b>Thesis</b>: {{ member.thesis }}</i><br>
+<i class="alumni1"><b>Job Placement</b>: {{ member.job }} </i> {% if member.url %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.url }}">(Link)</a> {% endif %}
 
 {% endif %}
 {% endfor %}
@@ -151,7 +151,7 @@ permalink: /team/
 {% if member.group == 5 %}
 
 <i class="alumni1" style="font-weight:bold">{{ member.name }}</i><br>
-<i class="alumni2">Job Placement: {{ member.job }}</i> {% if member.url %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.url }}">(Link)</a> {% endif %}
+<i class="alumni1"><b>Job Placement</b>: {{ member.job }}</i> {% if member.url %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.url }}">(Link)</a> {% endif %}
 
 {% endif %}
 {% endfor %}
