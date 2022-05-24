@@ -84,23 +84,23 @@
 
 
 - name: Li Yuanyuan
-  School: B.S. from HIT, M.S. from Southeast & Monash Joint Graduate School
-  Thesis: Matching and pricing for shared mobility programs in road networks
+  school: B.S. from HIT, M.S. from Southeast & Monash Joint Graduate School
+  thesis: Matching and pricing for shared mobility programs in road networks
   year: 2015-2020
   url: http://homepage.hit.edu.cn/liyuanyuan
   group: 4
   job: Assistant Professor, School of Economics and Management, Harbin Institute of Technology
 
 - name: Yang Zhenyu
-  School: B.S. from HUST, M.S. from Beijing Jiaotong University
-  Thesis: Congestion management and information provision in risky and connected transportation networks
+  school: B.S. from HUST, M.S. from Beijing Jiaotong University
+  thesis: Congestion management and information provision in risky and connected transportation networks
   year: 2017-2021
   group: 4
   job: Postdoctoral Fellow, EPFL
 
 - name: Xie Tingting
-  School: B.S. from Nanjing University
-  Thesis: Heterogeneous information provision in urban transportation networks
+  school: B.S. from Nanjing University
+  thesis: Heterogeneous information provision in urban transportation networks
   year: 2017-2022
   group: 4
   job: Postdoctoral Fellow, NUS
