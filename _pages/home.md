@@ -19,6 +19,7 @@ The lab’s primary interest is to better model and predict the behavior of tran
 2. **Smart Congestion Management and Information Provision**: The past decades have witnessed the rapid development of information technologies in transportation systems. The dissemination of real-time travel information may guide travelers to choose modes and routes and schedule their trips to reduce travel times. We study information provision and develop modeling frameworks to predict the impacts of pretrip information and en-route information.
 3. **Data-Driven Intelligent Traffic Diffusion Plan Generation**: Beginning in May 2020, we have been collaborating with ST Engineering on an artificial intelligence research program with the goal of building a people-centric, smart future for Singapore. Our project, “Intelligent Traffic Diffusion Plan Generation, Effective Assessment and Dissemination Strategies, aims to develop a framework to dynamically generate effective traffic diffusion plans as well as dissemination strategies to distribute guidance information to drivers in a timely manner. Intelligent tools, such as machine learning, deep reinforcement learning, traffic simulation, and optimization techniques, are used in this project.
 
+test
 ### Joining Sanders Lab
 If you are interested in joining please go to the [about](about) page. 
 
