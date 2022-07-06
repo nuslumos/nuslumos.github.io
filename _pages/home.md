@@ -17,8 +17,8 @@ If you are interested in joining please go to the [about](about) page.
 
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIMH.png" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SFARI.png" style="width: 200px"> -->
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_1" style="width: 500px"> 
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_2" style="width: 500px"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_1.jpg" style="width: 500px"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_2.jpg" style="width: 500px"> 
 
 
 
