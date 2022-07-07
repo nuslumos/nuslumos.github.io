@@ -1,12 +1,12 @@
 ---
 layout: member
-title: Gu Ruixue
+title: Zhu Dan (朱丹)
 position: PhD Candidate
-email: e0251049@u.nus.edu
-twitter:
+email: zhudan@u.nus.edu
+twitter: 
 github:
 scholar: 
-photo: guruixue.jpg
+photo: zhudan.png
 ucsf: 
 ---
 

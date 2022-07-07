@@ -1,15 +1,13 @@
 ---
 layout: member
-title: Yang Zhenyu
+title: Dr. Tang Xindi (唐昕迪)
 position: Research Fellow
-email: xxx@u.nus.edu
+email: txd@nus.edu.sg
 twitter:
 github:
 scholar: 
-photo: yangzhenyu.png
+photo: tang_xindi.png
 ucsf: 
 ---
 
 ### Overview
-
-### Education
