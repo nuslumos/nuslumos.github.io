@@ -20,7 +20,7 @@ Wang, J., Wang, X.L., **Yang, S.**, Yang, H., Zhang, X.N. and Gao, Z.Y., 2021. [
 
 #### Working Paper
 * Real time adaptive routing for connected vehicles based on information sharing: A multi-agent deep reinforcement learning framework (with Liu, Y.)
-* Designing a Forward-Looking Matching Policy in Dynamic Taxi-Pooling Services: A Systematic Approach (with Wang, X.L., Feng, Y.)
+* Designing a Forward-Looking Matching Policy in Dynamic Taxi-Pooling Services: A Systematic Approach (with Feng, Y., Wang, X.L.)
 
 ### Honors
 * NUS Research Scholarship, 2022
