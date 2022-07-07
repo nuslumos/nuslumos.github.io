@@ -16,17 +16,21 @@ We focus on future urban mobility and transport systems, which cover the areas o
 
 LUMOS aims to disseminate new insights, knowledge, and tools to academia, industry, government, and research organizations worldwide.
 
-### Joining LUMOS
-If you are interested in joining please go to the [joing](joing) page. 
-
-<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIMH.png" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SFARI.png" style="width: 200px"> -->
-
-<br>
-
-<!-- Items -->
 <div class="carousel-inner" markdown="0">
     <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_1.jpg" alt="Slide 1" />
+        <img src="{{ site.url }}{{ site.baseurl }}/images/home/mobility-sharing.png" alt="Slide 1" />
+    </div>
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/li_2021_ride.png" alt="Slide 2" />
+    </div>
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/liu_2015.png" alt="Slide 2" />
+    </div>
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/xjh_2022.png" alt="Slide 2" />
+    </div>
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_1.jpg" alt="Slide 2" />
     </div>
     <!-- <div class="item">
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
@@ -44,6 +48,10 @@ If you are interested in joining please go to the [joing](joing) page.
         <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/cake_web.jpg" alt="Slide 6" />
     </div> -->
 </div>
+
+
+### Joining LUMOS
+We are currently looking for research fellow. If you are interested in joining please go to the [joing](joing) page. 
 
 
 
