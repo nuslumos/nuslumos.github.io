@@ -52,6 +52,40 @@ permalink: /publications/
 
 ## Journal
 
+<ul>
+    <li>Chen, Y. and Liu, Y.* (2020[) Integrated Optimization of Planning and Operations for Shared Autonomous Electric Vehicle Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932037), accepted by Transportation Science.</li>
+    <li>Yang, Z. and and Liu, Y.* (2021) [Optimal Routing Policy for a Mixture of Connected Vehicles and Human-Driven Vehicles With En-route Information](https://ssrn.com/abstract=3885540), under 2nd round review at Transportation Research Part B: Methodological.</li>
+    <li>Xie J., Liu Y., and N. Chen (2021) [Two-Sided Deep Reinforcement Learning for Dynamic Mobility-on-Demand Management with Mixed-Autonomy](https://www.researchgate.net/publication/354352347_Two-Sided_Deep_Reinforcement_Learning_for_Dynamic_Mobility-on-Demand_Management_with_Mixed-Autonomy), under 2nd round review at Transportation Science.</li>
+    <li>Liu Y., Xie J., N. Chen (2021) Stochastic One-way Carsharing Systems with Dynamic Relocation Incentives through Preference Learning, under revision at Transportation Research Part E: Logistics and Transportation Review.</li>
+    <li>Xie, T. and Liu Y.* (2021) [Heterogeneous Information Provision on Traffic Networks with Competitive or Cooperative Information Providers](https://ssrn.com/abstract=3882545), under 2nd round revision at Transportation Research Part C: Emerging Technologies.</li>
+    <li>Yu, G., Dong, P., and Liu Y. (2021) An Exact Solution Framework for Reliable Network Design Involving Interventions against Endogenous Risk and Uncertainty, under revision at Transportation Research Part B: Methodological.</li>
+    <li>Xie, J., Yang, Z., Lai, X., Liu Y.*, Yang, X., Teng T., and Tham CK (2022) Deep Reinforcement Learning for Dynamic Incident-Responsive Traffic Information Dissemination, submitted to Transportation Research Part E: Logistics and Transportation Review.</li>
+    <li>Gu, R., Poon, M., Luo, Z., Liu Y, and Liu Z. (2022) [A hierarchical solution evaluation method and a hybrid algorithm for the vehicle routing problem with drones and multiple visits](https://www.sciencedirect.com/science/article/abs/pii/S0968090X22001681?dgcid=author), Transportation Research Part C: Emerging Technologies 141, 103733.</li>
+    <li>Xie, T. and Liu Y.* (2022) [Impact of connected and autonomous vehicle technology on market penetration and route choices](https://www.sciencedirect.com/science/article/abs/pii/S0968090X22000894?dgcid=author), Transportation Research Part C: Emerging Technologies 139, 103646.</li>
+    <li>Zhao, H., Gunardi, W., Liu Y.*, Kiew, C., Teng T., and Yang, X. (2022) [Prediction of Traffic Incident Duration Using Clustering Based Ensemble Learning Method: A Case Study of Singapore](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000688), ASCE Journal of Transportation Engineering, Part A: Systems, 148(7), e04022044-e04022044..</li>
+    <li>He, D., Liu Y.*, Zhong, Q., and Wang, Z. (2022) [On the morning commute problem in a Y-shaped network with individual and household travelers](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2021.1117), Transportation Science  0(0).</li>
+    <li>Guo, H., Chen, Y.*, and  Liu Y. (2022) [Shared autonomous vehicle management considering competition with human-driven private vehicles](https://www.sciencedirect.com/science/article/abs/pii/S0968090X21005295), Transportation Research Part C: Emerging Technologies 136, 103547.</li>
+    <li>Tian, Q., Lin, Y., Wang, D.*, and Liu Y. (2022) [Planning for modular-vehicle transit service system: model formulation and solution methods](https://authors.elsevier.com/c/1enJE,M0mRNWvP), Transportation Research Part C: Emerging Technologies, 138, 103627.</li>
+    <li>Liu Y.* and Yang Z. (2021) [Information Provision and Congestion Pricing in Risky Road Networks with Heterogeneous Travelers](https://www.sciencedirect.com/science/article/abs/pii/S0968090X21001054), Transportation Research Part C: Emerging Technologies, 128, 103083.</li>
+    <li>Yanfeng Li, Yang Liu* (2021) [The static bike rebalancing problem with optimal user incentives](https://www.sciencedirect.com/science/article/abs/pii/S1366554520308589), Transportation Research Part E: Logistics and Transportation Review, 146, 10221.</li>
+    <li>Li, Y. and Liu Y.* (2021) [Optimizing en-route matching in a ride-hailing system with boundedly rational users](https://www.sciencedirect.com/science/article/abs/pii/S1366554521001022), Transportation Research Part E: Logistics and Transportation Review, 150, 102329.</li>
+    <li>Minghua Zeng, Min Wang, Yang Liu, and  Jiuh-Biing Sheu (2020) [Modeling evacuation route choices under influence of variable message signs](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12525), Computer-Aided Civil and Infrastructure Engineering, in press.</li>
+    <li>Li, Y., Liu Y.*, and Xie, J. (2020) [A path-based equilibrium model for ridesharing matching](https://www.sciencedirect.com/science/article/abs/pii/S0191261520303234), Transportation Research Part B: Methodological, 138, 373-405.</li>
+    <li>Zhang, D., Liu Y.*, and He, S. (2019) [Vehicle Assignment and Relays for One-Way Electric Car-Sharing Systems](https://www.sciencedirect.com/science/article/abs/pii/S0191261517311116), Transportation Research Part B: Methodological 120, 125-146.</li>
+    <li>Noruzoliaee, M., Zou, B., and Liu Y. (2018) [Roads in Transition: Integrated Modeling of a Manufacturer-Traveler-Road Infrastructure System in a Mixed Autonomous/Human Driving Environment](https://www.sciencedirect.com/science/article/abs/pii/S0968090X18303590), Transportation Research Part C: Emerging Technologies 90, 307-333.</li>
+    <li>Liu Y.*, Li Y., and Hu L. (2018) [Departure Time and Route Choices in Bottleneck Equilibrium under Risk and Ambiguity](https://www.sciencedirect.com/science/article/abs/pii/S0191261517307385), Transportation Research Part B: Methodological 117, 774-793.</li>
+    <li>Liu, P. and Liu, Y.* (2018) [Optimal Information Provision at Bottleneck Equilibrium with Risk-Averse Travelers](https://journals.sagepub.com/doi/abs/10.1177/0361198118792336), Transportation Research Record , Vol 2672, Issue 48, Transportation Research Record, 69-78.</li>
+    <li>Yu, G., Haskell, W., and Liu Y. (2017) [Resilient facility location against the risk of disruptions](https://www.sciencedirect.com/science/article/abs/pii/S0191261516303460) Transportation Research Part B: Methodological 104, 82-105.</li>
+    <li>Liu, Y. *and Nie, Y. (2017) [A credit-based congestion management scheme in general two-mode networks with multiclass users](https://link.springer.com/article/10.1007/s11067-017-9340-7), Networks and Spatial Economics 17, 681–711.</li>
+    <li>Liu Y.* and Li Y. (2017) [Pricing Scheme Design of Ridesharing Program in Morning Commute Problem](https://www.sciencedirect.com/science/article/abs/pii/S0968090X17300608), Transportation Research Part C: Emerging Technologies 79, 156-177.</li>
+    <li>Hu, L., and Liu Y.* (2016) [Joint design of parking capacities and fleet size for one-way station-based carsharing systems with road congestion constraints](https://www.sciencedirect.com/science/article/abs/pii/S0191261516301072), Transportation Research Part B: Methodological 93, 263-299.</li>
+    <li>Liu, Y., Nie, Y., and Hall J. (2015) [A semi-analytical approach for solving bottleneck model with general user heterogeneity](https://www.sciencedirect.com/science/article/abs/pii/S019126151400174X), Transportation Research Part B: Methodological 71, 56-70.</li>
+    <li>Chen H., Liu Y., and Nie Y. (2015) [Solving the step-tolled bottleneck model with general user heterogeneity](https://www.sciencedirect.com/science/article/abs/pii/S019126151500199X), Transportation Research Part B: Methodological 81, 210–229.</li>
+    <li>Liu, Y. and Nie, Y. (2012) [Welfare effects of congestion pricing and transit service in multi-class multi-modal networks](https://journals.sagepub.com/doi/abs/10.3141/2283-04), Transportation Research Record 2283, 34-43.</li>
+    <li>Liu, Y. and Nie, Y. (2011) [Morning commute problem considering route choice, user heterogeneity and alternative system optima](https://www.sciencedirect.com/science/article/abs/pii/S0191261510001360), Transportation Research Part B: Methodological 45(4), 619-642.</li>
+    <li> Nie, Y. and Liu, Y. (2010) [Existence of self-financing and Pareto-improving congestion pricing: impact of value of time distribution](https://www.sciencedirect.com/science/article/abs/pii/S0965856409001001), Transportation Research Part A: Policy and Practice 44(1), 39-51.</li>
+    <li>Liu, Y., Guo, X. and Yang, H. (2009) [Pareto-improving and revenue-neutral congestion pricing schemes in two-mode traffic networks](https://link.springer.com/article/10.1007/s11066-008-9018-x), NETNOMICS: Economic Research and Electronic Networking 10 (1), 123-140.</li>
+</ul>
 
 
 ## Working Papers
@@ -88,4 +122,5 @@ permalink: /publications/
   <li>Guo, X., Liu, Y. and Yang H. (2006) Time versus cost system optimization in networks with heterogeneous users, Proceedings of the 11th International Conference of Hong Kong Society for Transportation Studies.</li>
 </ul>
 
-</div>
+<br>
+<br>
