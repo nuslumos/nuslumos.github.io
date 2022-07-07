@@ -1,5 +1,9 @@
+
 - date: July 2022
   headline: "New paper! <a href='https://www.sciencedirect.com/science/article/abs/pii/S0968090X22001681?dgcid=author'>A hierarchical solution evaluation method and a hybrid algorithm for the vehicle routing problem with drones and multiple visits</a> published in Transportation Research Part C: Emerging Technologies."
+
+- date: June 2022
+  headline: "New paper! <a href='https://www.sciencedirect.com/science/article/abs/pii/S0968090X22001681?dgcid=author'>Prediction of Traffic Incident Duration Using Clustering-Based Ensemble Learning Method</a> published in Journal of Transportation Engineering, Part A: Systems."
 
 - date: June 2022
   headline: "New paper! <a href='https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932037'>Integrated Optimization of Planning and Operations for Shared Autonomous Electric Vehicle Systems</a> accepted by Transportation Science."
@@ -11,19 +15,56 @@
   headline: "<a href='https://cde.nus.edu.sg/cee/news/the-singapore-science-engineering-fair-2022-hwa-chong-institution-team-supervised-by-dr-liu-yang-received-a-bronze-award/'>The Singapore Science & Engineering Fair 2022 – Hwa Chong Institution team supervised by Dr Liu Yang received a Bronze Award </a>"
 
 - date: March 2022
+  headline: "New Paper! <a href='https://www.sciencedirect.com/science/article/abs/pii/S0968090X21005295'>Shared autonomous vehicle management considering competition with human-driven private vehicles</a> published in Transportation Research Part C: Emerging Technologies."
+
+- date: March 2022
   headline: "<a href='https://www.nusisem.com/home/staff-sharing/student-research-competition'>Xie Jiaohong win the Second Place in the Student Research Competition in the virtual event on Artificial Intelligence Enabled Next Generation Transportation Systems<a/>"
 
+- date: Feb 2022
+  headline: "New paper! <a href='https://pubsonline.informs.org/doi/abs/10.1287/trsc.2021.1117'>On the Morning Commute Problem in a Y-shaped Network with Individual and Household Travelers. </a> published in Transportation Science."
+
 - date: Jan 2022
-  headline: 'Dr. Liu Yang is awarded the "Faculty Teaching Excellence Award"'
+  headline: 'Dr. Liu Yang is awarded the "Faculty Teaching Excellence Award" in NUS!'
 
 - date: Aug 2021
   headline: "Xie Tingting win the best student paper award in the 4th international symposium on multimodal transport!"
 
+- date: July 2021
+  headline: "New Paper! <a href='https://www.sciencedirect.com/science/article/abs/pii/S0968090X21001054'> Information provision and congestion pricing in a risky two-route network with heterogeneous travelers</a> published in Transportation Research Part C: Emerging Technologies."
+
+- date: June 2021
+  headline: "New Paper! <a href='https://www.sciencedirect.com/science/article/abs/pii/S1366554521001022'> Optimizing flexible one-to-two matching in ride-hailing systems with boundedly rational users</a> published in Transportation Research Part E: Logistics and Transportation Review."
+
 - date: May 2021
-  headline: 'Dr. Liu Yang recieve the Certificate of Appreciation from Institution of Engineers Singapore'
+  headline: 'Dr. Liu Yang recieve the Certificate of Appreciation from Institution of Engineers Singapore!'
+
+- date: Feb 2021
+  headline: "New Paper! <a href='https://www.sciencedirect.com/science/article/abs/pii/S1366554520308589'>The static bike rebalancing problem with optimal user incentives</a> published in Transportation Research Part E: Logistics and Transportation Review."
 
 - date: Jan 2021
-  headline: "Dr. Liu Yang is appointed as the associate editor of Transportation Science"
+  headline: "Dr. Liu Yang is appointed as the associate editor of Transportation Science!"
+
+- date: Aug 2020
+  headline: "New Paper! <a href='https://www.sciencedirect.com/science/article/abs/pii/S0191261520303234'>A path-based equilibrium model for ridesharing matching</a> published in Transportation Research Part B: Methodological."
 
 - date: June 2020
-  headline: "Dr. Liu Yang is appointed as the associate editor of Socio-Economic Planning Sciences"
+  headline: "Dr. Liu Yang is appointed as the associate editor of Socio-Economic Planning Sciences!"
+
+- date: Feb 2019
+  headline: "New Paper! <a href='https://www.sciencedirect.com/science/article/abs/pii/S0191261517311116'>Vehicle assignment and relays for one-way electric car-sharing systems</a> published in Transportation Research Part B: Methodological."
+
+- date: Nov 2018
+  headline: "New Paper! <a href='https://www.sciencedirect.com/science/article/abs/pii/S0191261517307385'>Departure Time and Route Choices in Bottleneck Equilibrium under Risk and Ambiguity</a> published in Transportation Research Part B: Methodological."
+
+- date: Feb 2018
+  headline: "New Paper! <a href='https://journals.sagepub.com/doi/abs/10.1177/0361198118792336'>Optimal Information Provision at Bottleneck Equilibrium with Risk-Averse Travelers</a> published in Transportation Research Record."
+
+- date: July 2017
+  headline: "New Paper! <a href='https://www.sciencedirect.com/science/article/abs/pii/S0191261517307385'>A credit-based congestion management scheme in general two-mode networks with multiclass users</a> published in Networks and Spatial Economics."
+
+- date: June 2027
+  headline: "New Paper! <a href='https://www.sciencedirect.com/science/article/abs/pii/S0968090X17300608'> Pricing Scheme Design of Ridesharing Program in Morning Commute Problem</a> published in Transportation Research Part C: Emerging Technologies."
+
+- date: Nov 2016
+  headline: "New Paper! <a href='https://www.sciencedirect.com/science/article/abs/pii/S0191261516301072'>Joint design of parking capacities and fleet size for one-way station-based carsharing systems with road congestion constraints</a> published in Transportation Research Part B: Methodological."
+
