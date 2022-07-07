@@ -21,7 +21,6 @@ LUMOS aims to disseminate new insights, knowledge, and tools to academia, indust
 We are looking for passionate new Postdocs, and Master students to join the team ([joing](joing)) !
 
 ### News
-<div class="well">
 {% for article in site.data.news limit:9 %}
 {{ article.date }}
 <p><em>{{ article.headline }}</em></p>
@@ -29,8 +28,7 @@ We are looking for passionate new Postdocs, and Master students to join the team
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
     
-    </div>
-
+### Images
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
