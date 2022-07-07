@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Xie Jiaohong (谢佼宏)
+title: Xie Jiaohong
 position: PhD Candidate
 email: xiejiaohong@u.nus.edu
 twitter:
@@ -9,5 +9,7 @@ scholar:
 photo: xiejiaohong.jpeg
 ucsf: 
 ---
+
+ <!-- (谢佼宏) -->
 
 ### Overview

@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Zhu Xiaolei (朱晓蕾)
+title: Zhu Xiaolei 
 position: PhD Student
 email: e0675792@u.nus.edu
 twitter:

@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Dr. Tang Xindi (唐昕迪)
+title: Dr. Tang Xindi 
 position: Research Fellow
 email: txd@nus.edu.sg
 twitter:

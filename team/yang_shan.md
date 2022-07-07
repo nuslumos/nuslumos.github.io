@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Yang Shan (羊山)
+title: Yang Shan
 position: PhD Student
 email: yang_shan@u.nus.edu
 twitter:

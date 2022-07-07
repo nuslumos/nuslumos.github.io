@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Dr. Chen Enhui (陈恩惠)
+title: Dr. Chen Enhui
 position: Research Fellow
 email: enhui@nus.edu.sg
 twitter:

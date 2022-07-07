@@ -5,25 +5,25 @@
   group: 0
 
 
-- name: Xie Tingting
+- name: Xie Tingting (谢婷婷)
   photo: xietingting.jpg
   info: Research Fellow
   url: xie_tingting
   group: 1
   
-- name: Tang Xindi
+- name: Tang Xindi (唐昕迪)
   photo: tangxindi.png
   info: Research Fellow
   url: tang_xindi
   group: 1
 
-- name: Chen Enhui
+- name: Chen Enhui (陈恩惠)
   photo: chenenhui.jpg
   info: Research Fellow
   url: chen_enhui
   group: 1
 
-- name: Lai Xiongfei
+- name: Lai Xiongfei (赖雄飞)
   photo: laixiongfei.png
   info: Research Fellow
   url: lai_xiongfei
@@ -31,7 +31,7 @@
 
 
 
-- name: Guo Hao
+- name: Guo Hao (过颢)
   photo: guohao.jpg
   info: PhD Candidate
   year: 2017
@@ -47,7 +47,7 @@
   url: xie_jiaohong
   group: 2
 
-- name: Zhu Dan
+- name: Zhu Dan (朱丹)
   photo: zhudan.png
   info: PhD Candidate
   year: 2019
@@ -55,7 +55,7 @@
   url: zhu_dan
   group: 2
 
-- name: Gu Ruixue
+- name: Gu Ruixue (顾瑞雪)
   photo: guruixue.jpg
   info: PhD Candidate
   year: 2020
@@ -63,7 +63,7 @@
   url: gu_ruixue
   group: 2
 
-- name: Yang Shan
+- name: Yang Shan (羊山)
   photo: yangshan.png
   info: PhD Student
   year: 2022
@@ -71,7 +71,7 @@
   url: yang_shan
   group: 2
   
-- name: Zhu Xiaolei
+- name: Zhu Xiaolei (朱晓蕾)
   photo: zhuxiaolei.JPG
   info: PhD Student
   year: 2022

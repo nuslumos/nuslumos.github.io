@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Dr. Xie Tingting (谢婷婷)
+title: Dr. Xie Tingting 
 position: Research Fellow
 email: tt.xie@nus.edu.sg
 twitter:

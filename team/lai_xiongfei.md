@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Dr. Lai Xiongfei (赖雄飞)
+title: Dr. Lai Xiongfei 
 position: Research Fellow
 email: laixfcee@nus.edu.sg
 twitter:
