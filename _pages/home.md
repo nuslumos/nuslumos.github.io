@@ -39,16 +39,16 @@ We are looking for passionate new Postdocs, and Master students to join the team
             <img src="{{ site.url }}{{ site.baseurl }}/images/home/mobility-sharing.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/li_2021_ride.png" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/liu_2015.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home/cy_2022.png" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/xjh_2022.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home/li_2020.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/liu_2015.png" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home/hu_2016.png" alt="Slide 5" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_1.jpg" alt="Slide 6" />
