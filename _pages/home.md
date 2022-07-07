@@ -38,23 +38,14 @@ We are recruiting phd students and postdoctoral fellows. We are looking for rese
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home/mobility-sharing.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home/sharing.png" alt="Mixed-fleet MoD system" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home/cy_2022.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home/congestion.png" alt="Congestion management and information provision for connected vehicles and RVs" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/xjh_2022.png" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home/lane.png" alt="Simulating lane-changing behavior in response to information displayed on an electronic signboard" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/liu_2015.png" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home/hu_2016.png" alt="Slide 5" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_1.jpg" alt="Slide 6" />
-        </div>       
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
