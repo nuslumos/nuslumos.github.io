@@ -161,6 +161,11 @@ permalink: /team/
 
 ---
 
+<br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_3.jpg" class="img-responsive" width="100%"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_1.jpg" class="img-responsive" width="100%"> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_2.jpg" class="img-responsive" width="100%"> 
+
 
 
 
