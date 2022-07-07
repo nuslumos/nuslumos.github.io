@@ -8,63 +8,88 @@
 
 
 <url>
-  <loc>https://nuslumos.github.io/</loc>
-  <lastmod>2022-07-07T05:42:24+00:00</lastmod>
+  <loc>https://www.nuslumos.org/</loc>
+  <lastmod>2022-07-07T15:22:14+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://nuslumos.github.io/team/</loc>
-  <lastmod>2022-07-07T05:42:24+00:00</lastmod>
+  <loc>https://www.nuslumos.org/team/</loc>
+  <lastmod>2022-07-07T15:22:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nuslumos.github.io/research/</loc>
-  <lastmod>2022-07-07T05:42:24+00:00</lastmod>
+  <loc>https://www.nuslumos.org/research/</loc>
+  <lastmod>2022-07-07T15:22:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nuslumos.github.io/publications/</loc>
-  <lastmod>2022-07-07T05:42:24+00:00</lastmod>
+  <loc>https://www.nuslumos.org/publications/</loc>
+  <lastmod>2022-07-07T15:22:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nuslumos.github.io/contact/</loc>
-  <lastmod>2022-07-07T05:42:24+00:00</lastmod>
+  <loc>https://www.nuslumos.org/allnews/</loc>
+  <lastmod>2022-07-07T15:22:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nuslumos.github.io/allnews.html</loc>
-  <lastmod>2022-07-07T05:42:24+00:00</lastmod>
+  <loc>https://www.nuslumos.org/joining/</loc>
+  <lastmod>2022-07-07T15:22:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://nuslumos.github.io/team/liu_yang</loc>
-  <lastmod>2022-07-07T05:42:24+00:00</lastmod>
+  <loc>https://www.nuslumos.org/team/liu_yang</loc>
+  <lastmod>2022-07-07T15:22:14+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nuslumos.github.io/team/guo_hao</loc>
-  <lastmod>2022-07-07T05:42:24+00:00</lastmod>
+  <loc>https://www.nuslumos.org/team/xie_tingting</loc>
+  <lastmod>2022-07-07T15:22:14+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nuslumos.github.io/team/zhu_dan</loc>
-  <lastmod>2022-07-07T05:42:24+00:00</lastmod>
+  <loc>https://www.nuslumos.org/team/tang_xindi</loc>
+  <lastmod>2022-07-07T15:22:14+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nuslumos.github.io/team/gu_ruixue</loc>
-  <lastmod>2022-07-07T05:42:24+00:00</lastmod>
+  <loc>https://www.nuslumos.org/team/chen_enhui</loc>
+  <lastmod>2022-07-07T15:22:14+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nuslumos.github.io/team/yang_shan</loc>
-  <lastmod>2022-07-07T05:42:24+00:00</lastmod>
+  <loc>https://www.nuslumos.org/team/lai_xiongfei</loc>
+  <lastmod>2022-07-07T15:22:14+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://nuslumos.github.io/team/zhu_xiaolei</loc>
-  <lastmod>2022-07-07T05:42:24+00:00</lastmod>
+  <loc>https://www.nuslumos.org/team/guo_hao</loc>
+  <lastmod>2022-07-07T15:22:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nuslumos.org/team/xie_jiaohong</loc>
+  <lastmod>2022-07-07T15:22:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nuslumos.org/team/zhu_dan</loc>
+  <lastmod>2022-07-07T15:22:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nuslumos.org/team/gu_ruixue</loc>
+  <lastmod>2022-07-07T15:22:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nuslumos.org/team/yang_shan</loc>
+  <lastmod>2022-07-07T15:22:14+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.nuslumos.org/team/zhu_xiaolei</loc>
+  <lastmod>2022-07-07T15:22:14+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
