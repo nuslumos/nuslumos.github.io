@@ -67,4 +67,144 @@ Dr. Liu Yang is jointly appointed as an Assistant professor in the Department of
 - Member	Shared Logistics and Transportation Systems Committee of World Transport Convention (WTC)
 - Member	Freight Transportation Planning and Logistics Committee of World Transport Convention (WTC)
 
+**Teaching Areas**
+
+* CE3121 – Transport Engineering
+* CE5209 – Transportation Data Analytics and Modeling
+* IE5221 – Transportation Modeling and Economics
+* IE4221 – Transportation Demand Modeling and Economics
+* IE6099 – ISE Research Methodology
+* IE4229 – Selected Topics in Logistics
+* IE5002 – Applied Engineering Statistics
+
+### Research Interests
+* Travel demand and congestion management
+* Urban mobility operations and management
+* Information and infrastructure in connected transportation networks
+
+### Publications
+#### Journal
+1.  Chen, Y. and Liu, Y.* (2020[) Integrated Optimization of Planning and Operations for Shared Autonomous Electric Vehicle Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932037), under 3rd round review (minor) at Transportation Science.
+2.  Yang, Z. and and Liu, Y.* (2021) [Optimal Routing Policy for a Mixture of Connected Vehicles and Human-Driven Vehicles With En-route Information](https://ssrn.com/abstract=3885540), under 2nd round review at Transportation Research Part B: Methodological.
+3.  Xie J., Liu Y., and N. Chen (2021) [Two-Sided Deep Reinforcement Learning for Dynamic Mobility-on-Demand Management with Mixed-Autonomy](https://www.researchgate.net/publication/354352347_Two-Sided_Deep_Reinforcement_Learning_for_Dynamic_Mobility-on-Demand_Management_with_Mixed-Autonomy), under 2nd round review at Transportation Science.
+4.  Liu Y., Xie J., N. Chen (2021) Stochastic One-way Carsharing Systems with Dynamic Relocation Incentives through Preference Learning, under revision at Transportation Research Part E: Logistics and Transportation Review.
+5.  Xie, T. and Liu Y.* (2021) [Heterogeneous Information Provision on Traffic Networks with Competitive or Cooperative Information Providers](https://ssrn.com/abstract=3882545), under 2nd round revision at Transportation Research Part C: Emerging Technologies.
+6.  Yu, G., Dong, P., and Liu Y. (2021) An Exact Solution Framework for Reliable Network Design Involving Interventions against Endogenous Risk and Uncertainty, under revision at Transportation Research Part B: Methodological.
+7.  Xie, J., Yang, Z., Lai, X., Liu Y.*, Yang, X., Teng T., and Tham CK (2022) Deep Reinforcement Learning for Dynamic Incident-Responsive Traffic Information Dissemination, submitted to Transportation Research Part E: Logistics and Transportation Review.
+8.  Gu, R., Poon, M., Luo, Z., Liu Y, and Liu Z. (2022) A hierarchical solution evaluation method and a hybrid algorithm for the vehicle routing problem with drones and multiple visits, under revision at Transportation Research Part C: Emerging Technologies.
+9.  Xie, T. and Liu Y.* (2022) [Impact of connected and autonomous vehicle technology on market penetration and route choices](https://www.researchgate.net/publication/359200262_Impact_of_connected_and_autonomous_vehicle_technology_on_market_penetration_and_route_choices), Transportation Research Part C: Emerging Technologies, forthcoming.
+10. Zhao, H., Gunardi, W., Liu Y.*, Kiew, C., Teng T., and Yang, X. (2022) Prediction of Traffic Incident Duration Using Clustering Based Ensemble Learning Method: A Case Study of Singapore, ASCE Journal of Transportation Engineering, Part A: Systems, Forthcoming.
+11. He, D., Liu Y.*, Zhong, Q., and Wang, Z. (2022) [On the morning commute problem in a Y-shaped network with individual and household travelers](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2021.1117), Transportation Science  0(0).
+12. Guo, H., Chen, Y.*, and  Liu Y. (2022) [Shared autonomous vehicle management considering competition with human-driven private vehicles](https://www.sciencedirect.com/science/article/abs/pii/S0968090X21005295), Transportation Research Part C: Emerging Technologies 136, 103547.
+13. Tian, Q., Lin, Y., Wang, D.*, and Liu Y. (2022) [Planning for modular-vehicle transit service system: model formulation and solution methods](https://authors.elsevier.com/c/1enJE,M0mRNWvP), Transportation Research Part C: Emerging Technologies, 138, 103627.
+14. Liu Y.* and Yang Z. (2021) [Information Provision and Congestion Pricing in Risky Road Networks with Heterogeneous Travelers](https://www.sciencedirect.com/science/article/abs/pii/S0968090X21001054), Transportation Research Part C: Emerging Technologies, 128, 103083.
+15. Yanfeng Li, Yang Liu* (2021) [The static bike rebalancing problem with optimal user incentives](https://www.sciencedirect.com/science/article/abs/pii/S1366554520308589), Transportation Research Part E: Logistics and Transportation Review, 146, 10221.
+16. Li, Y. and Liu Y.* (2021) [Optimizing en-route matching in a ride-hailing system with boundedly rational users](https://www.sciencedirect.com/science/article/abs/pii/S1366554521001022), Transportation Research Part E: Logistics and Transportation Review, 150, 102329.
+17. Minghua Zeng, Min Wang, Yang Liu, and  Jiuh-Biing Sheu (2020) [Modeling evacuation route choices under influence of variable message signs](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12525), Computer-Aided Civil and Infrastructure Engineering, in press.
+18. Li, Y., Liu Y.*, and Xie, J. (2020) [A path-based equilibrium model for ridesharing matching](https://www.sciencedirect.com/science/article/abs/pii/S0191261520303234), Transportation Research Part B: Methodological, 138, 373-405.
+19. Zhang, D., Liu Y.*, and He, S. (2019) [Vehicle Assignment and Relays for One-Way Electric Car-Sharing Systems](https://www.sciencedirect.com/science/article/abs/pii/S0191261517311116), Transportation Research Part B: Methodological 120, 125-146.
+20. Noruzoliaee, M., Zou, B., and Liu Y. (2018) [Roads in Transition: Integrated Modeling of a Manufacturer-Traveler-Road Infrastructure System in a Mixed Autonomous/Human Driving Environment](https://www.sciencedirect.com/science/article/abs/pii/S0968090X18303590), Transportation Research Part C: Emerging Technologies 90, 307-333.
+21. Liu Y.*, Li Y., and Hu L. (2018) [Departure Time and Route Choices in Bottleneck Equilibrium under Risk and Ambiguity](https://www.sciencedirect.com/science/article/abs/pii/S0191261517307385), Transportation Research Part B: Methodological 117, 774-793.
+22. Liu, P. and Liu, Y.* (2018) [Optimal Information Provision at Bottleneck Equilibrium with Risk-Averse Travelers](https://journals.sagepub.com/doi/abs/10.1177/0361198118792336), Transportation Research Record , Vol 2672, Issue 48, Transportation Research Record, 69-78.
+23. Yu, G., Haskell, W., and Liu Y. (2017) [Resilient facility location against the risk of disruptions](https://www.sciencedirect.com/science/article/abs/pii/S0191261516303460) Transportation Research Part B: Methodological 104, 82-105.
+24. Liu, Y. *and Nie, Y. (2017) [A credit-based congestion management scheme in general two-mode networks with multiclass users](https://link.springer.com/article/10.1007/s11067-017-9340-7), Networks and Spatial Economics 17, 681–711.
+25. Liu Y.* and Li Y. (2017) [Pricing Scheme Design of Ridesharing Program in Morning Commute Problem](https://www.sciencedirect.com/science/article/abs/pii/S0968090X17300608), Transportation Research Part C: Emerging Technologies 79, 156-177.
+26. Hu, L., and Liu Y.* (2016) [Joint design of parking capacities and fleet size for one-way station-based carsharing systems with road congestion constraints](https://www.sciencedirect.com/science/article/abs/pii/S0191261516301072), Transportation Research Part B: Methodological 93, 263-299.
+27. Liu, Y., Nie, Y., and Hall J. (2015) [A semi-analytical approach for solving bottleneck model with general user heterogeneity](https://www.sciencedirect.com/science/article/abs/pii/S019126151400174X), Transportation Research Part B: Methodological 71, 56-70.
+28. Chen H., Liu Y., and Nie Y. (2015) [Solving the step-tolled bottleneck model with general user heterogeneity](https://www.sciencedirect.com/science/article/abs/pii/S019126151500199X), Transportation Research Part B: Methodological 81, 210–229.
+29. Liu, Y. and Nie, Y. (2012) [Welfare effects of congestion pricing and transit service in multi-class multi-modal networks](https://journals.sagepub.com/doi/abs/10.3141/2283-04), Transportation Research Record 2283, 34-43.
+30. Liu, Y. and Nie, Y. (2011) [Morning commute problem considering route choice, user heterogeneity and alternative system optima](https://www.sciencedirect.com/science/article/abs/pii/S0191261510001360), Transportation Research Part B: Methodological 45(4), 619-642.
+31. Nie, Y. and Liu, Y. (2010) [Existence of self-financing and Pareto-improving congestion pricing: impact of value of time distribution](https://www.sciencedirect.com/science/article/abs/pii/S0965856409001001), Transportation Research Part A: Policy and Practice 44(1), 39-51.
+32. Liu, Y., Guo, X. and Yang, H. (2009) [Pareto-improving and revenue-neutral congestion pricing schemes in two-mode traffic networks](https://link.springer.com/article/10.1007/s11066-008-9018-x), NETNOMICS: Economic Research and Electronic Networking 10 (1), 123-140.
+
+(\* I am the corresponding author)
+
+#### Working Papers
+
+1.  Private and Public Traffic Information Design with Rational Inattentive Travelers, with Yang, Z.
+2.  Exploring Senior Mobility Patterns and Activity Change amid COVID-19 Pandemic in the Urban Rail Transit System, with Chen, E.
+3.  Managing mixed traffic with electric and gasoline vehicles using tradable credit scheme, with Zeng, H. and Xie, T.
+4.  An Optimization Model for Staggered Bottleneck Congestion with Heterogeneous Commuters.
+5.  Dynamic Pricing in One-way Car Sharing Networks: A Distributional Fluid Approximation Approach, with Yunan Liu, Shuangchi He, Ling Zhang.
+6.  Dynamic User Equilibria on Two-Modes Corridors with Risk-Averse Users, with Liu, P.
+
+#### Dissertation
+
+1.  **Liu, Yang** (2013) [Enabling Congestion Pricing: Analysis and Design of Implementation Strategies](http://gradworks.umi.com/36/05/3605738.html),**Northwestern University **_(Supported by Transportation Center Dissertation Year Fellowship, and Northwestern University Terminal Year Fellowship)_.
+
+#### Technical Report
+
+1.  Boyce, D., Nie, Y., Bar-Gera, H., **Liu, Y. **and Hu, Y. (2010) Field [Test of a Method for Finding Consistent Route Flows and Multiple-Class Link Flows in Road Traffic Assignments](http://cee.nus.edu.sg/people/iseliuy/pdf/Boyce_FieldTestConsistentRouteFlows.pdf), **Federal Highway Administration**.
+
+### Conference Proceedings
+
+1.  Li, Y. and Liu, Y.* (2021) Optimizing en-route matching in a ride-hailing system with boundedly rational users, Transportation Research Procedia of The 24th International Symposium on Transportation and Traffic Theory (ISTTT is the prestigious gathering for the world’s transportation and traffic theorists, acceptance rate: 16%).
+2.  Liu Y., Xie J., N. Chen (2021) Offline-Online Approximate Dynamic Programming for Stochastic Carsharing Systems with Relocation Incentives, Proceedings of the 100th Annual Meeting of Transportation Research Board.
+3.  Li, T. and Liu, Y.* (2020) Mode Choices and Optimal Car Ownership of Stochastic User Equilibrium with Ridesharing, Proceedings of the 98th Annual Meeting of Transportation Research Board.
+4.  He, D., Liu, Y.* , Zhong, Q., and Wang, Z. (2019) On the morning commute problem in a Y-shaped network with individual and household travelers, Proceedings of the 97th Annual Meeting of Transportation Research Board.
+5.  He, D., Liu, Y.* , Zhong, Q., and Wang, Z. (2018) On the morning commute problem in a Y-shaped network with individual and household travelers, Proceedings of the 7th International Symposium on Dynamic Traffic Assignment.
+6.  Liu, P. and Liu, Y.* (2018) Optimal Information Provision at Bottleneck Equilibrium with Risk-Averse Travelers, Proceedings of the 96th Annual Meeting of Transportation Research Board.
+7.  Liu, P., Liu, Y.* and Ong Ghim Ping (2018) Dynamic User Equilibrium Departure Time and Mode Choice on Bi-modal Corridor with Risk-Averse Travelers, Proceedings of the 6th International Symposium on Reliability Engineering and Risk Management.
+8.  Liu, Y.* Li, Y. and Hu, L. (2017) Departure time and route choices with bottleneck congestion: user equilibrium under risk and ambiguity, Transportation Research Procedia of The 22nd International Symposium on Transportation and Traffic Theory (ISTTT is the prestigious gathering for the world’s transportation and traffic theorists, acceptance rate: 10%).
+9.  Liu, Y.* and Li, Y. (2017) Dynamic User Equilibrium of Bottleneck Model with Ridesharing Program, Proceedings of the 96th Annual Meeting of Transportation Research Board.
+10. Hu, Lu. and Liu, Y.* (2017) One-Way Carsharing Systems Design in Mixed Queuing Networks with Road Congestion, Proceedings of the 96th Annual Meeting of Transportation Research Board.
+11. Chen, H., Liu, Y., and Nie, Y. (2015) Solving the step-tolled bottleneck model with general user heterogeneity, Proceedings of the 94th Annual Meeting of Transportation Research Board.
+12. Liu, Y., Nie, Y., and Hall J. (2014) A semi-analytical approach for solving bottleneck model with general heterogeneity, Proceedings of the 93rd Annual Meeting of Transportation Research Board.
+13. Liu, Y. and Nie, Y. (2012) Welfare effects of congestion pricing and transit service in multi-class multi-modal networks, Proceedings of the 91st Annual Meeting of Transportation Research Board.
+14. Nie, Y. and Liu, Y. (2010) Existence of self-financing and Pareto-improving congestion pricing: impact of value of time distribution, Proceedings of the 89th Annual Meeting of Transportation Research Board.
+15. Bar-Gera, H., Nie, Y., Boyce, D., Hu, Y. and Liu, Y.(2010) Consistent route flows and the condition of proportionality, Proceedings of the 89th Annual Meeting of Transportation Research Board.
+16. Liu, Y., Guo, X. and Yang, H. (2008) Pareto-improving and revenue-neutral congestion pricing schemes in two-mode traffic networks, Proceedings of the 87th Annual Meeting of Transportation Research Board.
+17. Guo, X., Liu, Y. and Yang H. (2006) Time versus cost system optimization in networks with heterogeneous users, Proceedings of the 11th International Conference of Hong Kong Society for Transportation Studies.
+
+### Invited Talks
+
+1.  Planning and Operations of Future Urban Mobility Systems
+    * Keynote – the Infrastructure and Civil Engineering World Forum, 2022
+2.  Information Provision and Congestion management for a Mixed Traffic Flow of Connected Vehicles and Regular Vehicles
+    * Keynote – The 4th International Symposium on Multimodal Transportation (ISMT), 2021
+3.  Two-Sided Deep Reinforcement Learning for Dynamic Mobility-on-Demand Management with Mixed-Autonomy
+    * Webinar – INFORMS Transportation Science and Logistics Society, 2021
+    * Plenary Session: Emerging Technologies in Transportation – CICTP2020- 21
+4.  Urban Traffic Flow Smoothening
+    * ST Engineering Technology Seminar,
+5.  Offline-Online Approximate Dynamic Programming for Stochastic Carsharing Systems with Relocation Incentives
+    * Special Session: Shared Space Design and Modeling: Case Studies in Asian Cities, Easts Conference 2021
+6.  Integrated Optimization of Planning and Operations for Future Mobility Systems
+    * Tapping the Change in Commuting Patterns, The Institution of Engineers, Singapore 2021
+7.  Integrated Optimization of Charging Facility Deployment and Vehicle Management for Electric Car sharing Systems
+    * Invited Session at the 19th COTA International Conference of Transportation Professionals (CICTP2019), Nanjing,
+    * Workshop on Ride-Sourcing Systems and Data-Driven Transportation Management, Nanjing University,
+    * International Seminar for Intelligent Connected Vehicle & Future Transportation, Tsinghua University,
+    * Pre-CICTP 2019 Workshop Big Data & Emerging Vehicle Technologies, Beijing University of Technology and Chinese Overseas Transportation Association, 2019
+    * Workshop on Innovative Urban Mobility Management and Policy, Beijing Jiaotong University, 2019
+8.  A path-based Equilibrium Model for Ridesharing Matching and Compensation Pricing
+    * Smart Mobility Workshop, HKUST-DIDI Joint Research Laboratory,
+    * ECE, NUS, 2019
+9.  Vehicle Assignment and Relays for One-Way Electric Car-Sharing Systems,
+    * Hong Kong University of Science and Technology,
+    * The 2nd International Workshop on Multimodal Transportation,
+10. Future Transport: Autonomous Vehicles, Qifa Primary School,
+11. Joint Design of Parking Capacities and Fleet Size for One-Way Station- Based Carsharing Systems with Road Congestion, South China University of Technology,
+12. A Time-Based Equilibrium for Staggered Bottleneck Congestion with Heterogeneous Commuters, Department Of Transportation, Shipping And Logistics, Shanghai Jiao Tong University,
+13. An Optimization Model for Staggered Bottleneck Congestion with Heterogeneous Commuters, Tongji University,
+14. Analysis and Design of Congestion Pricing Schemes: Models and Solution Approaches, Department of Industrial and Systems Engineering, National University of Singapore,
+15. Welfare Effects of Congestion Pricing and Transit Services in Multi-Class Two- Mode Networks
+    * Department Civil & Environmental Engineering, Bucknell University,
+    * Department Civil & Environmental Engineering, University of Illinois at Chicago,
+
+### Other Conference Presentations
+
+1.  **Liu, Y. **(2016) Time-based Equilibrium For Staggered Bottleneck Congestion With Heterogeneous Commuters, INFORMS Annual Conference, Nashville.
+2.  **Liu, Y.** and Nie, Y. (2016) A credit-based congestion pricing scheme in general two-mode networks with multi-class travelers, The 14th World Conference on Transport Research, Shanghai.
+3.  **Liu, Y.** (2015) Flexible Work Hour Scheme with Heterogeneous Commuters. _The Kuhmo NECTAR Conference of International Transportation Economics Association_, Oslo.
+4.  **Liu, Y.**, Nie, Y., and Hall., J. (2013) An efficient solution approach for the bottleneck model with general heterogeneity. _INFORMS Annual Meeting, Minneapolis_ .
+5.  **Liu, Y.** and Nie, Y. (2013) A semi-analytical solution approach for the bottleneck model with general heterogeneity._ The Kuhmo NECTAR Conference of International Transportation Economics Association, Chicago._
+6.  **Liu, Y.** and Nie, Y. (2013) Morning commute problem considering route choice, user heterogeneity and alternative system optima. _Workshop on Price-based and Quantity-based Travel Demand Management, Chicago._
+7.  **Liu, Y.** (2013) Enabling congestion pricing: analysis and design of implementation strategies. doctoral student research workshop in transportation modeling._ Transportation Research Board Annual Meeting, Washington DC._
+8.  **Liu, Y.** and Nie, Y. (2012) Solving the bottleneck model with general distributions of value of time and cost of schedule delay._ INFORMS annual meeting, Phoenix._
+9.  Nie Y. and **Liu, Y. **(2011) Enabling congestion pricing: analysis and design of revenue-refunding strategies. The International Transport Forum Annual Summit, Leipzig, Germany.
+10. **Liu, Y.** and Nie, Y. (2011) Pareto-improving pricing-refunding schemes in general two-mode transportation networks with heterogeneous users. _The Kuhmo NECTAR Conference of International Transportation Economics Association, Stockholm, Sweden._
+11. **Liu, Y. **and Nie, Y. (2010) Pareto-improving refunding schemes for congestion pricing in general bi-modal networks. _INFORMS annual meeting, Austin._
+12. **Liu, Y.** and Nie, Y. (2009) Time-varying pricing scheme with heterogeneous commuters. _INFORMS annual meeting, San Diego._
+
 
