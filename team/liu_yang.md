@@ -2,15 +2,15 @@
 layout: member
 title: Liu Yang
 position: Assistant Professor
-email: ceelya@nus.edu.sg
+email: ceelya@nus.edu.sg, iseliuy@nus.edu.sg
 twitter:
 github:
 scholar: 
-photo: liuyang.png
+photo: liuyang.jpg
 ucsf: 
 ---
 
-### Overview
+### Biography
 
 Dr. Liu Yang is jointly appointed as an Assistant professor in the Department of Civil and Environmental Engineering and the Department of Industrial Systems Engineering and Management at National University of Singapore. She received her B.S. from Tsinghua University,  MPhil from Hong Kong University of Science and Technology and  Ph.D. from Northwestern University. Previously, Dr. Liu worked as a consultant at Cambridge Systematics and provided modeling expertise to public agencies such as Chicago Department of Transportation. She has worked on research projects funded by US and Singapore public agencies, including US Federal Highway Administration, the National Science Foundation, Singapore Ministry of Education, and ST Engineering.  Dr. Liu’s research focuses on future mobility and transport, which covers topics in the areas of ridesharing and carsharing systems operations and design, travel demand and congestion management, and data-driven transportation system modeling and analysis. Her work has been published in the major journals in the transportation area, including Transportation Research Part A: Policy, Transportation Research Part B: Methodological, and Transportation Research Part C: Emerging Technologies. Currently, she serves on the editorial boards of Transportation Science (Associate Editor), Transportation Research Part C, and Socio-Economic Planning Sciences (Associate Editor). She is a co-chair of WTC Shared Logistics and Transportation Systems Committee, a member of Transportation Research Board Standing Committee on Emerging and Innovative Public Transport and Technologies (AP020) and Transportation Network Modeling (AEP40), a member of the Chinese Overseas Transportation Association (COTA) Board of Directors, and a member of WCTRS Special Interest Group Transport Theory and Modelling.
 

@@ -4,37 +4,19 @@ layout: default
 
 {% assign member = page %}
 
-<div class="row">
-	<div class="col-sm-12">
-
-			<img class="pull-left pad-right content-photo" width=160 src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}">
-
-
-				<div class="bigtitle">
-					{{ member.title }}
-				</div>
-				<p><div class="smallhead">
-					{{ member.position }}
-				</div></p>
-	</div>
-</div>
-
 <div class="bigspacer"></div>
 
 <div class="row">
 	<div class="col-sm-3">
 
-		{% if member.ucsf %}
-		<div class="smallhead">
-			UCSF Profile
+		<img class="pull-left pad-right content-photo" width=160 src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}">
+
+		<div class="bigtitle">
+			{{ member.title }}
 		</div>
-		<div class="pad-left note">
-			<div class="smallspacer"></div>
-			<i class="fa fa-university"></i>
-			<a class="off" href="https://profiles.ucsf.edu/{{ member.ucsf }}">{{ member.ucsf }}</a>
-		</div>
-		<div class="bigspacer"></div>
-		{% endif %}
+		<p><div class="smallhead">
+			{{ member.position }}
+		</div></p>
 
 		{% if member.twitter %}
 		<div class="smallhead">
