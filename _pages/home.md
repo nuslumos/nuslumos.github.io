@@ -20,7 +20,7 @@ LUMOS aims to disseminate new insights, knowledge, and tools to academia, indust
 
 
 ### Joining LUMOS
-We are recruiting phd students and postdoctoral fellows. We are looking for researchers with strong interests and expertise in *traffic simulation, mathematical modelling and programming, and data-driven optimization approaches*. If you are interested in joining LUMOS, please contact Dr. Liu Yang directly by emailing to iseliuy@nus.edu.sg or ceelya@nus.edu.sg.
+We are recruiting phd students and postdoctoral fellows. We are looking for researchers with strong interests and expertise in *traffic simulation, mathematical modelling and programming, and data-driven optimization approaches*. If you are interested in joining LUMOS, please contact Dr. Liu Yang directly by emailing to [iseliuy@nus.edu.sg](iseliuy@nus.edu.sg) or [ceelya@nus.edu.sg](ceelya@nus.edu.sg).
 
 ### Images
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
