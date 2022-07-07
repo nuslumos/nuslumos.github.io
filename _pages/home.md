@@ -16,6 +16,7 @@ We focus on future urban mobility and transport systems, which cover the areas o
 
 LUMOS aims to disseminate new insights, knowledge, and tools to academia, industry, government, and research organizations worldwide.
 
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -25,26 +26,30 @@ LUMOS aims to disseminate new insights, knowledge, and tools to academia, indust
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
-<div class="carousel-inner" markdown="0">
-    <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/home/mobility-sharing.png" alt="Slide 1" />
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home/mobility-sharing.png" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/li_2021_ride.png" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/liu_2015.png" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/xjh_2022.png" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home/li_2020.png" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_1.jpg" alt="Slide 6" />
+        </div>       
     </div>
-    <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/li_2021_ride.png" alt="Slide 2" />
-    </div>
-    <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/liu_2015.png" alt="Slide 3" />
-    </div>
-    <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/xjh_2022.png" alt="Slide 4" />
-    </div>
-    <div class="item active">
-        <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_1.jpg" alt="Slide 5" />
-    </div>
-</div>
-
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -54,7 +59,6 @@ LUMOS aims to disseminate new insights, knowledge, and tools to academia, indust
     <span class="sr-only">Next</span>
   </a>
 </div>
-
 
 
 
