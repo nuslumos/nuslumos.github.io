@@ -111,7 +111,6 @@
 - name: Li Yuanyuan
   school: B.S. from HIT, M.S. from Southeast & Monash Joint Graduate School
   thesis: Matching and pricing for shared mobility programs in road networks
-  year: 2015-2020
   url: http://homepage.hit.edu.cn/liyuanyuan
   group: 4
   job: Assistant Professor, School of Economics and Management, Harbin Institute of Technology
@@ -131,43 +130,59 @@
   job: Postdoctoral Fellow, NUS
 
 
-- name: Hu Lu
-  url: https://faculty.swjtu.edu.cn/hulu/zh_CN/tdcy/139449/content/1402.htm
-  group: 5
-  job: Associate Professor, School of Transportation and Logistics, Southwest Jiaotong University
 
-- name: Yu Guodong (co-supervise with William Haskell)
-  url: https://www.glxy.sdu.edu.cn/info/1131/3476.htm
+- name: Zhao Hui
   group: 5
-  job: Associate Professor, School of Management, Shangdong University
+  job: Research Scientist, A*Star
 
-- name: Liu Peng
-  url: http://sem.buaa.edu.cn/szdw/xwyyzglx/lp/jbxx1.htm
+- name: Lae Chung Khim
   group: 5
-  job: Associate Professor, School of Economics and Management, Beihang University
+  job: Postdoctoral Fellow, NUS
 
-- name: Zhang Dong (co-supervise with He Shuangchi)
+- name: Li Ruijie
+  url: https://ctten.swjtu.edu.cn/info/1044/6734.htm
   group: 5
-  job: Alibaba DAMO Academy
+  job: Assistant Professor, School of Transportation and Logistics, Southwest Jiaotong University
 
-- name: Chen Yao
-  url: https://faculty.bjtu.edu.cn/trans/9589.html
+- name: Li Yuanyuan
+  url: http://homepage.hit.edu.cn/liyuanyuan
   group: 5
-  job: Assistant Professor, School of Traffic and Transportation, Beijing Jiaotong University
+  job: School of Management, Harbin Institute of Technology
 
 - name: Li Tongfei
   url: https://yanzhao.bjut.edu.cn/info/1209/3950.html
   group: 5
   job: Associate Professor, School of Traffic and Transportation, Beijing University of Technology
 
-- name: Zhao Hui
+- name: Chen Yao
+  url: https://faculty.bjtu.edu.cn/trans/9589.html
   group: 5
-  job: Research Scientist, A*Star
+  job: Assistant Professor, School of Traffic and Transportation, Beijing Jiaotong University
 
-- name: Li Ruijie
-  url: https://ctten.swjtu.edu.cn/info/1044/6734.htm
+- name: Zhang Dong (co-supervise with He Shuangchi)
   group: 5
-  job: Assistant Professor, School of Transportation and Logistics, Southwest Jiaotong University
+  job: Alibaba DAMO Academy
+
+- name: Liu Peng
+  url: http://sem.buaa.edu.cn/szdw/xwyyzglx/lp/jbxx1.htm
+  group: 5
+  job: Associate Professor, School of Economics and Management, Beihang University
+
+- name: Yu Guodong (co-supervise with William Haskell)
+  url: https://www.glxy.sdu.edu.cn/info/1131/3476.htm
+  group: 5
+  job: Associate Professor, School of Management, Shangdong University
+
+- name: Hu Lu
+  url: https://faculty.swjtu.edu.cn/hulu/zh_CN/tdcy/139449/content/1402.htm
+  group: 5
+  job: Associate Professor, School of Transportation and Logistics, Southwest Jiaotong University
+
+
+
+
+
+
 
 
 
