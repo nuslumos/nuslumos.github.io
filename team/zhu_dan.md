@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Zhu Dan (朱丹)
+title: Zhu Dan 
 position: PhD Candidate
 email: zhudan@u.nus.edu
 twitter: 

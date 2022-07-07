@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Gu Ruixue (顾瑞雪)
+title: Gu Ruixue
 position: PhD Candidate
 email: e0251049@u.nus.edu
 twitter:

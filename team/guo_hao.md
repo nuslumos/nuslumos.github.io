@@ -1,6 +1,6 @@
 ---
 layout: member
-title: Guo Hao (过颢)
+title: Guo Hao 
 position: PhD Candidate
 email: E0154200@u.nus.edu
 twitter:
