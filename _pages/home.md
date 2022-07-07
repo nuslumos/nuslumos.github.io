@@ -16,15 +16,6 @@ We focus on future urban mobility and transport systems, which cover the areas o
 
 LUMOS aims to disseminate new insights, knowledge, and tools to academia, industry, government, and research organizations worldwide.
 
-### News
-{% for article in site.data.news limit:9 %}
-{{ article.date }}
-<p><em>{{ article.headline }}</em></p>
-{% endfor %}
-
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h4>
-    
-
 ### Joining LUMOS
 We are looking for passionate new Postdocs, and Master students to join the team ([joing](joing)) !
 
