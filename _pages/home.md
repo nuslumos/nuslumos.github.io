@@ -22,7 +22,8 @@ LUMOS aims to disseminate new insights, knowledge, and tools to academia, indust
 ### Joining LUMOS
 We are recruiting phd students and postdoctoral fellows. We are looking for researchers with strong interests and expertise in *traffic simulation, mathematical modelling and programming, and data-driven optimization approaches*. If you are interested in joining LUMOS, please contact Dr. Liu Yang directly by emailing to [iseliuy@nus.edu.sg](iseliuy@nus.edu.sg) or [ceelya@nus.edu.sg](ceelya@nus.edu.sg).
 
-### Images
+### Our Research 
+For more detail, you can visit [research](research) or [Lab for Urban Mobility Systems [ITS Research Lab]](https://ieeexplore.ieee.org/document/9733251). 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -30,9 +31,6 @@ We are recruiting phd students and postdoctoral fellows. We are looking for rese
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     </ol>
 
     <!-- Items -->
@@ -56,7 +54,6 @@ We are recruiting phd students and postdoctoral fellows. We are looking for rese
     <span class="sr-only">Next</span>
   </a>
 </div>
-
 
 
 
