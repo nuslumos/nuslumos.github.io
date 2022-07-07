@@ -22,10 +22,6 @@ If you are interested in joining please go to the [joing](joing) page.
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIMH.png" style="width: 200px">	<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_SFARI.png" style="width: 200px"> -->
 
 <br>
-<br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_3.jpg" class="img-responsive" width="100%"> 
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_1.jpg" class="img-responsive" width="100%"> 
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_2.jpg" class="img-responsive" width="100%"> 
 
 
 
