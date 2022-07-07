@@ -1,9 +1,9 @@
 ---
-title: "LUMOS - Contact"
+title: "LUMOS - Joining"
 layout: textlay
-excerpt: "Contact."
+excerpt: "Joining."
 sitemap: false
-permalink: /contact/
+permalink: /joining/
 ---
 
 # Open positions
