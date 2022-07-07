@@ -3,7 +3,7 @@ title: "LUMOS - News"
 layout: textlay
 excerpt: "LUMOS at NUS."
 sitemap: false
-permalink: /allnews.html
+permalink: /allnews/
 ---
 
 # News
