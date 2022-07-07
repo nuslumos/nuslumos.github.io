@@ -6,7 +6,7 @@ email: txd@nus.edu.sg
 twitter:
 github:
 scholar: 
-photo: tang_xindi.png
+photo: tangxindi.png
 ucsf: 
 ---
 
