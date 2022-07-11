@@ -24,8 +24,6 @@ Singapore 117576
 
 ## About this website
 
-Our website is based on the open source templates designed and shared by the labs of [D. Allan Drummond](http://www.allanlab.org/aboutwebsite.html) [Trevor Bedford](http://bedford.io/misc/about/), and [Stephan Sanders](https://nuslumos.github.io). We downloaded source codes from their repository and modified our contents based on shared templates. We greatly thank for Allan and Trevor for allowing reuse of their codebase. 
-
 Webpage Administrator ： Yang Shan yang_shan@u.nus.edu
 
 <br>
