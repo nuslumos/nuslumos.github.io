@@ -18,7 +18,7 @@ LUMOS aims to disseminate new insights, knowledge, and tools to academia, indust
 
 Our lab's research activities has been profiled at IEEE Intelligent Transportation Systems Magazine[1]. 
 
-[1]. [Lab for Urban Mobility Systems [ITS Research Lab]](https://ieeexplore.ieee.org/document/9733251)" in IEEE Intelligent Transportation Systems Magazine, vol. 14, no. 2, pp. 222-225, March-April 2022, doi: 10.1109/MITS.2022.3141577. 
+[1] [Lab for Urban Mobility Systems [ITS Research Lab]](https://ieeexplore.ieee.org/document/9733251)" in IEEE Intelligent Transportation Systems Magazine, vol. 14, no. 2, pp. 222-225, March-April 2022, doi: 10.1109/MITS.2022.3141577. 
 
 
 ### Joining LUMOS
