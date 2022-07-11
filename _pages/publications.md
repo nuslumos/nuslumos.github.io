@@ -90,7 +90,7 @@ permalink: /publications/
 
 1. Private and Public Traffic Information Design with Rational Inattentive Travelers, with Yang, Z.
 2. Exploring Senior Mobility Patterns and Activity Change amid COVID-19 Pandemic in the Urban Rail Transit System, with Chen, E.
-3. Managing mixed traffic with electric and gasoline vehicles using tradable credit scheme, with Zeng, H. and Xie, T.
+3. Managing mixed traffic with electric and gasoline vehicles using tradable credit scheme, with Zeng, M. and Xie, T.
 4. An Optimization Model for Staggered Bottleneck Congestion with Heterogeneous Commuters.
 5. Dynamic Pricing in One-way Car Sharing Networks: A Distributional Fluid Approximation Approach, with Yunan Liu, Shuangchi He, Ling Zhang.
 6. Dynamic User Equilibria on Two-Modes Corridors with Risk-Averse Users, with Liu, P.
