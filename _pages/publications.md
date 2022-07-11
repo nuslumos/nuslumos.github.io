@@ -52,16 +52,16 @@ permalink: /publications/
 
 ## Journal
 
-1. Chen, Y. and Liu, Y.* (2022[) Integrated Optimization of Planning and Operations for Shared Autonomous Electric Vehicle Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932037), accepted by Transportation Science.
-2. Yang, Z. and and Liu, Y.* (2021) [Optimal Routing Policy for a Mixture of Connected Vehicles and Human-Driven Vehicles With En-route Information](https://ssrn.com/abstract=3885540), under 2nd round review at Transportation Research Part B: Methodological.
-3. Xie J., Liu Y., and N. Chen (2021) [Two-Sided Deep Reinforcement Learning for Dynamic Mobility-on-Demand Management with Mixed-Autonomy](https://www.researchgate.net/publication/354352347_Two-Sided_Deep_Reinforcement_Learning_for_Dynamic_Mobility-on-Demand_Management_with_Mixed-Autonomy), under 2nd round review at Transportation Science.
-4. Liu Y., Xie J., N. Chen (2021) Stochastic One-way Carsharing Systems with Dynamic Relocation Incentives through Preference Learning, under revision at Transportation Research Part E: Logistics and Transportation Review.
-5. Xie, T. and Liu Y.* (2021) [Heterogeneous Information Provision on Traffic Networks with Competitive or Cooperative Information Providers](https://authors.elsevier.com/a/1fMny,M0mRNXCY),Transportation Research Part C: Emerging Technologies, 142, 103762.
-6. Yu, G., Dong, P., and Liu Y. (2021) An Exact Solution Framework for Reliable Network Design Involving Interventions against Endogenous Risk and Uncertainty, under revision at Transportation Research Part B: Methodological.
-7. Xie, J., Yang, Z., Lai, X., Liu Y.*, Yang, X., Teng T., and Tham CK (2022) Deep Reinforcement Learning for Dynamic Incident-Responsive Traffic Information Dissemination, submitted to Transportation Research Part E: Logistics and Transportation Review.
-8. Gu, R., Poon, M., Luo, Z., Liu Y, and Liu Z. (2022) [A hierarchical solution evaluation method and a hybrid algorithm for the vehicle routing problem with drones and multiple visits](https://authors.elsevier.com/c/1fCKM,M0mRNX8H), Transportation Research Part C: Emerging Technologies, 141, 103733.
-9. Xie, T. and Liu Y.* (2022) [Impact of connected and autonomous vehicle technology on market penetration and route choices](https://www.sciencedirect.com/science/article/abs/pii/S0968090X22000894), Transportation Research Part C: Emerging Technologies, 139, 103646.
-10. Zhao, H., Gunardi, W., Liu Y.*, Kiew, C., Teng T., and Yang, X. (2022) [Prediction of Traffic Incident Duration Using Clustering Based Ensemble Learning Method: A Case Study of Singapore](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000688), ASCE Journal of Transportation Engineering, Part A: Systems, 148(7), e04022044-e04022044..
+1.  Chen, Y. and Liu, Y.* (2020[) Integrated Optimization of Planning and Operations for Shared Autonomous Electric Vehicle Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932037), Transportation Science, Forthcoming. 
+2.  Xie J., Liu Y., and N. Chen (2021) [Two-Sided Deep Reinforcement Learning for Dynamic Mobility-on-Demand Management with Mixed-Autonomy](https://www.researchgate.net/publication/354352347_Two-Sided_Deep_Reinforcement_Learning_for_Dynamic_Mobility-on-Demand_Management_with_Mixed-Autonomy), under 3nd round review at Transportation Science.
+3.  Liu Y., Xie J., N. Chen (2021) Stochastic One-way Carsharing Systems with Dynamic Relocation Incentives through Preference Learning, under 3rd round review (minor) at Transportation Research Part E: Logistics and Transportation Review. 
+4.  Yu, G., Dong, P., and  Liu Y. (2021) An Exact Solution Framework for Reliable Network Design Involving Interventions against Endogenous Risk and Uncertainty, under 2nd round review at Transportation Research Part B: Methodological.
+5.  Xie, J., Yang, Z., Lai, X., Liu Y.*, Yang, X., Teng T., and Tham CK (2022) Deep Reinforcement Learning for Dynamic Incident-Responsive Traffic Information Dissemination, submitted to Transportation Research Part E: Logistics and Transportation Review.
+6.  Chen, N., Liu Y.*, and Yang, M. (2022) Senior mobility patterns and activity change amid COVID-19 pandemic in the urban transit system, under review at Transportation Research Part C: Emerging Technologies. 
+7.	Xie, T. and Liu Y.* (2021) [Heterogeneous Information Provision on Traffic Networks with Competitive or Cooperative Information Providers](https://authors.elsevier.com/a/1fMny,M0mRNXCY),  Transportation Research Part C: Emerging Technologies, 142, 103762.
+8.	Gu, R., Poon, M., Luo, Z., Liu Y, and Liu Z. (2022) [A hierarchical solution evaluation method and a hybrid algorithm for the vehicle routing problem with drones and multiple visits](https://www.sciencedirect.com/science/article/abs/pii/S0968090X22001681), Transportation Research Part C: Emerging Technologies, 141, 103733.
+9.	Xie, T. and Liu Y.* (2022) [Impact of connected and autonomous vehicle technology on market penetration and route choices](https://www.sciencedirect.com/science/article/abs/pii/S0968090X22000894), Transportation Research Part C: Emerging Technologies, 139, 103646.
+10.	Zhao, H., Gunardi, W., Liu Y.*, Kiew, C., Teng T., and Yang, X. (2022) [Prediction of Traffic Incident Duration Using Clustering Based Ensemble Learning Method](https://ascelibrary.org/doi/abs/10.1061/JTEPBS.0000688), ASCE Journal of Transportation Engineering, Part A: Systems, 148(7): 04022044.
 11. He, D., Liu Y.*, Zhong, Q., and Wang, Z. (2022) [On the morning commute problem in a Y-shaped network with individual and household travelers](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2021.1117), Transportation Science  0(0).
 12. Guo, H., Chen, Y.*, and  Liu Y. (2022) [Shared autonomous vehicle management considering competition with human-driven private vehicles](https://www.sciencedirect.com/science/article/abs/pii/S0968090X21005295), Transportation Research Part C: Emerging Technologies 136, 103547.
 13. Tian, Q., Lin, Y., Wang, D.*, and Liu Y. (2022) [Planning for modular-vehicle transit service system: model formulation and solution methods](https://authors.elsevier.com/c/1enJE,M0mRNWvP), Transportation Research Part C: Emerging Technologies, 138, 103627.
@@ -85,15 +85,16 @@ permalink: /publications/
 31. Nie, Y. and Liu, Y. (2010) [Existence of self-financing and Pareto-improving congestion pricing: impact of value of time distribution](https://www.sciencedirect.com/science/article/abs/pii/S0965856409001001), Transportation Research Part A: Policy and Practice 44(1), 39-51.
 32. Liu, Y., Guo, X. and Yang, H. (2009) [Pareto-improving and revenue-neutral congestion pricing schemes in two-mode traffic networks](https://link.springer.com/article/10.1007/s11066-008-9018-x), NETNOMICS: Economic Research and Electronic Networking 10 (1), 123-140.
 
-
 ## Working Papers
 
-1. Private and Public Traffic Information Design with Rational Inattentive Travelers, with Yang, Z.
-2. Exploring Senior Mobility Patterns and Activity Change amid COVID-19 Pandemic in the Urban Rail Transit System, with Chen, E.
-3. Managing mixed traffic with electric and gasoline vehicles using tradable credit scheme, with Zeng, M. and Xie, T.
-4. An Optimization Model for Staggered Bottleneck Congestion with Heterogeneous Commuters.
-5. Dynamic Pricing in One-way Car Sharing Networks: A Distributional Fluid Approximation Approach, with Yunan Liu, Shuangchi He, Ling Zhang.
-6. Dynamic User Equilibria on Two-Modes Corridors with Risk-Averse Users, with Liu, P.
+1. Optimal Routing Policy for a Mixture of Connected Vehicles and Human-Driven Vehicles With En-route Information, with Yang, Z.
+2. Optimal Design of CAV Platoonable Corridor in Transportation Road Networks, with Zhu, D., Xie, T., and Zou, Bo.
+3. Private and Public Traffic Information Design with Rational Inattentive Travelers, with Yang, Z.
+4. Exploring Senior Mobility Patterns and Activity Change amid COVID-19 Pandemic in the Urban Rail Transit System, with Chen, E.
+5. Managing mixed traffic with electric and gasoline vehicles using tradable credit scheme, with Zeng, H. and Xie, T.
+6. An Optimization Model for Staggered Bottleneck Congestion with Heterogeneous Commuters.
+7. Dynamic Pricing in One-way Car Sharing Networks: A Distributional Fluid Approximation Approach, with Yunan Liu, Shuangchi He, Ling Zhang.
+8. Dynamic User Equilibria on Two-Modes Corridors with Risk-Averse Users, with Liu, P.
 
 
 ## Conference Proceedings
