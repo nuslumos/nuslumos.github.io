@@ -24,7 +24,7 @@ Singapore 117576
 
 ## About this website
 
-Webpage Administrator ： Yang Shan yang_shan@u.nus.edu
+Webpage Administrator: Yang Shan, yang_shan@u.nus.edu
 
 <br>
 <br>
