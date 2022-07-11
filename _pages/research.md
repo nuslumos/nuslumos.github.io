@@ -67,4 +67,5 @@ As our transportation system grows in capacity and usage, it becomes increasingl
 
 ----
 # Acknowledgement
-Our research work is supported by supported by Singapore Ministry of Education Academic Research Fund Tier 1 and Tier 2, and ST Engineering.
+Our research work is supported by supported by Singapore Ministry of Education Academic Research Fund Tier 1 and Tier 2, ST Engineering, A*Star and Cisco Systems.
+
