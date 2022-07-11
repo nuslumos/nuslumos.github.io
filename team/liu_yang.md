@@ -130,11 +130,11 @@ Dr. Liu Yang is jointly appointed as an Assistant professor in the Department of
 
 #### Dissertation
 
-1.  **Liu, Yang** (2013) [Enabling Congestion Pricing: Analysis and Design of Implementation Strategies](http://gradworks.umi.com/36/05/3605738.html),**Northwestern University **_(Supported by Transportation Center Dissertation Year Fellowship, and Northwestern University Terminal Year Fellowship)_.
+1.  Liu, Yang (2013) [Enabling Congestion Pricing: Analysis and Design of Implementation Strategies](http://gradworks.umi.com/36/05/3605738.html),Northwestern University _(Supported by Transportation Center Dissertation Year Fellowship, and Northwestern University Terminal Year Fellowship)_.
 
 #### Technical Report
 
-1.  Boyce, D., Nie, Y., Bar-Gera, H., **Liu, Y. **and Hu, Y. (2010) Field [Test of a Method for Finding Consistent Route Flows and Multiple-Class Link Flows in Road Traffic Assignments](http://cee.nus.edu.sg/people/iseliuy/pdf/Boyce_FieldTestConsistentRouteFlows.pdf), **Federal Highway Administration**.
+1.  Boyce, D., Nie, Y., Bar-Gera, H., **Liu, Y. **and Hu, Y. (2010) Field [Test of a Method for Finding Consistent Route Flows and Multiple-Class Link Flows in Road Traffic Assignments](http://cee.nus.edu.sg/people/iseliuy/pdf/Boyce_FieldTestConsistentRouteFlows.pdf), Federal Highway Administration.
 
 ### Conference Proceedings
 
