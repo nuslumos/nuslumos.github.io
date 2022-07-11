@@ -35,6 +35,7 @@ Dr. Liu Yang is jointly appointed as an Assistant professor in the Department of
 
 ### Honours & Awards
 
+- 2022 CICTP Best Area Editor Award
 - 2022	Faculty Teaching Excellence Award,2022
 - 2021	Best Student Paper Award, The 4th International Symposium on Multimodal Transport, (First Author: Xie Tingting, PhD student supervised by Liu Yang)
 - 2021	Student Research Competition (Second Place) on Artificial Intelligence Enabled Next Generation Transportation Systems, ASCE T&DI, (Winner: Xie Jiaohong, Phd student supervised by Chen Nan and Liu Yang
@@ -51,22 +52,24 @@ Dr. Liu Yang is jointly appointed as an Assistant professor in the Department of
 
 ### Professional Activities
 
-- Associate Editor	Transportation Science
-- Associate Editor	Socio-Economic Planning Sciences
-- Editorial Board Member	Transportation Research Part C: Emerging Technologies
-- Guest Editor	Special Issue of Transportation Research Part E: Logistics and Transportation Review
-- Editorial Board Member	Cleaner Logistics and Supply Chain
-- Editorial Board Member	Journal of Transportation Systems Engineering and Information Technology
-- Board Member	The Chinese Overseas Transportation Association (COTA) Board of Directors
-- Area editor	2022 Proceeding of COTA  International Conference for Transportation Professionals
-- Area editor	Transportation Policy, Planning, and Modeling, 2017 Proceeding of COTA International Conference for Transportation Professionals
+- Associate Editor  Transportation Science
+- Associate Editor Socio-Economic Planning Sciences
+- Editorial Board Member  Transportation Research Part C: Emerging Technologies
+- Guest Editor     Special Issue of Transportation Research Part E: Logistics and Transportation Review
+- Editorial Board Member  Cleaner Logistics and Supply Chain
+- Editorial Board Member  Communications in Transportation Research
+- Editorial Board Member  Journal of Transportation Systems Engineering and Information Technology
+- Board Member The Chinese Overseas Transportation Association (COTA) Board of Directors
+- Area editor 2022 Proceeding of COTA International Conference for Transportation Professionals
+- Area editor Transportation Policy, Planning, and Modeling, 2017 Proceeding of COTA International Conference for Transportation Professionals
 - Co-Chair	Shared Logistics and Transportation Systems Committee of World Transport Convention (WTC)
 - Member	Transportation Research Board Committee on Emerging and Innovative Public Transport and Technologies (AP020)
 - Member	Transportation Research Board Standing Committee on Transportation Network Modeling (AEP40)
-- Member	World Congress for Transportation Research Society (WCTRS) Special Interest Group C1 Transport Theory and Modelling
+- Member World Congress for Transportation Research Society (WCTRS) Special Interest Group C1 Transport Theory and Modelling
 - Member	IEEE ITS Education Committee
 - Member	Shared Logistics and Transportation Systems Committee of World Transport Convention (WTC)
 - Member	Freight Transportation Planning and Logistics Committee of World Transport Convention (WTC)
+
 
 **Teaching Areas**
 
@@ -122,12 +125,16 @@ Dr. Liu Yang is jointly appointed as an Assistant professor in the Department of
 
 #### Working Papers
 
-1.  Private and Public Traffic Information Design with Rational Inattentive Travelers, with Yang, Z.
-2.  Exploring Senior Mobility Patterns and Activity Change amid COVID-19 Pandemic in the Urban Rail Transit System, with Chen, E.
-3.  Managing mixed traffic with electric and gasoline vehicles using tradable credit scheme, with Zeng, H. and Xie, T.
-4.  An Optimization Model for Staggered Bottleneck Congestion with Heterogeneous Commuters.
-5.  Dynamic Pricing in One-way Car Sharing Networks: A Distributional Fluid Approximation Approach, with Yunan Liu, Shuangchi He, Ling Zhang.
-6.  Dynamic User Equilibria on Two-Modes Corridors with Risk-Averse Users, with Liu, P.
+1.  Optimal Routing Policy for a Mixture of Connected Vehicles and Human-Driven Vehicles With En-route Information, with Yang, Z.
+2.  Optimal Design of CAV Platoonable Corridor in Transportation Road Networks, with Zhu, D., Xie, T., and Zou, Bo.
+3.  Private and Public Traffic Information Design with Rational Inattentive Travelers, with Yang, Z.
+4.  Exploring Senior Mobility Patterns and Activity Change amid COVID-19 Pandemic in the Urban Rail Transit System, with Chen, E.
+5.  Managing mixed traffic with electric and gasoline vehicles using tradable credit scheme, with Zeng, H. and Xie, T.
+6.  An Optimization Model for Staggered Bottleneck Congestion with Heterogeneous Commuters.
+7.  Dynamic Pricing in One-way Car Sharing Networks: A Distributional Fluid Approximation Approach, with Yunan Liu, Shuangchi He, Ling Zhang.
+8.  Dynamic User Equilibria on Two-Modes Corridors with Risk-Averse Users, with Liu, P.
+
+
 
 #### Dissertation
 
