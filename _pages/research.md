@@ -66,3 +66,5 @@ As our transportation system grows in capacity and usage, it becomes increasingl
 - information provision in connected transportation networks.
 
 ----
+# Acknowledgement
+Our research work is supported by supported by Singapore Ministry of Education Academic Research Fund Tier 1 and Tier 2, and ST Engineering.
