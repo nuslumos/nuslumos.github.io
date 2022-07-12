@@ -24,4 +24,8 @@ Personal page is required to contain the following parts: biography/introduction
 
 **Contact**: [_pages/contact.md](https://github.com/nuslumos/nuslumos.github.io/blob/master/_pages/contact.md)
 
+# Markdown Editor
+
 Online markdown editor: https://dillinger.io/ 
+
+Desktop Application: https://www.zettlr.com/download
