@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-# Welcome to Lab for Urban Mobility Systems at NUS
+# Welcome to Lab for Urban Mobility Systems (LUMOS) at NUS
 
 The mission of the Lab for Urban Mobility Systems (LUMOS) is to advance intelligent transportation systems, formulate new design and operational strategies, devise effective solutions to transportation problems, and bridge academic communities with industry to improve the mobility, reliability, and sustainability of transportation systems. 
 
