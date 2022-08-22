@@ -11,12 +11,6 @@
   url: xie_tingting
   group: 1
   
-- name: Tang Xindi (唐昕迪)
-  photo: tangxindi.png
-  info: Research Fellow
-  url: tang_xindi
-  group: 1
-
 - name: Chen Enhui (陈恩惠)
   photo: chenenhui.jpg
   info: Research Fellow
@@ -95,8 +89,8 @@
   school: Beijing Jiaotong University
   group: 3
   
-- name: Li Weimeng
-  school: Beijing Jiaotong University
+- name: Li Jinjue
+  school: Tongji University
   group: 3
 
 
@@ -122,6 +116,10 @@
   job: Postdoctoral Fellow, NUS
 
 
+
+- name: Tang Xindi
+  group: 5
+  job: Assistant Professor, School of Management Science and Engineering, Central University of Finance and Economics
 
 - name: Zhao Hui
   group: 5
