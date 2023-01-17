@@ -53,8 +53,8 @@ permalink: /publications/
 ## Journal
 
 
-1. Chen, Y. and Liu, Y.* (2022) [Integrated Optimization of Planning and Operations for Shared Autonomous Electric Vehicle Systems](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.1156), Transportation Science 0(0).
-2.	Xie J., Liu Y., and N. Chen (2022) [Two-Sided Deep Reinforcement Learning for Dynamic Mobility-on-Demand Management with Mixed-Autonomy](https://www.researchgate.net/publication/354352347_Two-Sided_Deep_Reinforcement_Learning_for_Dynamic_Mobility-on-Demand_Management_with_Mixed-Autonomy), Transportation Science, Forthcoming.
+1.	Xie J., Liu Y., and N. Chen (2023) [Two-Sided Deep Reinforcement Learning for Dynamic Mobility-on-Demand Management with Mixed-Autonomy](https://pubsonline.informs.org/doi/full/10.1287/trsc.2022.1188), Transportation Science, 0(0).
+2. Chen, Y. and Liu, Y.* (2022) [Integrated Optimization of Planning and Operations for Shared Autonomous Electric Vehicle Systems](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.1156), Transportation Science 0(0).
 3.	Liu Y., Xie J., N. Chen (2022) [Stochastic One-way Carsharing Systems with Dynamic Relocation Incentives through Preference Learning](https://www.sciencedirect.com/science/article/pii/S1366554522002617?dgcid=author), Transportation Research Part E: Logistics and Transportation Review, 166, 102884. 
 4.	Yu, G., Dong, P., and  Liu Y. (2021) An Exact Solution Framework for Reliable Network Design Involving Interventions against Endogenous Risk and Uncertainty, under 2nd round review at Transportation Research Part B: Methodological.
 5.	Xie, J., Yang, Z., Lai, X., Liu Y.*, Yang, X., Teng T., and Tham CK (2022) [Deep Reinforcement Learning for Dynamic Incident-Responsive Traffic Information Dissemination](https://www.sciencedirect.com/science/article/abs/pii/S1366554522002514), Transportation Research Part E: Logistics and Transportation Review, 166, 102871. 
