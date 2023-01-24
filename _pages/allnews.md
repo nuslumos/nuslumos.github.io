@@ -21,7 +21,6 @@ permalink: /allnews/
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
     <!-- Items -->
