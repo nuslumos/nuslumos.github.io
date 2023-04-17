@@ -4,12 +4,6 @@
   url: liu_yang
   group: 0
 
-
-- name: Xie Tingting (谢婷婷)
-  photo: xietingting.jpg
-  info: Research Fellow
-  url: xie_tingting
-  group: 1
   
 - name: Chen Enhui (陈恩惠)
   photo: chenenhui.jpg
@@ -28,6 +22,12 @@
   info: Research Fellow
   url: hu_kanxin
   group: 1
+  
+- name: Xie Jiaohong (谢佼宏)
+  photo: xiejiaohong.jpeg
+  info: Research Fellow
+  url: xie_jiaohong
+  group: 1
 
 
 - name: Guo Hao (过颢)
@@ -37,15 +37,7 @@
   thesis: Integrated design and operations for shared autonomous vehicle systems
   url: guo_hao
   group: 2
-
-- name: Xie Jiaohong (谢佼宏)
-  photo: xiejiaohong.jpeg
-  info: PhD Candidate
-  year: 2018
-  thesis: Mixed autonomy fleet management of sharing mobility 
-  url: xie_jiaohong
-  group: 2
-
+  
 - name: Zhu Dan (朱丹)
   photo: zhudan.png
   info: PhD Candidate
@@ -81,9 +73,8 @@
 
 
       
-- name: Liu Jialin
-  email: e0943032@u.nus.edu
-  school: Beijing Jiaotong University
+- name: Yu Kaize
+  school: University of Electronic Science and Technology of China
   group: 3
   
 - name: Li Jinjue
@@ -109,6 +100,13 @@
   school: B.S. from Nanjing University
   thesis: Heterogeneous information provision in urban transportation networks
   year: 2017-2022
+  group: 4
+  job: Research Scientist, Institute of High Performance Computing, A*star 
+
+- name: Xie Jiaohong
+  school: B.S. from Southeast University
+  thesis: Mixed autonomy fleet management of sharing mobility 
+  year: 2018-2023
   group: 4
   job: Postdoctoral Fellow, NUS
 
