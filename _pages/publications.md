@@ -52,7 +52,7 @@ permalink: /publications/
 
 ## Journal
 
-1.	Gu, R., Liu, Y., and Mark Poon (2023) [Dynamic truck–drone routing problem for scheduled deliveries and on-demand pickups with time-related constraints](https://www.sciencedirect.com/science/article/pii/S0968090X23001286?dgcid=author), Transportation Research Part C, 151, 104139. 
+1.	Gu, R., Liu, Y., and Poon, M. (2023) [Dynamic truck–drone routing problem for scheduled deliveries and on-demand pickups with time-related constraints](https://www.sciencedirect.com/science/article/pii/S0968090X23001286?dgcid=author), Transportation Research Part C, 151, 104139. 
 2.	Xie, J., Liu, Y., and N. Chen (2023) [Two-Sided Deep Reinforcement Learning for Dynamic Mobility-on-Demand Management with Mixed-Autonomy](https://pubsonline.informs.org/doi/full/10.1287/trsc.2022.1188), Transportation Science, 0(0).
 3. Chen, Y. and Liu, Y.* (2022) [Integrated Optimization of Planning and Operations for Shared Autonomous Electric Vehicle Systems](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.1156), Transportation Science 0(0).
 4.	Liu Y., Xie J., N. Chen (2022) [Stochastic One-way Carsharing Systems with Dynamic Relocation Incentives through Preference Learning](https://www.sciencedirect.com/science/article/pii/S1366554522002617?dgcid=author), Transportation Research Part E: Logistics and Transportation Review, 166, 102884. 
