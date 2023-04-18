@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Dr. Liu Yang
-position: Assistant Professor
+position: Associate Professor
 email: ceelya@nus.edu.sg, iseliuy@nus.edu.sg
 twitter:
 github:
@@ -12,13 +12,15 @@ ucsf:
 
 ### Biography
 
-Dr. Liu Yang is jointly appointed as an Assistant professor in the Department of Civil and Environmental Engineering and the Department of Industrial Systems Engineering and Management at the National University of Singapore. She received her B.S. from Tsinghua University,  MPhil from Hong Kong University of Science and Technology, and  Ph.D. from Northwestern University. Previously, Dr. Liu worked as a consultant at Cambridge Systematics and provided modeling expertise to public agencies such as the Chicago Department of Transportation. She has worked on research projects funded by US and Singapore public agencies, including the US Federal Highway Administration, the National Science Foundation, Singapore Ministry of Education, and ST Engineering.  Dr. Liu's research focuses on future mobility and transport, which covers topics in the areas of ridesharing and carsharing systems operations and design, travel demand and congestion management, and data-driven transportation system modeling and analysis. Her work has been published in the major journals in the transportation area, including Transportation Research Part A, Part B, Part C, Part E, and Transportation Science. Currently, she serves on the editorial boards of Transportation Science (Associate Editor), Transportation Research Part C, and Socio-Economic Planning Sciences (Associate Editor). She is a co-chair of WTC Shared Logistics and Transportation Systems Committee, a member of Transportation Research Board Standing Committee on Emerging and Innovative Public Transport and Technologies (AP020) and Transportation Network Modeling (AEP40),  Co-Chair of Academic Affairs on the Chinese Overseas Transportation Association (COTA) Board of Directors, and a member of WCTRS Special Interest Group Transport Theory and Modelling.
+Dr. Liu Yang is jointly appointed as an Associate professor in the Department of Civil and Environmental Engineering and the Department of Industrial Systems Engineering and Management at the National University of Singapore. She received her B.S. from Tsinghua University,  MPhil from Hong Kong University of Science and Technology, and  Ph.D. from Northwestern University. Previously, Dr. Liu worked as a consultant at Cambridge Systematics and provided modeling expertise to public agencies such as the Chicago Department of Transportation. She has worked on research projects funded by US and Singapore public agencies, including the US Federal Highway Administration, the National Science Foundation, Singapore Ministry of Education, and ST Engineering.  Dr. Liu's research focuses on future mobility and transport, which covers topics in the areas of ridesharing and carsharing systems operations and design, travel demand and congestion management, and data-driven transportation system modeling and analysis. Her work has been published in the major journals in the transportation area, including Transportation Research Part A, Part B, Part C, Part E, and Transportation Science. Currently, she serves on the editorial boards of Transportation Science (Associate Editor), Transportation Research Part C, and Socio-Economic Planning Sciences (Associate Editor). She is a co-chair of WTC Shared Logistics and Transportation Systems Committee, a member of Transportation Research Board Standing Committee on Emerging and Innovative Public Transport and Technologies (AP020) and Transportation Network Modeling (AEP40),  Co-Chair of Academic Affairs on the Chinese Overseas Transportation Association (COTA) Board of Directors, and a member of WCTRS Special Interest Group Transport Theory and Modelling.
 
 
 
 ### Employment history
 
-2019-present	Assistant Professor, Department of Civil and Environmental Engineering and Department of Industrial Systems Engineering and Management, NUS
+2023-now	Associate Professor, Department of Civil and Environmental Engineering and Department of Industrial Systems Engineering and Management, NUS
+
+2019-2023	Assistant Professor, Department of Civil and Environmental Engineering and Department of Industrial Systems Engineering and Management, NUS
 
 2014-2018	Assistant Professor, Department of Industrial Systems Engineering and Management, NUS
 
