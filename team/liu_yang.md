@@ -23,7 +23,7 @@ Dr. Liu Yang is jointly appointed as an Assistant professor in the Department of
 2014-2018	Assistant Professor, Department of Industrial Systems Engineering and Management, NUS
 
 2014-2014	Senior Travel Demand Modeler/Consultant, Cambridge Systematics, Inc., USA
- 
+  
 
 ### Educational qualifications
 
