@@ -1,3 +1,23 @@
+- title: "Dynamic truck–drone routing problem for scheduled deliveries and on-demand pickups with time-related constraints"
+  image: gu_2023.png
+  description: 
+  authors: 
+  link:
+    url: hhttps://www.sciencedirect.com/science/article/pii/S0968090X23001286?dgcid=author
+    display: Gu, R., Liu Y., and Poon, M., Transportation Research Part C (2023)
+  highlight: 1
+  news2: 
+
+- title: "Revealing Senior Mobility Patterns and Activities in Urban Transit Systems"
+  image: chen_2023.png
+  description: 
+  authors: 
+  link:
+    url: https://ieeexplore.ieee.org/document/10133883
+    display: Chen, E., Liu, Y., and  Yang, M., IEEE Transactions on ITS (2023)
+  highlight: 1
+  news2: 
+
 - title: "Integrated Optimization of Planning and Operations for Shared Autonomous Electric Vehicle Systems"
   image: cy_2022.png
   description: 
@@ -38,16 +58,6 @@
   highlight: 1
   news2: 
 
-- title: "Shared autonomous vehicle management considering competition with human-driven private vehicles"
-  image: guo_2022.png
-  description: 
-  authors: 
-  link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0968090X21005295
-    display: Guo, H., Chen, Y., and  Liu Y., Transportation Research Part C (2022)
-  highlight: 1
-  news2: 
-
 - title: "Information Provision and Congestion Pricing in Risky Road Networks with Heterogeneous Travelers"
   image: liu_2021.png
   description: 
@@ -65,16 +75,6 @@
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0191261520303234
     display: Li, Y. and Liu Y., Transportation Research Part B (2020)
-  highlight: 1
-  news2: 
-
-- title: "Vehicle Assignment and Relays for One-Way Electric Car-Sharing Systems"
-  image: zhang_2019.png
-  description: 
-  authors: 
-  link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0191261517311116
-    display: Zhang, D., Liu Y., and He, S. Transportation Research Part B (2019)
   highlight: 1
   news2: 
 
