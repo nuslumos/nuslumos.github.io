@@ -22,13 +22,6 @@
   info: Research Fellow
   url: hu_kanxin
   group: 1
-  
-- name: Xie Jiaohong (谢佼宏)
-  photo: xiejiaohong.jpeg
-  info: Research Fellow
-  url: xie_jiaohong
-  group: 1
-
 
 - name: Guo Hao (过颢)
   photo: guohao.jpg
@@ -108,7 +101,7 @@
   thesis: Learning-based Dynamic Management for Urban Mobility Systems
   year: 2018-2023
   group: 4
-  job: Postdoctoral Fellow, NUS
+  job: Manager of data science, American Express
 
 
 
