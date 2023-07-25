@@ -52,7 +52,7 @@ permalink: /publications/
 
 ## Journal
 
-1.	Chen, E, Liu, Y., Yang, M. (2023) [Revealing Senior Mobility Patterns and Activities in Urban Transit Systems](https://ddec1-0-en-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=https%3a%2f%2fieeexplore.ieee.org%2fdocument%2f10133883&umid=a589eb6b-5378-46fc-bf27-312851148874&auth=8d3ccd473d52f326e51c0f75cb32c9541898e5d5-205c12d3f5973e320626866c45c8fc737f0809b5), IEEE Transction on Intelligent Transportation Systems, 0(0). 
+1.	Chen, E, Liu, Y., Yang, M. (2023) [Revealing Senior Mobility Patterns and Activities in Urban Transit Systems](https://ddec1-0-en-ctp.trendmicro.com:443/wis/clicktime/v1/query?url=https%3a%2f%2fieeexplore.ieee.org%2fdocument%2f10133883&umid=a589eb6b-5378-46fc-bf27-312851148874&auth=8d3ccd473d52f326e51c0f75cb32c9541898e5d5-205c12d3f5973e320626866c45c8fc737f0809b5), IEEE Transactions on Intelligent Transportation Systems, 0(0). 
 2.	Gu, R., Liu, Y., and Poon, M. (2023) [Dynamic truck–drone routing problem for scheduled deliveries and on-demand pickups with time-related constraints](https://www.sciencedirect.com/science/article/pii/S0968090X23001286?dgcid=author), Transportation Research Part C, 151, 104139. 
 3.	Xie, J., Liu, Y., and N. Chen (2023) [Two-Sided Deep Reinforcement Learning for Dynamic Mobility-on-Demand Management with Mixed-Autonomy](https://pubsonline.informs.org/doi/full/10.1287/trsc.2022.1188), Transportation Science, 0(0).
 4. Chen, Y. and Liu, Y.* (2022) [Integrated Optimization of Planning and Operations for Shared Autonomous Electric Vehicle Systems](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2022.1156), Transportation Science 0(0).
