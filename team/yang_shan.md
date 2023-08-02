@@ -20,7 +20,7 @@ Wang, J., Wang, X.L., **Yang, S.**, Yang, H., Zhang, X.N. and Gao, Z.Y., 2021. [
 
 ### Paper Under Review
 * **Yang S.**, Liu Y. Markov Game for CV Joint Adaptive Routing in Stochastic Traffic Networks: A Scalable Learning Approach. Submitted to the *25th International Symposium on Transportation and Traffic Theory* (ISTTT25).
-* **Yang S.**, Feng Y., Wang W.L. Designing a Forward-Looking Probabilistic Matching Policy for Dynamic Ridepooling Service. Submitted to Transportation Science 
+* **Yang S.**, Feng Y., Wang W.L., Liu Y. Designing a Forward-Looking Probabilistic Matching Policy for Dynamic Ridepooling Service. Submitted to Transportation Science 
 
 #### Working Paper
 * **Yang S.**, Liu Y. Learn to Desseminate Personalized Information to Vehicles in Stochastic Traffic Networks. 
