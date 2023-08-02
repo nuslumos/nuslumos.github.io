@@ -6,7 +6,7 @@ email: yang_shan@u.nus.edu
 twitter:
 github: https://github.com/seanys
 scholar: https://scholar.google.com/citations?user=Z__RCosAAAAJ&hl=en
-photo: yangshan.png
+photo: yangshan.jpg
 ucsf: 
 ---
 
