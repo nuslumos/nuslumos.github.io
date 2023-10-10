@@ -19,15 +19,27 @@ permalink: /allnews/
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/news_pic_2.jpeg" alt="Congestion management and information provision for connected vehicles and RVs" />
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/news_pic_3.jpeg" alt="Simulating lane-changing behavior in response to information displayed on an electronic signboard" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/news_pic_4.jpeg" alt="Simulating lane-changing behavior in response to information displayed on an electronic signboard" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/news_pic_5.jpeg" alt="Simulating lane-changing behavior in response to information displayed on an electronic signboard" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/news_pic_6.jpeg" alt="Simulating lane-changing behavior in response to information displayed on an electronic signboard" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
