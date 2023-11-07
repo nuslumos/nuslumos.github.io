@@ -4,8 +4,8 @@ title: Yang Shan
 position: PhD Student
 email: yang_shan@u.nus.edu
 twitter:
-github: https://github.com/seanys
-scholar: https://scholar.google.com/citations?user=Z__RCosAAAAJ&hl=en
+github: seanys
+scholar: Z__RCosAAAAJ&hl=en
 photo: yangshan.jpg
 ucsf: 
 ---
