@@ -91,7 +91,7 @@ Dr. Liu Yang is jointly appointed as an Associate professor in the Department of
 ### Publications
 #### Journal
 
-1. Zhang, S., Sun, H., Liu, Y., Lv, Y., Wu, J., Feng, X. (2024) [Carsharing equitable relocation problem: A two-stage stochastic programming approach with learning-embedded endogenous uncertainty in demand](https://www.sciencedirect.com/science/article/pii/S0191261523001935?dgcid=coauthor), Transportation Research Part C: Emerging Technologies, 179, 102868. 
+1. Zhang, S., Sun, H., Liu, Y., Lv, Y., Wu, J., Feng, X. (2024) [Carsharing equitable relocation problem: A two-stage stochastic programming approach with learning-embedded endogenous uncertainty in demand](https://www.sciencedirect.com/science/article/pii/S0191261523001935?dgcid=coauthor), Transportation Research Part B: Methodological, 179, 102868. 
 2. Wang, S., Li, X., Chen, Z., Liu, Y.* (2023) A Railway Accident Prevention System Using An Intelligent Pilot Vehicle. IEEE Transactions on Intelligent Transportation Systems, Accepted. 
 3. Dong, P., Liu, Y., Meng, Q., & Yu, G. (2023) [Reliable Network Design Considering Endogenous Customers’ Choices Under Probabilistic Arc Failures](https://www.tandfonline.com/doi/abs/10.1080/24725854.2023.2209622). IISE Transactions, 1-25.
 4. Zhu, D., Xie, T., Liu, Y.*, Zou, B., Rujeerapaiboon, N. (2023) [Optimal Deployment of an Equitable Cav Platoonable Corridor On Road Networks with Mixed Traffic Flow](https://www.sciencedirect.com/science/article/abs/pii/S0968090X23003893), Transportation Research Part C: Emerging Technologies, 157, 104399.
