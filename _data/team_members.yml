@@ -4,24 +4,13 @@
   url: liu_yang
   group: 0
 
-  
-- name: Chen Enhui (陈恩惠)
-  photo: chenenhui.jpg
-  info: Research Fellow
-  url: chen_enhui
-  group: 1
-
 - name: Lai Xiongfei (赖雄飞)
   photo: laixiongfei.png
   info: Research Fellow
   url: lai_xiongfei
   group: 1
 
-- name: Hu Kanxin (胡侃鑫)
-  photo: hukanxin.jpeg
-  info: Research Fellow
-  url: hu_kanxin
-  group: 1
+
 
 - name: Guo Hao (过颢)
   photo: guohao.jpg
@@ -118,9 +107,18 @@
   job: Manager of data science, American Express
 
 
+- name: Chen Enhui (陈恩惠)
+  url: https://tjjt.tongji.edu.cn/info/2970/10190.htm
+  group: 5
+  job: Assistant Professor, College of Transportation Engineering, Tongji University
+  
+- name: Hu Kanxin (胡侃鑫)
+  url: https://homepage.zjut.edu.cn/hkx/
+  group: 5
+  job: Lecturer, School of Management, Zhejiang University of Technology
 
-- name: Tang Xindi
-  url: https://www.nuslumos.org/team/tang_xindi
+- name: Tang Xindi (唐昕迪)
+  url: https://mse.cufe.edu.cn/info/1017/8947.htm
   group: 5
   job: Assistant Professor, School of Management Science and Engineering, Central University of Finance and Economics
 
@@ -132,37 +130,37 @@
   group: 5
   job: Postdoctoral Fellow, NUS
 
-- name: Li Ruijie
+- name: Li Ruijie (李瑞杰)
   url: https://ctten.swjtu.edu.cn/info/1044/6734.htm
   group: 5
   job: Assistant Professor, School of Transportation and Logistics, Southwest Jiaotong University
 
-- name: Li Tongfei
-  url: https://yanzhao.bjut.edu.cn/info/1209/3950.html
+- name: Li Tongfei (李同飞)
+  url: https://yanzhao.bjut.edu.cn/info/1209/3950.htm
   group: 5
   job: Associate Professor, School of Traffic and Transportation, Beijing University of Technology
 
-- name: Chen Yao
+- name: Chen Yao (陈垚)
   url: https://faculty.bjtu.edu.cn/trans/9589.html
   group: 5
-  job: Assistant Professor, School of Traffic and Transportation, Beijing Jiaotong University
+  job: Associate Professor, School of Traffic and Transportation, Beijing Jiaotong University
 
 - name: Zhang Dong (co-supervise with He Shuangchi)
   group: 5
   job: Alibaba DAMO Academy
 
-- name: Liu Peng
-  url: http://sem.buaa.edu.cn/szdw/xwyyzglx/lp/jbxx1.htm
+- name: Liu Peng (刘鹏)
+  url: https://sem.buaa.edu.cn/info/1084/9682.htm
   group: 5
   job: Associate Professor, School of Economics and Management, Beihang University
 
-- name: Yu Guodong (co-supervise with William Haskell)
+- name: Yu Guodong (于国栋, co-supervise with William Haskell)
   url: https://www.glxy.sdu.edu.cn/info/1131/3476.htm
   group: 5
   job: Associate Professor, School of Management, Shangdong University
 
-- name: Hu Lu
-  url: https://faculty.swjtu.edu.cn/hulu/zh_CN/tdcy/139449/content/1402.htm
+- name: Hu Lu (胡路)
+  url: https://faculty.swjtu.edu.cn/hulu
   group: 5
   job: Associate Professor, School of Transportation and Logistics, Southwest Jiaotong University
 
