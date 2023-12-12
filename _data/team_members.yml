@@ -10,8 +10,6 @@
   url: lai_xiongfei
   group: 1
 
-
-
 - name: Guo Hao (过颢)
   photo: guohao.jpg
   info: PhD Candidate
@@ -78,28 +76,28 @@
   
 
 
-- name: Li Yuanyuan
+- name: Li Yuanyuan (李园园)
   school: B.S. from HIT, M.S. from Southeast & Monash Joint Graduate School
   thesis: Matching and pricing for shared mobility programs in road networks
   url: http://homepage.hit.edu.cn/liyuanyuan
   group: 4
   job: Assistant Professor, School of Economics and Management, Harbin Institute of Technology
 
-- name: Yang Zhenyu
+- name: Yang Zhenyu (杨振宇)
   school: B.S. from HUST, M.S. from Beijing Jiaotong University
   thesis: Congestion management and information provision in risky and connected transportation networks
   year: 2017-2021
   group: 4
   job: Postdoctoral Fellow, EPFL
 
-- name: Xie Tingting
+- name: Xie Tingting (谢婷婷)
   school: B.S. from Nanjing University
   thesis: Heterogeneous information provision in urban transportation networks
   year: 2017-2022
   group: 4
   job: Research Scientist, Institute of High Performance Computing, A*star 
 
-- name: Xie Jiaohong
+- name: Xie Jiaohong (谢佼宏)
   school: B.S. from Southeast University
   thesis: Learning-based Dynamic Management for Urban Mobility Systems
   year: 2018-2023
