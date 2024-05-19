@@ -15,6 +15,7 @@ url: ""
 include:
   - .htaccess
   - _pages
+  - _news
 
 sass:
   sass_dir: _sass
