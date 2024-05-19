@@ -4,10 +4,10 @@
   url: liu_yang
   group: 0
 
-- name: Lai Xiongfei (赖雄飞)
-  photo: laixiongfei.png
+- name: Zhu Dan (朱丹)
+  photo: zhudan.png
   info: Research Fellow
-  url: lai_xiongfei
+  url: zhu_dan
   group: 1
 
 - name: Guo Hao (过颢)
@@ -16,22 +16,6 @@
   year: 2017
   thesis: Integrated design and operations for shared autonomous vehicle systems
   url: guo_hao
-  group: 2
-  
-- name: Zhu Dan (朱丹)
-  photo: zhudan.png
-  info: PhD Candidate
-  year: 2019
-  thesis: Design Autonomous Corridors in Road Networks
-  url: zhu_dan
-  group: 2
-
-- name: Gu Ruixue (顾瑞雪)
-  photo: guruixue.jpg
-  info: PhD Candidate
-  year: 2020
-  thesis: Optimization of truck-drone delivery problems
-  url: gu_ruixue
   group: 2
 
 - name: Yang Shan (羊山)
@@ -52,11 +36,7 @@
   
 
 
-      
-- name: Yu Kaize (于凯泽)
-  school: University of Electronic Science and Technology of China
-  group: 3
-  
+        
 - name: Yang Shuo (杨硕)
   school: China University of Petroleum
   group: 3
@@ -64,13 +44,13 @@
 - name: Liu Xin (刘昕)
   school: Southeast University
   group: 3
-
-- name: Li Yang (李杨)
-  school: Tongji University
-  group: 3
   
 - name: Zhong Linhuan (钟林环)
   school: Central South University
+  group: 3
+
+- name: Fan Yinchao (樊银超)
+  school: Hefei University of Technology
   group: 3
 
   
@@ -80,30 +60,54 @@
   school: B.S. from HIT, M.S. from Southeast & Monash Joint Graduate School
   thesis: Matching and pricing for shared mobility programs in road networks
   url: http://homepage.hit.edu.cn/liyuanyuan
+  year: 2015-2019
   group: 4
   job: Assistant Professor, School of Economics and Management, Harbin Institute of Technology
 
 - name: Yang Zhenyu (杨振宇)
   school: B.S. from HUST, M.S. from Beijing Jiaotong University
-  thesis: Congestion management and information provision in risky and connected transportation networks
+  thesis: Congestion Management and information provision in risky and connected transportation networks
   year: 2017-2021
+  url: https://people.epfl.ch/zhenyu.yang?lang=en
   group: 4
   job: Postdoctoral Fellow, EPFL
 
 - name: Xie Tingting (谢婷婷)
   school: B.S. from Nanjing University
-  thesis: Heterogeneous information provision in urban transportation networks
+  thesis: Heterogeneous Information Provision in Urban Transportation Networks
   year: 2017-2022
+  url: https://www.linkedin.com/in/tingting-xie-0029b5222/
   group: 4
-  job: Research Scientist, Institute of High Performance Computing, A*star 
+  job: Manager of data science, American Express
 
 - name: Xie Jiaohong (谢佼宏)
   school: B.S. from Southeast University
   thesis: Learning-based Dynamic Management for Urban Mobility Systems
   year: 2018-2023
+  url: https://www.linkedin.com/in/jiaohong-xie/
   group: 4
   job: Manager of data science, American Express
 
+- name: Zhu Dan (朱丹)
+  school: B.S. from SWJTU, M.S. from South China University of Technology
+  thesis: Resilient and Equitable Transportation Network Design with Connected and Autonomous Vehicles
+  year: 2019-2024
+  group: 4
+  job: Research Fellow, NUS
+
+  - name: Gu Ruixue (顾瑞雪)
+  school: B.S. from UESTC, M.S. from NUS
+  thesis: Optimization of Truck-Drone Routing Strategies for Logistics Service
+  year: 2020-2024
+  url: https://www.linkedin.com/in/gu-ruixue-879631159/
+  group: 4
+  job: Manager of data science, American Express
+
+
+- name: Lai Xiongfei (赖雄飞)
+  url: https://www.linkedin.com/in/xiongfei-lai-5ba42b144/
+  job: Research Fellow, NUS
+  group: 5
 
 - name: Chen Enhui (陈恩惠)
   url: https://tjjt.tongji.edu.cn/info/2970/10190.htm
@@ -113,7 +117,7 @@
 - name: Hu Kanxin (胡侃鑫)
   url: https://homepage.zjut.edu.cn/hkx/
   group: 5
-  job: Lecturer, School of Management, Zhejiang University of Technology
+  job: Associate Professor, School of Management, Zhejiang University of Technology
 
 - name: Tang Xindi (唐昕迪)
   url: https://mse.cufe.edu.cn/info/1017/8947.htm
@@ -134,7 +138,7 @@
   job: Assistant Professor, School of Transportation and Logistics, Southwest Jiaotong University
 
 - name: Li Tongfei (李同飞)
-  url: https://yanzhao.bjut.edu.cn/info/1209/3950.htm
+  url: https://facte.bjut.edu.cn/info/1176/1955.htm
   group: 5
   job: Associate Professor, School of Traffic and Transportation, Beijing University of Technology
 
@@ -155,7 +159,7 @@
 - name: Yu Guodong (于国栋, co-supervise with William Haskell)
   url: https://www.glxy.sdu.edu.cn/info/1131/3476.htm
   group: 5
-  job: Associate Professor, School of Management, Shangdong University
+  job: Professor, School of Management, Shangdong University
 
 - name: Hu Lu (胡路)
   url: https://faculty.swjtu.edu.cn/hulu
