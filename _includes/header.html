@@ -8,10 +8,12 @@
 		<span class="icon-bar"></span>
 	  </button>
 	
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">LUMOS @ NUS</a>
+      <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">
+        <img src="{{ site.baseurl }}/images/lumos-logo.svg" alt="LUMOS @ NUS">
+      </a>
 	</div>
 
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
+	<div class="collapse navbar-collapse" id="navbar-collapse-1" style="font-family: Arial, Helvetica, sans-serif; font-weight: bold; color: black !important;">
 	  <ul class="nav navbar-nav navbar-right">
 		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
 		<li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
@@ -24,3 +26,19 @@
 	
   </div>
 </div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var navLinks = document.querySelectorAll('.navbar-nav li a');
+    var currentPath = window.location.origin + window.location.pathname.replace(/\/$/, "").toLowerCase(); // 获取完整路径并转换为小写
+
+    console.log("Current Path: ", currentPath); // 调试输出
+
+    navLinks.forEach(function(link) {
+        var linkPath = link.href.replace(/\/$/, "").toLowerCase(); // 获取完整链接并转换为小写
+        console.log("Link Path: ", linkPath); // 调试输出
+        if (linkPath === currentPath) {
+            link.parentElement.classList.add('active');
+        }
+    });
+});
+</script>

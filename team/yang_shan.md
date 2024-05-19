@@ -10,7 +10,8 @@ photo: yangshan.jpg
 ucsf: 
 ---
 
-### Education
+<h3 style="margin-top:0"> Education</h3>
+
 * B.S., Management Science and Engineering, Tongji University, 2021
 * B,S.(Minor Degree), Law, Fudan University, 2021
 * Ph.D, Industrial System and Engineering, National University of Singapore, 2025 (expected)

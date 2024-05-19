@@ -6,11 +6,11 @@ sitemap: false
 permalink: /joining/
 ---
 
-# Open positions
+### Open positions
 
 We are recruiting phd students and postdoctoral fellows. We are looking for researchers with strong interests and expertise in *traffic simulation, mathematical modelling and programming, and data-driven optimization approaches*. If you are interested in joining LUMOS, please contact Dr. Liu Yang directly by emailing to [iseliuy@nus.edu.sg](iseliuy@nus.edu.sg) or [ceelya@nus.edu.sg](ceelya@nus.edu.sg).
 
-# Lab Location
+### Lab Location
 
 College of Design and Engineering
 
@@ -22,7 +22,7 @@ Block E1A #06-25
 
 Singapore 117576
 
-## About this website
+### About this website
 
 Webpage Administrator: Yang Shan, yang_shan@u.nus.edu
 

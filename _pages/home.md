@@ -6,27 +6,34 @@ sitemap: false
 permalink: /
 ---
 
-# Welcome to Lab for Urban Mobility Systems (LUMOS) at NUS
+## Welcome to Lab for Urban Mobility Systems (LUMOS) at NUS
+<div markdown="0" style="padding-top:5px; ">
+<div class="well" style="background-color: rgba(1, 61, 124, 0.05);">
+  <div class="media">
+    <div class="media-left">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/liuyang.jpg" class="media-object" style="width:120px; margin: 0px;">
+    </div>
+    <div class="media-body" style="padding-left:10px">
+      <h4 class="media-heading"><a href="/team/liu_yang" class="off">Dr. Liu Yang (刘杨)</a></h4>
+      <p>Associate Professor</p>
+      <p>Department of Civil and Environmental Engineering</p>
+      <p>Department of Industrial Systems Engineering and Management</p>
+      <p style="margin:0">National University of Singapore</p>
+    </div>
+  </div>
+</div>
+    <p>The mission of the Lab for Urban Mobility Systems (LUMOS) is to advance intelligent transportation systems, formulate new design and operational strategies, devise effective solutions to transportation problems, and bridge academic communities with industry to improve the mobility, reliability, and sustainability of transportation systems.</p>
+    <a href="https://ieeexplore.ieee.org/document/9733251">Our lab's research activities has been profiled at IEEE Intelligent Transportation Systems Magazine.</a>
+</div>
 
-The mission of the Lab for Urban Mobility Systems (LUMOS) is to advance intelligent transportation systems, formulate new design and operational strategies, devise effective solutions to transportation problems, and bridge academic communities with industry to improve the mobility, reliability, and sustainability of transportation systems. 
-
-We focus on future urban mobility and transport systems, which cover the areas of shared mobility system operation and design, travel demand and congestion management, and data-driven transportation system modeling and analysis. 
-
-The research team develops multidisciplinary approaches to address research questions with theoretical contributions and real-world implications for efficient and sustainable transportation system planning and management. 
-
-LUMOS aims to disseminate new insights, knowledge, and tools to academia, industry, government, and research organizations worldwide. 
-
-Our lab's research activities has been profiled at IEEE Intelligent Transportation Systems Magazine[1]. 
-
-[1] [Lab for Urban Mobility Systems [ITS Research Lab]](https://ieeexplore.ieee.org/document/9733251)" in IEEE Intelligent Transportation Systems Magazine, vol. 14, no. 2, pp. 222-225, March-April 2022, doi: 10.1109/MITS.2022.3141577. 
-
-
-### Joining LUMOS
-We are recruiting phd students and postdoctoral fellows. We are looking for researchers with strong interests and expertise in *traffic simulation, mathematical modelling and programming, and data-driven optimization approaches*. If you are interested in joining LUMOS, please contact Dr. Liu Yang directly by emailing to [iseliuy@nus.edu.sg](iseliuy@nus.edu.sg) or [ceelya@nus.edu.sg](ceelya@nus.edu.sg).
+---
 
 ### Our Research 
-For more detail, you can visit [research](research) or [Lab for Urban Mobility Systems [ITS Research Lab]](https://ieeexplore.ieee.org/document/9733251). 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+We focus on future urban mobility and transport systems, which cover the areas of shared mobility system operation and design, travel demand and congestion management, and data-driven transportation system modeling and analysis.
+
+The research team develops multidisciplinary approaches to address research questions with theoretical contributions and real-world implications for efficient and sustainable transportation system planning and management.
+
+<div markdown="0" id="carousel" style="max-width: 700px; margin: 0 auto;" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -57,5 +64,24 @@ For more detail, you can visit [research](research) or [Lab for Urban Mobility S
   </a>
 </div>
 
+<b>LUMOS aims to disseminate new insights, knowledge, and tools to academia, industry, government, and research organizations worldwide.</b>
 
+<p><a href="/allnews" class="btn btn-primary" style="background-color: #013D7C; border-color: #013D7C; font-size:16px">see all research</a></p>
 
+---
+
+### Lab News
+
+{% for article in site.data.news limit:5 %}
+<b>{{ article.date }}</b>
+<p>{{ article.headline }}</p>
+{% endfor %}
+
+<p><a href="/allnews" class="btn btn-primary" style="background-color: #013D7C; border-color: #013D7C; font-size:16px">see all News</a></p>
+
+---
+
+### Joining LUMOS
+We are recruiting phd students and postdoctoral fellows. We are looking for researchers with strong interests and expertise in *traffic simulation, mathematical modelling and programming, and data-driven optimization approaches*. If you are interested in joining LUMOS, please contact Dr. Liu Yang directly by emailing to [iseliuy@nus.edu.sg](iseliuy@nus.edu.sg) or [ceelya@nus.edu.sg](ceelya@nus.edu.sg).
+
+<br>

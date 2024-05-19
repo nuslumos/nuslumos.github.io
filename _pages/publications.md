@@ -7,11 +7,11 @@ permalink: /publications/
 ---
 
 
-# Publications
+### Publications
 
 ---
 
-## Featured
+### Featured
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -50,7 +50,7 @@ permalink: /publications/
 ---
 
 
-## Journal
+### Journal
 
 1. Zhang, S., Sun, H., Liu, Y., Lv, Y., Wu, J., Feng, X. (2024) [Carsharing equitable relocation problem: A two-stage stochastic programming approach with learning-embedded endogenous uncertainty in demand](https://www.sciencedirect.com/science/article/pii/S0191261523001935?dgcid=coauthor), Transportation Research Part B: Methodological, 179, 102868. 
 2. Wang, S., Li, X., Chen, Z., Liu, Y.* (2023) A Railway Accident Prevention System Using An Intelligent Pilot Vehicle. IEEE Transactions on Intelligent Transportation Systems, Accepted. 

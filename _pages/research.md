@@ -6,13 +6,13 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research Highlights
+### Research Highlights
 
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/sharing.png){: style="width: 500px; float: left;margin-right: 30px; border: 10px"}
 
-## Shared Mobility System Design and Operations
+### Shared Mobility System Design and Operations
 <div style="text-align: justify">
 Shared mobility has been widely recognized as an efficient means to efficiently promote resource utilization and improve our standards of living. The lab develops research on shared autonomous electric vehicle systems, mixed f leet mobility-on-demand (MoD) systems with autonomous vehicles (AVs) and conventional vehicles (CVs), ridesharing and ride-hailing systems, and bike-sharing systems. 
 </div>
@@ -27,7 +27,7 @@ At the long-run infrastructure planning and design level, we focus on the design
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/congestion.png){: style="width: 500px; float: left;margin-right: 30px; border: 10px"}
 
-## Smart Congestion Management and Information Provision
+### Smart Congestion Management and Information Provision
 <div style="text-align: justify">
 The past decades have witnessed the rapid development of information technologies in transportation systems. The dissemination of real-time travel information may guide travelers to choose modes and routes and schedule their trips to reduce travel times. We study information provision and develop modeling frameworks to predict the impacts of pretrip information and en-route information.
 </div>
@@ -44,7 +44,7 @@ Our studies in information provision highlight the importance of adequately desi
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/lane.png){: style="width: 500px; float: left;margin-right: 30px; border: 10px"}
 
-## Data-Driven Intelligent Traffic Diffusion Plan Generation 
+### Data-Driven Intelligent Traffic Diffusion Plan Generation 
 <div style="text-align: justify">
 Beginning in May 2020, we have been collaborating with ST Engineering on an artificial intelligence research program with the goal of building a people-centric, smart future for Singapore. Our project, “Intelligent Traffic Diffusion Plan Generation, Effective Assessment and Dissemination Strategies, aims to develop a framework to dynamically generate effective traffic diffusion plans as well as dissemination strategies to distribute guidance information to drivers in a timely manner. Intelligent tools, such as machine learning, deep reinforcement learning, traffic simulation, and optimization techniques, are used in this project.
 </div>
@@ -57,7 +57,7 @@ Drivers will be able to avoid congested roads while the overall network congesti
 </div>
 ---
 
-## Future Directions
+### Future Directions
 <div style="text-align:justify">
 As our transportation system grows in capacity and usage, it becomes increasingly important to manage traffic congestion and promote smart and sustainable technological development. Built upon prior research findings and unique expertise, the lab will continue to pursue its goals and improve the transportation system performance in terms of planning, design, operations, and management. Key lines of future research are
 </div>
@@ -66,6 +66,7 @@ As our transportation system grows in capacity and usage, it becomes increasingl
 - information provision in connected transportation networks.
 
 ----
-# Acknowledgement
+### Acknowledgement
 Our research work is supported by supported by Singapore Ministry of Education Academic Research Fund Tier 1 and Tier 2, ST Engineering, A*Star and Cisco Systems.
 
+<br>
