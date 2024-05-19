@@ -3,7 +3,7 @@ title: "LUMOS - Research"
 layout: textlay
 excerpt: "LUMOS -- Research"
 sitemap: false
-permalink: /mrg-istt25
+permalink: /mrg-istt25/
 ---
 
 # Markov Game for CV Joint Adaptive Routing in Stochastic Traffic Networks: A Scalable Learning Approach
