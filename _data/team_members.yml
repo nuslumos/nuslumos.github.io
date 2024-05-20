@@ -18,6 +18,14 @@
   url: guo_hao
   group: 2
 
+- name: Gu Ruixue (过颢)
+  photo: guruixue.jpg
+  info: PhD Candidate
+  year: 2020
+  thesis: Optimization of Truck-Drone Routing Strategies for Logistics Service
+  url: gu_ruixue
+  group: 2
+
 - name: Yang Shan (羊山)
   photo: yangshan.jpg
   info: PhD Student
@@ -95,13 +103,13 @@
   group: 4
   job: Research Fellow, NUS
 
-- name: Gu Ruixue (顾瑞雪)
-  school: B.S. from UESTC, M.S. from NUS
-  thesis: Optimization of Truck-Drone Routing Strategies for Logistics Service
-  year: 2020-2024
-  url: https://www.linkedin.com/in/gu-ruixue-879631159/
-  group: 4
-  job: Manager of data science, American Express
+# - name: Gu Ruixue (顾瑞雪)
+#   school: B.S. from UESTC, M.S. from NUS
+#   thesis: Optimization of Truck-Drone Routing Strategies for Logistics Service
+#   year: 2020-2024
+#   url: https://www.linkedin.com/in/gu-ruixue-879631159/
+#   group: 4
+#   job: Manager of data science, American Express
 
 
 - name: Lai Xiongfei (赖雄飞)
