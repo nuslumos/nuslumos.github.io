@@ -142,7 +142,7 @@ permalink: /team/
 </p>
 <span class="alumni2">{{ member.school }}</span><br>
 <span class="alumni2"><b>Thesis</b>: {{ member.thesis }}</span><br>
-<span class="alumni2"><b>Job Placement</b>: {{ member.job }} </span> {% if member.url %} <a class="alumni2" style="padding-left: 0px;" href="{{ member.url }}">(Link)</a> {% endif %}
+<span class="alumni2"><b>Job Placement</b>: {{ member.job }} </span>
 
 {% endif %}
 {% endfor %}
