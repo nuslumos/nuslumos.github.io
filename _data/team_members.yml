@@ -20,7 +20,7 @@
 
 - name: Yang Shan (羊山)
   photo: yangshan.jpg
-  info: PhD Student
+  info: PhD Candidate
   year: 2022
   thesis: Online Traffic Congestion Management via DRL
   url: yang_shan
@@ -28,10 +28,18 @@
   
 - name: Zhu Xiaolei (朱晓蕾)
   photo: zhuxiaolei.JPG
-  info: PhD Student
+  info: PhD Candidate
   year: 2021
   thesis: Data-driven transportation system planning
   url: zhu_xiaolei
+  group: 2
+  
+- name: Liu Pengxi (刘芃汐)
+  photo: liupengxi.jpg
+  info: PhD Student
+  year: 2024
+  thesis: TBC
+  url: liu_pengxi
   group: 2
   
 
