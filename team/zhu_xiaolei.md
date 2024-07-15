@@ -22,7 +22,9 @@ Ph.D, Civil and Environmental Engineering, National University of Singapore, 202
 
 ### Working Paper
 **Zhu, X.**, Xie, J. and Liu, Y., 2024. Learning-based online matching for ride-pooling system considering willingness to pool.
+
 **Zhu, X.**, and Liu, Y., 2024. Facing an Aging Society: Dynamic Mobility-on-Demand Management.
+
 Zhong, L., **Zhu, X.**, Xu, G., and Liu, Y., 2024. Dynamic capacity control in railway systems with ticket-to-seat assignment and cancellations.
 
 ### Patent
