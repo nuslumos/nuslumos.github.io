@@ -1,12 +1,12 @@
 ---
 layout: member
 title: Zhu Dan 
-position: Research Fellow
+position: PhD Candidate
 email: zhudan@u.nus.edu
 twitter: 
 github:
 scholar: 
-photo: zhudan.png
+photo: zhangli.jpeg
 ucsf: 
 ---
 

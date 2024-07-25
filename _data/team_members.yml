@@ -10,6 +10,12 @@
   url: zhu_dan
   group: 1
 
+- name: Zhang Li (张力)
+  photo: zhangli.jpeg
+  info: Research Fellow
+  url: zhang_li
+  group: 1
+
 - name: Guo Hao (过颢)
   photo: guohao.jpg
   info: PhD Candidate

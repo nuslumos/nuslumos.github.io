@@ -95,16 +95,6 @@ permalink: /publications/
 41.	Nie, Y. and Liu, Y. (2010) [Existence of self-financing and Pareto-improving congestion pricing: impact of value of time distribution](https://www.sciencedirect.com/science/article/abs/pii/S0965856409001001), Transportation Research Part A: Policy and Practice 44(1), 39-51.
 42.	Liu, Y., Guo, X. and Yang, H. (2009) [Pareto-improving and revenue-neutral congestion pricing schemes in two-mode traffic networks](https://link.springer.com/article/10.1007/s11066-008-9018-x), NETNOMICS: Economic Research and Electronic Networking 10 (1), 123-140.
 
-## Working Paper
-
-1. Optimal Routing Policy for a Mixture of Connected Vehicles and Human-Driven Vehicles With En-route Information, with Yang, Z.
-3. Private and Public Traffic Information Design with Rational Inattentive Travelers, with Yang, Z.
-4. Managing mixed traffic with electric and gasoline vehicles using tradable credit scheme, with Zeng, H. and Xie, T.
-5. An Optimization Model for Staggered Bottleneck Congestion with Heterogeneous Commuters.
-6. Dynamic Pricing in One-way Car Sharing Networks: A Distributional Fluid Approximation Approach, with Yunan Liu, Shuangchi He, Ling Zhang.
-7. Dynamic User Equilibria on Two-Modes Corridors with Risk-Averse Users, with Liu, P.
-
-
 ## Conference Proceedings
 1. Yang S., Liu Y.* (2024) Markov Game for CV Joint Adaptive Routing in Stochastic Traffic Networks: A Scalable Learning Approach, Transportation Research Procedia of The 25th International Symposium on Transportation and Traffic Theory (ISTTT25).
 2. Li, Y. and Liu, Y.* (2021) Optimizing en-route matching in a ride-hailing system with boundedly rational users, Transportation Research Procedia of The 24th International Symposium on Transportation and Traffic Theory (ISTTT is the prestigious gathering for the world's transportation and traffic theorists, acceptance rate: 16%).

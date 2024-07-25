@@ -54,7 +54,7 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
+  <h4><a href="{{ member.url }}" class="off">Dr. {{ member.name }}</a></h4>
   <span>{{ member.info }}</span>
 </div>
 
@@ -130,12 +130,12 @@ permalink: /team/
 <p style="margin-bottom: 5px;">
 {% if member.url %}
 <span class="alumni1" style="font-weight:bold;">
-  <a href="{{ member.url }}">{{ member.name }}</a>
+  <a href="{{ member.url }}">Dr. {{ member.name }}</a>
   <span style="color: gray;">{{ member.year }}</span>
 </span>
 {% else %}
 <span class="alumni1" style="font-weight:bold;">
-  {{ member.name }}
+  Dr. {{ member.name }}
   <span style="color: gray;">{{ member.year }}</span>
 </span>
 {% endif %}
@@ -158,9 +158,9 @@ permalink: /team/
 
 <p style="margin-bottom: 5px;">
 {% if member.url %}
-  <span class="alumni1" style="font-weight:bold;"><a href="{{ member.url }}">{{ member.name }}</a></span><br>
+  <span class="alumni1" style="font-weight:bold;"><a href="{{ member.url }}">Dr. {{ member.name }}</a></span><br>
 {% else %}
-  <span class="alumni1" style="font-weight:bold">{{ member.name }}</span><br>
+  <span class="alumni1" style="font-weight:bold">Dr. {{ member.name }}</span><br>
 {% endif %}
 </p>
 <span class="alumni2"><b>Job Placement</b>: {{ member.job }}</span> 

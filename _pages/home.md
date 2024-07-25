@@ -72,10 +72,18 @@ The research team develops multidisciplinary approaches to address research ques
 
 ### Lab News
 
-{% for article in site.data.news limit:5 %}
-<b>{{ article.date }}</b>
-<p>{{ article.headline }}</p>
+<div markdown="0" style="padding-top:5px; ">
+{% for news in site.data.news limit:5 %}
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="{{ news.image | default: 'images/nus_logo_full-horizontal.jpg' }}" alt="News image" style="width: 175px; height: 125px; margin-right: 15px; object-fit: cover; border: 0.2px solid grey; margin-top: 10px;">
+  <div>
+    <h4><a href="#">{{ news.headline }}</a></h4>
+    <p style="font-size:14px">{{ news.type }} | <em>{{ news.date }}</em></p>
+    <p>{{ news.abstract }}</p>
+  </div>
+</div>
 {% endfor %}
+</div>
 
 <p><a href="/allnews" class="btn btn-primary" style="background-color: #013D7C; border-color: #013D7C; font-size:16px">see all News</a></p>
 

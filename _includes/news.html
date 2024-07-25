@@ -2,9 +2,17 @@
 <div class="well">
 <h4>News</h4>
 
-{% for article in site.data.news limit:5 %}
-{{ article.date }}
-<p><em>{{ article.headline }}</em></p>
+{% for news in site.data.news %}
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <img src="{{ news.image | default: 'images/logo_nuslumos.png' }}" alt="News image" style="width: 100px; height: 100px; margin-right: 15px;">
+  <div>
+    <h3><a href="#">{{ news.headline }}</a></h3>
+    <p><em>{{ news.date }}</em></p>
+    {% if news.details %}
+      <p>{{ news.details }}</p>
+    {% endif %}
+  </div>
+</div>
 {% endfor %}
 
 <h4><a href="{{ site.url }}{{ site.baseurl }}/allnews/">... see all News</a></h4> </div>
