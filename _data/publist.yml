@@ -1,3 +1,23 @@
+- title: "Markov Game for CV Joint Adaptive Routing in Stochastic Traffic Networks: A Scalable Learning Approach"
+  image: yang_2024.png
+  description: 
+  authors: 
+  link:
+    url: https://authors.elsevier.com/a/1jKdFhVEBCe72
+    display: Yang, S. and Liu Y., Transportation Research Part B (2024)
+  highlight: 1
+  news2: 
+
+- title: " Optimal Deployment of an Equitable Cav Platoonable Corridor On Road Networks with Mixed Traffic Flow"
+  image: zhu_2023.png
+  description: 
+  authors: 
+  link:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0968090X23003893
+    display: Zhu, D., Xie, T., Liu, Y.*, Zou, B., and Rujeerapaiboon, N. Transportation Research Part C (2023)
+  highlight: 1
+  news2: 
+
 - title: "Dynamic truck–drone routing problem for scheduled deliveries and on-demand pickups with time-related constraints"
   image: gu_2023.png
   description: 
@@ -55,26 +75,6 @@
   link:
     url: https://pubsonline.informs.org/doi/abs/10.1287/trsc.2021.1117
     display: He, D., Liu Y., Zhong, Q., and Wang, Z. Transportation Science (2022)
-  highlight: 1
-  news2: 
-
-- title: "Information Provision and Congestion Pricing in Risky Road Networks with Heterogeneous Travelers"
-  image: liu_2021.png
-  description: 
-  authors: 
-  link:
-    url: https://www.sciencedirect.com/science/article/abs/pii/S0968090X21001054
-    display: Liu Y. and Yang Z. Transportation Research Part C (2021)
-  highlight: 1
-  news2: 
-
-- title: "A path-based equilibrium model for ridesharing matching"
-  image: li_2020.png
-  description: 
-  authors: 
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0191261520303234
-    display: Li, Y. and Liu Y., Transportation Research Part B (2020)
   highlight: 1
   news2: 
 

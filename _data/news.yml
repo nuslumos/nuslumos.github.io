@@ -1,19 +1,19 @@
 - date: July 2024
-  headline: "We present our lastest research on joint adaptive routing in stochastic traffic networks in ISTTT25!"
+  headline: '<a href="/allnews/2024_isttt25">We present our lastest research on joint adaptive routing in stochastic traffic networks in ISTTT25!</a>'
   type: "Presentation"
   image: images/newspic/isttt25_pre.jpeg
   abstract: "<strong>Source</strong>: ISTTT25 Podium Session 6: Markov Game for CV Joint Adaptive Routing in Stochastic Traffic Networks: A Scalable Learning Approach, July 16 @ 10:50 am - 11:20 am EDT"
 
 - date: July 2024
-  headline: Congratulations to Dr. Zhu Dan and Dr. Gu Ruixue on successfully passing their doctoral defenses!
+  headline: <a href="/allnews/2024_graduate">Congratulations to Dr. Zhu Dan and Dr. Gu Ruixue on successfully passing their doctoral defenses!</a> 
   type: "News"
   image: images/newspic/2024_graduate.jpeg
   abstract: "Congratulations!!"
 
 - date: June 2024
-  headline: '<a href="https://authors.elsevier.com/a/1jKdFhVEBCe72">New Paper! Markov game for CV joint adaptive routing in stochastic traffic networks: A scalable learning approach</a> '
+  headline: '<a href="https://authors.elsevier.com/a/1jKdFhVEBCe72">New Paper! Markov game for CV joint adaptive routing in stochastic traffic networks: A scalable learning approach</a>'
   type: "Journal"
-  image: images/newspic/mrg_trb.jpg
+  image: images/newspic/2024_partb_mrg.png
   abstract: "This research is published in <em>Transportation Research Part B: Methodological</em>."
 
 - date: March 2024
@@ -23,7 +23,7 @@
   abstract: "This research is published in <em>Transportation Research Part A: Policy and Practice</em>."
 
 - date: Jan 2024
-  headline: "Dr. Liu Yang, Mr. Yang Shan, and Miss. Zhu Xiaolei presented our lastest works in Transportation Research Board, 103nd Annual Meeting! "
+  headline: "<a href='/allnews/2024_trb'>Dr. Liu Yang, Mr. Yang Shan, and Miss. Zhu Xiaolei presented our lastest works in Transportation Research Board, 103nd Annual Meeting! </a>"
   type: "Presentation"
   image: "images/newspic/2024_trb_poster2.jpeg"
   abstract: "We appreciate your suggestions and comments!"
@@ -48,9 +48,9 @@
 
 
 - date: Jan 2023
-  headline: "Dr. Liu Yang, Dr. Xie Tinting, and Miss Zhu Dan presented our lastest works in Transportation Research Board, 102nd Annual Meeting! "
+  headline: "<a href='/allnews/2023_trb'>Dr. Liu Yang, Dr. Xie Tinting, and Miss Zhu Dan presented our lastest works in Transportation Research Board, 102nd Annual Meeting! </a>"
   type: "Presentation"
-  image: images/newspic/2023_trb__pic_2.jpeg
+  image: images/newspic/2023_trb/2023_trb_pic_2.jpeg
   abstract: "Thank you for your suggestions and comments!"
 
 - date: Jan 2023
