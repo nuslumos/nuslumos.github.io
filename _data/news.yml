@@ -25,7 +25,7 @@
 - date: Jan 2024
   headline: "<a href='/allnews/2024_trb'>Dr. Liu Yang, Mr. Yang Shan, and Miss. Zhu Xiaolei presented our lastest works in Transportation Research Board, 103nd Annual Meeting! </a>"
   type: "Presentation"
-  image: "images/newspic/2024_trb_poster2.jpeg"
+  image: "images/newspic/2024_trb_poster1.jpeg"
   abstract: "We appreciate your suggestions and comments!"
 
 - date: Nov 2023
@@ -33,6 +33,13 @@
   type: "Journal"
   image: images/newspic/2024_partc_platoon.jpg
   abstract: "This research is published in <em>Transportation Research Part C: Emerging Technologies.</em>"
+
+- date: Sept 2023
+  headline: '<a href="/allnews/2024_itsc">We present our lastest research in ITSC2023!</a>'
+  type: "Presentation"
+  image: images/newspic/2023_itsc_pic1.jpeg
+  abstract: "<strong>Source</strong>: "
+
 
 - date: May 2023
   headline: "<a href='https://ieeexplore.ieee.org/document/10133883'>New paper! Revealing Senior Mobility Patterns and Activities in Urban Transit Systems</a>"
