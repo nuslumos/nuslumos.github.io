@@ -34,11 +34,11 @@
   image: images/newspic/2024_partc_platoon.jpg
   abstract: "This research is published in <em>Transportation Research Part C: Emerging Technologies.</em>"
 
-- date: Sept 2023
-  headline: '<a href="/allnews/2023_itsc">We present our lastest research in ITSC2023!</a>'
+- date: Sep 2023
+  headline: '<a href="/allnews/2023_itsc">We present our latest research in ITSC 2023!</a>'
   type: "Presentation"
   image: images/newspic/2023_itsc_pic1.jpeg
-  abstract: "<strong>Source</strong>: "
+  abstract: "2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)"
 
 
 - date: May 2023
