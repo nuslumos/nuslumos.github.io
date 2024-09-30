@@ -2,10 +2,10 @@
 layout: member
 title: Zhang Li 
 position: Research Fellow
-email: zhang_li@nus.edu.sg
+email: lizhang@nus.edu.sg
 twitter: 
 github:
-scholar: 
+scholar: SEK3OwsAAAAJ&hl=zh-CN
 photo: zhangli.jpeg
 ucsf: 
 ---
