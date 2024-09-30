@@ -1,8 +1,8 @@
 ---
 layout: member
-title: Zhu Dan 
-position: PhD Candidate
-email: zhudan@u.nus.edu
+title: Zhang Li 
+position: Research Fellow
+email: zhang_li@nus.edu.sg
 twitter: 
 github:
 scholar: 
