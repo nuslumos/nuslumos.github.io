@@ -16,14 +16,6 @@
   url: zhang_li
   group: 1
 
-- name: Guo Hao (过颢)
-  photo: guohao.jpg
-  info: PhD Candidate
-  year: 2017
-  thesis: Integrated design and operations for shared autonomous vehicle systems
-  url: guo_hao
-  group: 2
-
 - name: Yang Shan (羊山)
   photo: yangshan.jpg
   info: PhD Candidate
@@ -50,22 +42,15 @@
   
 
 
-        
-- name: Yang Shuo (杨硕)
-  school: China University of Petroleum
-  group: 3
-
-- name: Liu Xin (刘昕)
-  school: Southeast University
-  group: 3
-  
+          
 - name: Zhong Linhuan (钟林环)
   school: Central South University
   group: 3
 
-- name: Fan Yinchao (樊银超)
-  school: Hefei University of Technology
+- name: Liu Zhongshan (刘忠山)
+  school: Beihang University
   group: 3
+
 
   
 
@@ -117,6 +102,12 @@
   group: 4
   job: Manager of data science, American Express
 
+- name: Guo Hao (过颢)
+  school: B.S. and M.S. from Southeast University
+  thesis: Integrated design and operations for shared autonomous vehicle systems
+  year: 2017-2024
+  group: 4
+  
 
 - name: Lai Xiongfei (赖雄飞)
   url: https://www.linkedin.com/in/xiongfei-lai-5ba42b144/
