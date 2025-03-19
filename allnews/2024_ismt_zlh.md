@@ -3,7 +3,7 @@ layout: textlay
 title: "LUMOS - Research"
 excerpt: "LUMOS -- Research"
 sitemap: false
-permalink: /allnews/2024_ismt
+permalink: /allnews/2024_ismt_zlh
 ---
 
 #### Congratulations! Zhong Linhuan won the Best Paper Award at the 6th International Symposium on Multimodal Transport (ISMT 2024)!
