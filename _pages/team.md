@@ -120,6 +120,27 @@ permalink: /team/
 {% endif %}
 {% endfor %}
 
+
+
+---
+
+### Alumni-Postdoctoral Research Fellows
+
+{% for member in site.data.team_members %}
+{% if member.group == 5 %}
+
+<p style="margin-bottom: 5px;">
+{% if member.url %}
+  <span class="alumni1" style="font-weight:bold;"><a href="{{ member.url }}">Dr. {{ member.name }}</a></span><br>
+{% else %}
+  <span class="alumni1" style="font-weight:bold">Dr. {{ member.name }}</span><br>
+{% endif %}
+</p>
+<span class="alumni2"><b>Job Placement</b>: {{ member.job }}</span> 
+
+{% endif %}
+{% endfor %}
+
 ---
 
 ### Alumni-Ph.D Student
@@ -143,27 +164,6 @@ permalink: /team/
 <span class="alumni2">{{ member.school }}</span><br>
 <span class="alumni2"><b>Thesis</b>: {{ member.thesis }}</span><br>
 <span class="alumni2"><b>Job Placement</b>: {{ member.job }} </span>
-
-{% endif %}
-{% endfor %}
-
-
-
----
-
-### Alumni-Postdoctoral Research Fellows
-
-{% for member in site.data.team_members %}
-{% if member.group == 5 %}
-
-<p style="margin-bottom: 5px;">
-{% if member.url %}
-  <span class="alumni1" style="font-weight:bold;"><a href="{{ member.url }}">Dr. {{ member.name }}</a></span><br>
-{% else %}
-  <span class="alumni1" style="font-weight:bold">Dr. {{ member.name }}</span><br>
-{% endif %}
-</p>
-<span class="alumni2"><b>Job Placement</b>: {{ member.job }}</span> 
 
 {% endif %}
 {% endfor %}
