@@ -2,7 +2,7 @@
 layout: member
 title: Zhu Xiaolei 
 position: PhD Candidate, Research Engineer
-email: e0675792@u.nus.edu
+email: xiaolei.z@u.nus.edu, zxl@nus.edu.sg
 twitter:
 github:
 scholar: 
@@ -20,7 +20,7 @@ ucsf:
 ### Honours & Awards
 - Best Paper Award, the 6th International Symposium on Multimodal Transport (ISMT 2024).
 - Third Prize, 15th National Competition of Transport Science and Technology for Undergraduate Students, 2020.
-- Jiqian Xu – Qiu Zhang Scholarship, 2018-2019 Academic Year.
+- Jiqian Xu – Qiu Zhang Scholarship, Southeast University, 2018-2019 Academic Year.
 
 ### Publications
 #### Journal
