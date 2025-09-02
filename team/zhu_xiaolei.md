@@ -15,7 +15,7 @@ ucsf:
 - Ph.D, Civil and Environmental Engineering, National University of Singapore, 2021-present
 
 ### Position Held
-- Research Engineer, Cisco- NUS Accelerated Digital Economy Corporate Laboratory, 2022-present
+- Research Engineer, Cisco-NUS Accelerated Digital Economy Corporate Laboratory, 2022-present
 
 ### Honours & Awards
 - Best Paper Award, the 6th International Symposium on Multimodal Transport (ISMT 2024).
@@ -34,7 +34,6 @@ Mobility-on-Demand Management in Aging Societies.
 
 ### Conference Proceedings
 - **Zhu, X.**, Tang, X., Xie, J. and Liu, Y.*, 2023. Dynamic Balancing-Charging Management for Shared Autonomous Electric Vehicle Systems: A Two-Stage Learning-Based Approach. In 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC) (pp. 3762-3769). IEEE.
-- **Zhu, X.**, Bai, Q., Ong, G.P.*. and Sikdar, B.., 2023. Dynamic Balancing-Charging Management for Shared Autonomous Electric Vehicle Systems: A Two-Stage Learning-Based Approach. In 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC) (pp. 3762-3769). IEEE.
 
 ### Other Conference Presentations
 - **Zhu, X.**, Tang, X., Xie, J. and Liu, Y.*, 2025. A Learning-Informed Optimization Framework for Dynamic Balancing-Charging Management of Shared Autonomous Electric Vehicle Systems. INFORMS International Meeting, Singapore.
