@@ -19,8 +19,8 @@ I am Yang Shan (羊山), a PhD candidate in ISEM at the National University of S
 * Ph.D, Industrial System and Engineering, National University of Singapore, 2025 (expected)
 
 ### Publication
-* **Yang, S.** and Liu, Y. (2024) [Markov Game for CV Joint Adaptive Routing in Stochastic Traffic Networks: A Scalable Learning Approach](https://www.researchgate.net/publication/380759912_Markov_Game_for_CV_Joint_Adaptive_Routing_in_Stochastic_Traffic_Networks_A_Scalable_Learning_Approach?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoicHJvZmlsZSIsInByZXZpb3VzUGFnZSI6ImhvbWUiLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19), Transportation Research Part B: Methodological, Forthcoming.
-* Wang, J., Wang, X.L., **Yang, S.**, Yang, H., Zhang, X.N. and Gao, Z.Y., 2021. [Predicting the matching probability and ride/shared distance for each dynamic ridepooling order: A mathematical modeling approach](https://www.sciencedirect.com/science/article/pii/S0191261521001880). Transportation Research Part B 154, 125-146.
+* **Yang, S.** and Liu, Y., 2024. [Markov Game for CV Joint Adaptive Routing in Stochastic Traffic Networks: A Scalable Learning Approach](https://www.sciencedirect.com/science/article/abs/pii/S0191261524001218), **Transportation Research Part B: Methodological**, 189, 102997. 
+* Wang, J., Wang, X.L., **Yang, S.**, Yang, H., Zhang, X.N. and Gao, Z.Y., 2021. [Predicting the matching probability and ride/shared distance for each dynamic ridepooling order: A mathematical modeling approach](https://www.sciencedirect.com/science/article/pii/S0191261521001880). **Transportation Research Part B** 154, 125-146.
 
 Remark: Transportation Research Part B is a top-2 journal in transportation theory.
 
