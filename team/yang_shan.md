@@ -11,7 +11,7 @@ ucsf:
 ---
 
 <h3 style="margin-top:0"> About me</h3>
-I am Yang Shan (羊山), a PhD candidate in ISEM at the National University of Singapore (NUS). **I am dedicated to developing intelligent decision-making and modeling methods for complex systems, focusing on the integration of reinforcement learning and optimization theory to create interpretable and scalable policy learning frameworks.** My PhD thesis centers on using deep reinforcement learning (DRL) to alleviate traffic congestion, advancing these methods for real-world transportation networks. 
+I am Yang Shan (羊山), a PhD candidate in ISEM at the National University of Singapore (NUS). **I am dedicated to developing intelligent decision-making and modeling methods for complex systems, focusing on the integration of reinforcement learning and optimization theory to create interpretable and scalable policy learning frameworks.** My PhD thesis centers on using deep reinforcement learning (DRL) to address core problems in congestion management for real-world transportation networks.
 
 ### Education
 * B.S., Management Science and Engineering, Tongji University, 2021
