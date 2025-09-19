@@ -25,7 +25,7 @@ I am Yang Shan (羊山), a PhD candidate in ISEM at the National University of S
 Remark: Transportation Research Part B is a top-2 journal in transportation theory.
 
 ### Paper Under Review
-* **Yang S.**, Feng Y., Wang W.L., Liu Y., Designing a Forward-Looking Probabilistic Matching Policy for Dynamic Ridepooling Service, **R&R at Manufacturing & Service Operations Management (utd24)**. 
+* **Yang S.**, Feng Y., Wang X.L., Liu Y., Designing a Forward-Looking Probabilistic Matching Policy for Dynamic Ridepooling Service, **R&R at Manufacturing & Service Operations Management (utd24)**. 
 * **Yang S.**, Zhong L.H., Liu Y., Model-Supplementary Learning for Congestion Pricing: A Bias-Aware Natural Policy Gradient Approach, under review at ISTTT26.
 
 ### Working Paper
