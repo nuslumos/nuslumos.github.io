@@ -10,6 +10,17 @@
   image: images/pubpic/ctr_zhudan.jpg
   abstract: "This research is published in <em>Communications in Transportation Research.</em>"
 
+- date: Dec 2025
+  headline: '<a href="/allnews/2025_ismt_zhudan">Congratulations! Dr. Zhu Dan won the Best Presenter Award at the 7th International Symposium on Multimodal Transport (ISMT 2025)!</a>'
+  type: "Presentation"
+  image: images/newspic/2025_ismt_zhudan.jpg
+  abstract: "This research was presented in the session on intelligent transportation systems at ISMT 2025."
+
+- date: Dec 2025
+  headline: '<a href="/allnews/2025_ismt_yangshan">Congratulations! Yang Shan won the Best Presenter Award at the 7th International Symposium on Multimodal Transport (ISMT 2025)!</a>'
+  type: "Presentation"
+  image: images/newspic/2025_ismt_yangshan.jpg
+  abstract: "This research was presented in the session on connected and autonomous vehicles at ISMT 2025."
   
 - date: July 2025
   headline: "<a href='https://nusgrtii.cn/news/154'>NUS GRTII Research Newsletter | AI‑Driven Cooperative Adaptive Routing for Connected Vehicles</a>"
