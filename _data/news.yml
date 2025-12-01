@@ -1,3 +1,9 @@
+- date: Dec 2025
+  headline: "<a href='/allnews/2025_isttt_dual'>Two of our papers on AI for Transportation are accepted by ISTTT26!</a>"
+  type: "News"
+  image: images/newspic/2025_isttt_dual.jpg
+  abstract: "We are thrilled to announce that our team has had two papers accepted by the ISTTT26, widely regarded as the premier venue in the field of transportation theory. The accepted works are: 1) <em>Dynamic Senior-Centric Type Matching Optimization for Mobility-on-Demand Management in Aging Societies</em>; and 2) <em>Model-Supplementary Learning for Congestion Pricing: A Bias-Aware Natural Policy Gradient Approach</em>. Congratulations!!"
+  
 - date: July 2025
   headline: "<a href='https://nusgrtii.cn/news/154'>NUS GRTII Research Newsletter | AI‑Driven Cooperative Adaptive Routing for Connected Vehicles</a>"
   type: "News"
