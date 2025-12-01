@@ -1,25 +1,25 @@
 - date: Dec 2025
   headline: "<a href='/allnews/2026'>Two of our papers on AI for Transportation are accepted by ISTTT26!</a>"
   type: "News"
-  image: images/newspic/isttt26_logo.jpg
+  image: images/newspic/ISTTT26_logo.jpg
   abstract: "We are thrilled to announce that our team has had two papers accepted by the ISTTT26, widely regarded as the premier venue in the field of transportation theory. The accepted works are: 1) <em>Dynamic Senior-Centric Type Matching Optimization for Mobility-on-Demand Management in Aging Societies</em>; and 2) <em>Model-Supplementary Learning for Congestion Pricing: A Bias-Aware Natural Policy Gradient Approach</em>. Congratulations!!"
 
 - date: Dec 2025
   headline: "<a href='https://www.sciencedirect.com/science/article/pii/S2772424725000666'>New paper! Interpretable machine learning for traffic congestion prediction: Unveiling the impact of different COVID-19 periods</a>"
   type: "Journal"
-  image: images/pubpic/ctr_zhudan.jpg
+  image: images/newspic/ctr_zhudan.jpg
   abstract: "This research is published in <em>Communications in Transportation Research.</em>"
 
 - date: Dec 2025
   headline: '<a href="/allnews/2025_ismt_zhudan">Congratulations! Dr. Zhu Dan won the Best Presenter Award at the 7th International Symposium on Multimodal Transport (ISMT 2025)!</a>'
   type: "Presentation"
-  image: images/newspic/2025_ismt_zhudan.jpg
+  image: images/newspic/2025_ismt_zhudan.JPG
   abstract: "This research was presented in the session on intelligent transportation systems at ISMT 2025."
 
 - date: Dec 2025
   headline: '<a href="/allnews/2025_ismt_yangshan">Congratulations! Yang Shan won the Best Presenter Award at the 7th International Symposium on Multimodal Transport (ISMT 2025)!</a>'
   type: "Presentation"
-  image: images/newspic/2025_ismt_yangshan.jpg
+  image: images/newspic/2025_ismt_yangshan.JPG
   abstract: "This research was presented in the session on connected and autonomous vehicles at ISMT 2025."
   
 - date: July 2025
