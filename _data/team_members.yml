@@ -49,13 +49,16 @@
   
 
 
-          
-- name: Zhong Linhuan (钟林环)
-  school: Central South University
+- name: Cao Qi (曹奇)
+  school: Southeast University
+  group: 3
+  
+- name: Feng Jiahui (冯家辉)
+  school: University of Science and Technology of China
   group: 3
 
-- name: Liu Zhongshan (刘忠山)
-  school: Beihang University
+- name: Zhou Xiaohong (周筱涵)
+  school: Dalian University of Technology
   group: 3
 
 
