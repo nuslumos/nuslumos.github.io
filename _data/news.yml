@@ -1,4 +1,10 @@
 - date: Dec 2025
+  headline: "<a href='https://doi.org/10.1016/j.trb.2025.103371'>New paper! Equitable transportation network design for signal-free smart intersections</a>"
+  type: "Journal"
+  image: images/pubpic/zhu_2026_TRB.png
+  abstract: "This research is published in <em>Transportation Research Part B: Methodological.</em>"
+  
+- date: Dec 2025
   headline: "<a href='/allnews/2026'>Two of our papers on AI for Transportation are accepted by ISTTT26!</a>"
   type: "News"
   image: images/newspic/ISTTT26_Logo.png
