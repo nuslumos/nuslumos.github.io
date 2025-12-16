@@ -109,7 +109,7 @@ permalink: /team/
 
 ---
 
-### Visiting Student
+### Visiting Scholar/Student
 {% for member in site.data.team_members %}
 {% if member.group == 3 %}
 
