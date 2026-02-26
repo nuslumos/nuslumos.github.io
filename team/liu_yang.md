@@ -12,20 +12,9 @@ ucsf:
 
 <h3 style="margin-top:0"> Biography</h3>
 
-Dr. Liu Yang is jointly appointed as an Associate professor in the Department of Civil and Environmental Engineering and the Department of Industrial Systems Engineering and Management at the National University of Singapore. Dr. Liu teaches and researches transport planning and modelling, urban mobility and logistics, traffic congestion management and data-driven methods. She received her B.S. from Tsinghua University,  MPhil from Hong Kong University of Science and Technology, and  Ph.D. from Northwestern University. Previously, Dr. Liu worked as a consultant at Cambridge Systematics and provided modeling expertise to public agencies such as the Chicago Department of Transportation. She has worked on research projects supported by the Singapore Ministry of Education, National Research Foundation, Land Transport Authority, Urban Redevelopment Authority, A*STAR, Cisco Systems and ST Engineering.  Her work is well recognised internationally by research awards such as the Transportation Science Journal Best Paper Award. She serves on the editorial boards of Transportation Science (Associate Editor), Transportation Research Part C, and Socio-Economic Planning Sciences (Associate Editor).  She is the chair of the WTC Multimodal Urban Transportation System Analysis Committee and co-chair of the Transportation Network Modelling and Computation Committee, a member of the Transportation Research Board Executive Committee on Transportation Network Modelling (AEP40) and Standing Committee on Emerging and Innovative Public Transport and Technologies (AP020).
+Dr. Liu Yang is jointly appointed as an Associate Professor in the Department of Civil and Environmental Engineering and the Department of Industrial Systems Engineering and Management at the National University of Singapore. Dr. Liu teaches and researches transport planning and modelling, urban mobility and logistics, traffic congestion management and data-driven methods. She received her B.S. from Tsinghua University,  MPhil from Hong Kong University of Science and Technology, and  Ph.D. from Northwestern University. Previously, Dr. Liu worked as a consultant at Cambridge Systematics and provided modeling expertise to public agencies such as the Chicago Department of Transportation. She has worked on research projects supported by the Singapore Ministry of Education, National Research Foundation, Land Transport Authority, Urban Redevelopment Authority, A*STAR, Cisco Systems and ST Engineering.  Her work is well recognised internationally by research awards such as the Transportation Science Journal Best Paper Award. She serves on the editorial boards of Transportation Science (Associate Editor), Transportation Research Part B (Associate Editor), Transportation Research Part C, and Socio-Economic Planning Sciences (Associate Editor).  She is the chair of the WTC Multimodal Urban Transportation System Analysis Committee and co-chair of the Transportation Network Modelling and Computation Committee, a member of the Transportation Research Board Executive Committee on Transportation Network Modelling (AEP40) and Standing Committee on Emerging and Innovative Public Transport and Technologies (AP020).
 
-
-
-### Employment history
-
-2023-Now	Associate Professor, Department of Civil and Environmental Engineering and Department of Industrial Systems Engineering and Management, NUS
-
-2019-2023	Assistant Professor, Department of Civil and Environmental Engineering and Department of Industrial Systems Engineering and Management, NUS
-
-2014-2018	Assistant Professor, Department of Industrial Systems Engineering and Management, NUS
-
-2014-2014	Senior Travel Demand Modeler/Consultant, Cambridge Systematics, Inc., USA
-  
+ 
 
 ### Educational qualifications
 
@@ -37,8 +26,12 @@ Dr. Liu Yang is jointly appointed as an Associate professor in the Department of
 
 ### Honours & Awards
 
+- 2025 The 14th Asia-Pacific Conference on Transportation and Environment Best Paper Runner-Up Award
+- 2024 INFORMS Transportation Science Journal's Paper of The Year Award
+- 2024 The 6th International Symposium on Multimodal Transport (ISMT) Best Paper Award
+- 2024 The 14th International Workshop on Computational Transportation Science (CTS) Best Paper Award
 - 2022 CICTP Best Area Editor Award
-- 2022	Faculty Teaching Excellence Award,2022
+- 2022	Faculty Teaching Excellence Award
 - 2021	Best Student Paper Award, The 4th International Symposium on Multimodal Transport, (First Author: Xie Tingting, PhD student supervised by Liu Yang)
 - 2021	Student Research Competition (Second Place) on Artificial Intelligence Enabled Next Generation Transportation Systems, ASCE T&DI, (Winner: Xie Jiaohong, Phd student supervised by Chen Nan and Liu Yang
 - 2021	Certificate of Appreciation from Institution of Engineers Singapore
@@ -55,6 +48,7 @@ Dr. Liu Yang is jointly appointed as an Associate professor in the Department of
 ### Professional Activities
 
 - Associate Editor  Transportation Science
+- Associate Editor  Transportation Research Part B: Methodological 
 - Associate Editor Socio-Economic Planning Sciences
 - Editorial Board Member  Transportation Research Part C: Emerging Technologies
 - Guest Editor     Special Issue of Transportation Research Part E: Logistics and Transportation Review
@@ -176,37 +170,47 @@ Dr. Liu Yang is jointly appointed as an Associate professor in the Department of
 
 ### Invited Talks
 
-1.  Planning and Operations of Future Urban Mobility Systems
+1.  Navigating Academia as a Women Researcher
+    * Keynote - Supporting Women in Transportation, CICTP, 2025
+2.  Online Congestion Management in Connected Road Networks
+    * Spotlight Session: Reimagining Mobility: New Frontier in Transportation, Logistics and Human-Centered Planning, CICTP, 2025
+3.  Integrated Optimization and Learning Approaches for Urban Mobility Systems
+    * Keynote -  The  18th ITS China Annual Conference, 2023
+4.  Traffic information and online routing in connected road networks
+    * Keynote -  The 14th Workshop on Computational Transportation Science (CTS)
+5.  Information Provision and Congestion Management in Connected Road Networks
+    * Keynote -The 9th International Conference on Transportation & Logistics (T-LOG), 2022
+6.  Planning and Operations of Future Urban Mobility Systems
     * Keynote – the Infrastructure and Civil Engineering World Forum, 2022
-2.  Information Provision and Congestion management for a Mixed Traffic Flow of Connected Vehicles and Regular Vehicles
+7.  Information Provision and Congestion management for a Mixed Traffic Flow of Connected Vehicles and Regular Vehicles
     * Keynote – The 4th International Symposium on Multimodal Transportation (ISMT), 2021
-3.  Two-Sided Deep Reinforcement Learning for Dynamic Mobility-on-Demand Management with Mixed-Autonomy
+8.  Two-Sided Deep Reinforcement Learning for Dynamic Mobility-on-Demand Management with Mixed-Autonomy
     * Webinar – INFORMS Transportation Science and Logistics Society, 2021
     * Plenary Session: Emerging Technologies in Transportation – CICTP2020- 21
-4.  Urban Traffic Flow Smoothening
+9.  Urban Traffic Flow Smoothening
     * ST Engineering Technology Seminar,
-5.  Offline-Online Approximate Dynamic Programming for Stochastic Carsharing Systems with Relocation Incentives
+10.  Offline-Online Approximate Dynamic Programming for Stochastic Carsharing Systems with Relocation Incentives
     * Special Session: Shared Space Design and Modeling: Case Studies in Asian Cities, Easts Conference 2021
-6.  Integrated Optimization of Planning and Operations for Future Mobility Systems
+11.  Integrated Optimization of Planning and Operations for Future Mobility Systems
     * Tapping the Change in Commuting Patterns, The Institution of Engineers, Singapore 2021
-7.  Integrated Optimization of Charging Facility Deployment and Vehicle Management for Electric Car sharing Systems
+12.  Integrated Optimization of Charging Facility Deployment and Vehicle Management for Electric Car sharing Systems
     * Invited Session at the 19th COTA International Conference of Transportation Professionals (CICTP2019), Nanjing,
     * Workshop on Ride-Sourcing Systems and Data-Driven Transportation Management, Nanjing University,
     * International Seminar for Intelligent Connected Vehicle & Future Transportation, Tsinghua University,
     * Pre-CICTP 2019 Workshop Big Data & Emerging Vehicle Technologies, Beijing University of Technology and Chinese Overseas Transportation Association, 2019
     * Workshop on Innovative Urban Mobility Management and Policy, Beijing Jiaotong University, 2019
-8.  A path-based Equilibrium Model for Ridesharing Matching and Compensation Pricing
+13.  A path-based Equilibrium Model for Ridesharing Matching and Compensation Pricing
     * Smart Mobility Workshop, HKUST-DIDI Joint Research Laboratory,
     * ECE, NUS, 2019
-9.  Vehicle Assignment and Relays for One-Way Electric Car-Sharing Systems,
+14.  Vehicle Assignment and Relays for One-Way Electric Car-Sharing Systems,
     * Hong Kong University of Science and Technology,
     * The 2nd International Workshop on Multimodal Transportation,
-10. Future Transport: Autonomous Vehicles, Qifa Primary School,
-11. Joint Design of Parking Capacities and Fleet Size for One-Way Station- Based Carsharing Systems with Road Congestion, South China University of Technology,
-12. A Time-Based Equilibrium for Staggered Bottleneck Congestion with Heterogeneous Commuters, Department Of Transportation, Shipping And Logistics, Shanghai Jiao Tong University,
-13. An Optimization Model for Staggered Bottleneck Congestion with Heterogeneous Commuters, Tongji University,
-14. Analysis and Design of Congestion Pricing Schemes: Models and Solution Approaches, Department of Industrial and Systems Engineering, National University of Singapore,
-15. Welfare Effects of Congestion Pricing and Transit Services in Multi-Class Two- Mode Networks
+15. Future Transport: Autonomous Vehicles, Qifa Primary School,
+16. Joint Design of Parking Capacities and Fleet Size for One-Way Station- Based Carsharing Systems with Road Congestion, South China University of Technology,
+17. A Time-Based Equilibrium for Staggered Bottleneck Congestion with Heterogeneous Commuters, Department Of Transportation, Shipping And Logistics, Shanghai Jiao Tong University,
+18. An Optimization Model for Staggered Bottleneck Congestion with Heterogeneous Commuters, Tongji University,
+19. Analysis and Design of Congestion Pricing Schemes: Models and Solution Approaches, Department of Industrial and Systems Engineering, National University of Singapore,
+20. Welfare Effects of Congestion Pricing and Transit Services in Multi-Class Two- Mode Networks
     * Department Civil & Environmental Engineering, Bucknell University,
     * Department Civil & Environmental Engineering, University of Illinois at Chicago,
 
