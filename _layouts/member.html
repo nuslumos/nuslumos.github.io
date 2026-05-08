@@ -66,14 +66,17 @@ layout: default
 		{% endif %}
 
 		{% if member.email %}
-		{% assign emailarray = member.email | split: '@' %}
+		{% assign emails = member.email | split: ',' %}
 		<div class="smallhead">
 			Email
 		</div>
 		<div class="pad-left note">
 			<div class="smallspacer"></div>
 			<i class="fa fa-inbox fa-fw"></i>
-			{{ emailarray.first }}<span style="display:none">obfuscate</span>@{{ emailarray.last }}
+			{% for email in emails %}
+			{% assign clean_email = email | strip %}
+			<a class="off" href="mailto:{{ clean_email }}">{{ clean_email }}</a>{% unless forloop.last %}, {% endunless %}
+			{% endfor %}
 		</div>
 		<div class="bigspacer"></div>
 		{% endif %}
