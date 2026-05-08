@@ -53,8 +53,8 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4><a href="{{ member.url }}" class="off">Dr. {{ member.name }}</a></h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive team-photo" />
+  <h4><a href="{{ member.url }}" class="off">{% unless member.show_dr == false %}Dr. {% endunless %}{{ member.name }}</a></h4>
   <span>{{ member.info }}</span>
 </div>
 
@@ -86,7 +86,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive team-photo" />
   <h4><a href="{{ member.url }}" class="off">{{ member.name }}</a></h4>
   <span>{{ member.info }}</span> <br>
   <span>Year: {{ member.year }}</span> <br>
@@ -113,7 +113,11 @@ permalink: /team/
 {% for member in site.data.team_members %}
 {% if member.group == 3 %}
 
+{% if member.url %}
+<span class="alumni1" style="font-weight:bold;"><a href="{{ member.url }}">{{ member.name }}</a></span><br>
+{% else %}
 <span class="alumni1" style="font-weight:bold;">{{ member.name }}</span><br>
+{% endif %}
 <span class="alumni2">{{ member.school }}</span><br>
 {% if member.email %}<span class="alumni2">email: {{ member.email }}</span>{% endif %}
 
@@ -178,8 +182,6 @@ permalink: /team/
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_3.jpg" class="img-responsive" width="75%"> 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_1.jpg" class="img-responsive" width="75%"> 
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/team_pic_2.jpg" class="img-responsive" width="75%"> 
-
-
 
 
 

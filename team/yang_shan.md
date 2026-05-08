@@ -1,8 +1,8 @@
 ---
 layout: member
 title: Yang Shan
-position: PhD Student
-email: yang_shan@u.nus.edu
+position: Research Fellow
+email: yang-shan@nus.edu.sg
 twitter:
 github: seanys
 scholar: Z__RCosAAAAJ&hl=en
@@ -11,12 +11,12 @@ ucsf:
 ---
 
 <h3 style="margin-top:0"> About me</h3>
-I am Yang Shan (羊山), a PhD candidate in ISEM at the National University of Singapore (NUS). **I am dedicated to developing intelligent decision-making and modeling methods for complex systems, focusing on the integration of reinforcement learning and optimization theory to create interpretable and scalable policy learning frameworks.** My PhD thesis centers on using deep reinforcement learning (DRL) to address core problems in congestion management for real-world transportation networks.
+I am Yang Shan (羊山), a Research Fellow at the National University of Singapore (NUS). **I am dedicated to developing intelligent decision-making and modeling methods for complex systems, focusing on the integration of reinforcement learning and optimization theory to create interpretable and scalable policy learning frameworks.**
 
 ### Education
 * B.S., Management Science and Engineering, Tongji University, 2021
 * B,S.(Minor Degree), Law, Fudan University, 2021
-* Ph.D, Industrial System and Engineering, National University of Singapore, 2025 (expected)
+* Ph.D, Industrial System and Engineering, National University of Singapore, 2026 (pending defense)
 
 ### Publication
 * **Yang, S.** and Liu, Y., 2024. [Markov Game for CV Joint Adaptive Routing in Stochastic Traffic Networks: A Scalable Learning Approach](https://www.sciencedirect.com/science/article/abs/pii/S0191261524001218), **Transportation Research Part B: Methodological**, 189, 102997. 
@@ -24,11 +24,13 @@ I am Yang Shan (羊山), a PhD candidate in ISEM at the National University of S
 
 Remark: Transportation Research Part B is a top-2 journal in transportation theory.
 
-### Paper Under Review
+### Papers Under Review
+* **Yang S.** and Liu Y., [Descent-Guided Policy Gradient for Scalable Cooperative Multi-Agent Learning](https://arxiv.org/abs/2602.20078), under review at NeurIPS.
 * **Yang S.**, Feng Y., Wang X.L., Liu Y., Designing a Forward-Looking Probabilistic Matching Policy for Dynamic Ridepooling Service, **R&R at Manufacturing & Service Operations Management (utd24)**. 
-* **Yang S.**, Zhong L.H., Liu Y., Model-Supplementary Learning for Congestion Pricing: A Bias-Aware Natural Policy Gradient Approach, under review at ISTTT26.
+* **Yang S.**, Zhong L.H., Liu Y., Model-Supplementary Learning for Congestion Pricing: A Bias-Aware Natural Policy Gradient Approach, under review.
 
-### Working Paper
+### Working Papers
+* **Yang S.**, [Mean-Field Reinforcement Learning without Synchrony](https://arxiv.org/abs/2602.18026).
 * **Yang S.**, Liu Y. Learn to Desseminate Personalized Information to Vehicles in Stochastic Traffic Networks. 
 
 ### ISTTT Proceeding

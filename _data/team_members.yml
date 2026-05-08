@@ -10,12 +10,6 @@
   url: zhu_dan
   group: 1
 
-- name: Zhang Li (张力)
-  photo: zhangli.jpeg
-  info: Research Fellow
-  url: zhang_li
-  group: 1
-
 - name: Song Yuchen (宋玉晨)
   photo: songyuchen.jpg
   info: Research Fellow
@@ -25,11 +19,12 @@
 
 - name: Yang Shan (羊山)
   photo: yangshan.jpg
-  info: PhD Candidate
+  info: Research Fellow
+  show_dr: false
   year: 2022
   thesis: Online Traffic Congestion Management via DRL
   url: yang_shan
-  group: 2
+  group: 1
   
 - name: Zhu Xiaolei (朱晓蕾)
   photo: zhuxiaolei_2025.JPG
@@ -50,11 +45,12 @@
 
 
 - name: Cao Qi (曹奇)
+  url: https://tc.seu.edu.cn/cq1/main.htm
   school: Southeast University
   group: 3
   
-- name: Feng Jiahui (冯家辉)
-  school: University of Science and Technology of China
+- name: Liu Mingzheng (刘明政)
+  school: The Hong Kong Polytechnic University
   group: 3
 
 - name: Zhou Xiaohong (周筱涵)
@@ -119,6 +115,11 @@
   group: 4
   job: TBC
 
+
+- name: Zhang Li (张力)
+  url: https://www.polyu.edu.hk/ise/people/academic-staff/li-zhang/
+  job: Research Assistant Professor, Department of Industrial and Systems Engineering, The Hong Kong Polytechnic University
+  group: 5
 
 - name: Lai Xiongfei (赖雄飞)
   url: https://www.linkedin.com/in/xiongfei-lai-5ba42b144/
