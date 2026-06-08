@@ -15,8 +15,8 @@ I am Yang Shan (羊山), a Research Fellow at the National University of Singapo
 
 ### Education
 * B.S., Management Science and Engineering, Tongji University, 2021
-* B,S.(Minor Degree), Law, Fudan University, 2021
-* Ph.D, Industrial System and Engineering, National University of Singapore, 2026 (pending defense)
+* B.S. (Minor Degree), Law, Fudan University, 2021
+* Ph.D., Industrial System and Engineering, National University of Singapore, 2026 (pending defense)
 
 ### Publication
 * **Yang, S.** and Liu, Y., 2024. [Markov Game for CV Joint Adaptive Routing in Stochastic Traffic Networks: A Scalable Learning Approach](https://www.sciencedirect.com/science/article/abs/pii/S0191261524001218), **Transportation Research Part B: Methodological**, 189, 102997. 
@@ -31,12 +31,12 @@ Remark: Transportation Research Part B is a top-2 journal in transportation theo
 
 ### Working Papers
 * **Yang S.**, [Mean-Field Reinforcement Learning without Synchrony](https://arxiv.org/abs/2602.18026).
-* **Yang S.**, Liu Y. Learn to Desseminate Personalized Information to Vehicles in Stochastic Traffic Networks. 
+* **Yang S.**, Liu Y. Learn to Disseminate Personalized Information to Vehicles in Stochastic Traffic Networks. 
 
 ### ISTTT Proceeding
-* **Yang S.**, Liu Y., 2024. Markov Game for CV Joint Adaptive Routing in Stochastic Traffic Networks: A Scalable Learning Approach. The 25nd International Symposium on Transportation and Traffic Theory.
+* **Yang S.**, Liu Y., 2024. Markov Game for CV Joint Adaptive Routing in Stochastic Traffic Networks: A Scalable Learning Approach. The 25th International Symposium on Transportation and Traffic Theory.
 
-Remark: ISTTT is the prestigious gathering for the world’s transportation and traffic theorists, regular acceptance rate: 10%.
+Remark: ISTTT is a prestigious gathering for the world’s transportation and traffic theorists, with a regular acceptance rate of 10%.
 
 ### Honors
 * NUS Research Scholarship, 2022
