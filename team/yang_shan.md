@@ -16,7 +16,7 @@ I am Yang Shan (羊山), a Research Fellow at the National University of Singapo
 ### Education
 * B.S., Management Science and Engineering, Tongji University, 2021
 * B.S. (Minor Degree), Law, Fudan University, 2021
-* Ph.D., Industrial System and Engineering, National University of Singapore, 2026 (pending defense)
+* Ph.D., Industrial System and Engineering, National University of Singapore, 2026
 
 ### Publication
 * **Yang, S.** and Liu, Y., 2024. [Markov Game for CV Joint Adaptive Routing in Stochastic Traffic Networks: A Scalable Learning Approach](https://www.sciencedirect.com/science/article/abs/pii/S0191261524001218), **Transportation Research Part B: Methodological**, 189, 102997. 

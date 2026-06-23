@@ -1,3 +1,9 @@
+- date: June 2026
+  headline: <a href="/allnews/2026_graduate_yangshan">Congratulations to Dr. Yang Shan on successfully passing his doctoral defense!</a> 
+  type: "News"
+  image: images/newspic/2026_yangshan_defense.png
+  abstract: "Congratulations!!"
+
 - date: Dec 2025
   headline: "<a href='https://doi.org/10.1016/j.trb.2025.103371'>New paper! Equitable transportation network design for signal-free smart intersections</a>"
   type: "Journal"
