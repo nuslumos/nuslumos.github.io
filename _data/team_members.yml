@@ -115,6 +115,14 @@
   group: 4
   job: TBC
 
+- name: Yang Shan (羊山)
+  school: B.S. from Tongji University
+  thesis: Reinforcement Learning for Multi-Layer Traffic Congestion Management
+  year: 2022-2026
+  url: yang_shan
+  group: 4
+  job: Research Fellow, NUS
+
 
 - name: Zhang Li (张力)
   url: https://www.polyu.edu.hk/ise/people/academic-staff/li-zhang/
