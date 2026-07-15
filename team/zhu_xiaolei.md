@@ -11,7 +11,7 @@ ucsf:
 ---
 
 ### Educational Qualifications
-- B.S., Transportation Engineering, Southeast University, 2017-2021
+- B.Eng., Transportation Engineering, Southeast University, 2017-2021
 - Ph.D, Civil and Environmental Engineering, National University of Singapore, 2021-present
 
 ### Position Held
