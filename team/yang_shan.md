@@ -14,9 +14,9 @@ ucsf:
 I am Yang Shan (羊山), a Research Fellow at the National University of Singapore (NUS). **I am dedicated to developing intelligent decision-making and modeling methods for complex systems, focusing on the integration of reinforcement learning and optimization theory to create interpretable and scalable policy learning frameworks.**
 
 ### Education
-* B.S., Management Science and Engineering, Tongji University, 2021
-* B.S. (Minor Degree), Law, Fudan University, 2021
 * Ph.D., Industrial System and Engineering, National University of Singapore, 2026
+* B.S. (Minor Degree), Law, Fudan University, 2021
+* B.S., Management Science and Engineering, Tongji University, 2021
 
 ### Publication
 * **Yang, S.** and Liu, Y., 2024. [Markov Game for CV Joint Adaptive Routing in Stochastic Traffic Networks: A Scalable Learning Approach](https://www.sciencedirect.com/science/article/abs/pii/S0191261524001218), **Transportation Research Part B: Methodological**, 189, 102997. 
@@ -26,7 +26,7 @@ Remark: Transportation Research Part B is a top-2 journal in transportation theo
 
 ### Papers Under Review
 * **Yang S.** and Liu Y., [Descent-Guided Policy Gradient for Scalable Cooperative Multi-Agent Learning](https://arxiv.org/abs/2602.20078), under review at NeurIPS.
-* **Yang S.**, Feng Y., Wang X.L., Liu Y., Designing a Forward-Looking Probabilistic Matching Policy for Dynamic Ridepooling Service, **R&R at Manufacturing & Service Operations Management (utd24)**. 
+* **Yang S.**, Feng Y., Wang X.L., Liu Y., Designing a Forward-Looking Probabilistic Matching Policy for Dynamic Ridepooling Service, **Reject&Resubmit at Manufacturing & Service Operations Management (utd24)**. 
 * **Yang S.**, Zhong L.H., Liu Y., Model-Supplementary Learning for Congestion Pricing: A Bias-Aware Natural Policy Gradient Approach, under review.
 
 ### Working Papers
