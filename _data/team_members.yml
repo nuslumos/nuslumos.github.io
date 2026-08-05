@@ -16,16 +16,12 @@
   url: song_yuchen
   group: 1
 
-
 - name: Yang Shan (羊山)
   photo: yangshan.jpg
   info: Research Fellow
-  show_dr: true
-  year: 2022
-  thesis: Online Traffic Congestion Management via DRL
   url: yang_shan
   group: 1
-  
+
 - name: Zhu Xiaolei (朱晓蕾)
   photo: zhuxiaolei_2025.JPG
   info: PhD Candidate
@@ -49,14 +45,9 @@
   school: Southeast University
   group: 3
   
-- name: Liu Mingzheng (刘明政)
-  school: The Hong Kong Polytechnic University
-  group: 3
-
-- name: Zhou Xiaohong (周筱涵)
+- name: Zhou Xuan (周旋)
   school: Dalian University of Technology
   group: 3
-
 
   
 
