@@ -19,7 +19,7 @@
 - name: Yang Shan (羊山)
   photo: yangshan.jpg
   info: Research Fellow
-  url: yang_shan
+  url: https://seanys.github.io
   group: 1
 
 - name: Zhu Xiaolei (朱晓蕾)
@@ -110,7 +110,7 @@
   school: B.S. from Tongji University
   thesis: Reinforcement Learning for Multi-Layer Traffic Congestion Management
   year: 2022-2026
-  url: yang_shan
+  url: https://seanys.github.io
   group: 4
   job: Research Fellow, NUS
 
