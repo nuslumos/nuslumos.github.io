@@ -27,7 +27,7 @@ ucsf:
 - **Zhu, X.**, Liu, Y.* and Zhang, L. (2026). Dynamic Senior-Centric Type Matching Optimization for Mobility-on-Demand Management in Aging Societies. Transportation Research Part C: Emerging Technologies, Accepted.
 - **Zhu, X.**, Tang, X., Xie, J. and Liu, Y*. (2025). A Learning-Informed Optimization Framework for Dynamic Balancing-Charging Management of Shared Autonomous Electric Vehicle Systems. Transportation Research Part C: Emerging Technologies, 178, p.105209.
 #### Paper Under Review
-- Zhong, L., **Zhu, X.**, Xu, G. and Liu, Y.* (2026). Learning-augmented optimisation framework for dynamic railway capacity control with seat assignments under cancellations. \textit{Transportation Research Part E: Logistics and Transportation Review. Under Review.}
+- Zhong, L., **Zhu, X.**, Xu, G. and Liu, Y.* (2026). Learning-augmented optimisation framework for dynamic railway capacity control with seat assignments under cancellations. Transportation Research Part E: Logistics and Transportation Review. Under Review.
 #### Working Papers
 - **Zhu, X.**, and Liu, Y.*, 2026. Dynamic Pricing for Mixed Solo-Pooling Mobility-on-Demand Markets.
 
