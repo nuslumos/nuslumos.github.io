@@ -24,20 +24,23 @@ ucsf:
 
 ### Publications
 #### Journal
-- **Zhu, X.**, Tang, X., Xie, J. and Liu, Y*., 2025. A Learning-Informed Optimization Framework for Dynamic Balancing-Charging Management of Shared Autonomous Electric Vehicle Systems. Transportation Research Part C: Emerging Technologies, 178, p.105209.
+- **Zhu, X.**, Liu, Y.* and Zhang, L. (2026). Dynamic Senior-Centric Type Matching Optimization for Mobility-on-Demand Management in Aging Societies. Transportation Research Part C: Emerging Technologies, Accepted.
+- **Zhu, X.**, Tang, X., Xie, J. and Liu, Y*. (2025). A Learning-Informed Optimization Framework for Dynamic Balancing-Charging Management of Shared Autonomous Electric Vehicle Systems. Transportation Research Part C: Emerging Technologies, 178, p.105209.
 #### Paper Under Review
-- **Zhu, X.**, Liu, Y.* and Zhang, L., 2025. Dynamic Senior-Centric Type Matching Optimization for
-Mobility-on-Demand Management in Aging Societies.
+- Zhong, L., **Zhu, X.**, Xu, G. and Liu, Y.* (2026). Learning-augmented optimisation framework for dynamic railway capacity control with seat assignments under cancellations. \textit{Transportation Research Part E: Logistics and Transportation Review. Under Review.}
 #### Working Papers
-- **Zhu, X.**, Xie, J. and Liu, Y., 2024. Learning-based online matching for ride-pooling system considering willingness to pool.
-- Zhong, L., **Zhu, X.**, Xu, G., and Liu, Y., 2024. Dynamic capacity control in railway systems with ticket-to-seat assignment and cancellations.
+- **Zhu, X.**, and Liu, Y.*, 2026. Dynamic Pricing for Mixed Solo-Pooling Mobility-on-Demand Markets.
+
+### ISTTT Proceedings
+- **Zhu, X.**, Liu, Y.* and Zhang, L. (2026). Dynamic senior-centric type matching optimization for mobility-on-demand management in aging societies. The 26th International Symposium on Transportation and Traffic Theory (ISTTT).
 
 ### Conference Proceedings
-- **Zhu, X.**, Tang, X., Xie, J. and Liu, Y.*, 2023. Dynamic Balancing-Charging Management for Shared Autonomous Electric Vehicle Systems: A Two-Stage Learning-Based Approach. In 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC) (pp. 3762-3769). IEEE.
+- **Zhu, X.**, Bai, Q., Ong, G. P., & Sikdar, B. (2025, November). Real-Time Traffic Incident Detection with Sparse Observations: A Masked Spatiotemporal Graph Learning Framework. In 2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC) (pp. 3630-3635). IEEE.
+- **Zhu, X.**, Tang, X., Xie, J. and Liu, Y.* (2023, September). Dynamic balancing-charging management for shared autonomous electric vehicle systems: a two-stage learning-based approach. In 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC) (pp. 3762-3769). IEEE.
 
 ### Other Conference Presentations
-- **Zhu, X.**, Tang, X., Xie, J. and Liu, Y.*, 2025. A Learning-Informed Optimization Framework for Dynamic Balancing-Charging Management of Shared Autonomous Electric Vehicle Systems. INFORMS International Meeting, Singapore.
-- **Zhu, X.**, Tang, X., Xie, J. and Liu, Y.*, 2024. Dynamic Balancing-Charging Management for Shared Autonomous Electric Vehicle Systems: A Two-Stage Learning-Based Approach. The Transportation Research Board (TRB) 103rd Annual Meeting, Washington, D.C.
+- **Zhu, X.**, Tang, X., Xie, J. and Liu, Y.* (2025). A Learning-Informed Optimization Framework for Dynamic Balancing-Charging Management of Shared Autonomous Electric Vehicle Systems. INFORMS International Meeting, Singapore.
+- **Zhu, X.**, Tang, X., Xie, J. and Liu, Y.* (2024). Dynamic Balancing-Charging Management for Shared Autonomous Electric Vehicle Systems: A Two-Stage Learning-Based Approach. The Transportation Research Board (TRB) 103rd Annual Meeting, Washington, D.C.
 
 ### Patent
-- Wang, H., Jiao, L., Li, X., **Zhu, X.**, Liu, Y. and Tao, H., 2020. Lane-modularization-based traffic design for passenger hub drop-off platforms.
+- Wang, H., Jiao, L., Li, X., **Zhu, X.**, Liu, Y. and Tao, H. (2020). Lane-modularization-based traffic design for passenger hub drop-off platforms.
