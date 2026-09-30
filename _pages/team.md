@@ -53,7 +53,9 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  {% if member.photo %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive team-photo" />
+  {% endif %}
   <h4><a href="{{ member.url }}" class="off">{% unless member.show_dr == false %}Dr. {% endunless %}{{ member.name }}</a></h4>
   <span>{{ member.info }}</span>
 </div>
