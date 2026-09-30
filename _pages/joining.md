@@ -24,7 +24,7 @@ Singapore 117576
 
 ### About this website
 
-Webpage Administrator: Yang Shan, [yang-shan@nus.edu.sg](mailto:yang-shan@nus.edu.sg)
+Webpage Administrator: Jia Mo, [jiamo@u.nus.edu](mailto:jiamo@u.nus.edu)
 
 <br>
 <br>
