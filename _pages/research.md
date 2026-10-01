@@ -190,6 +190,6 @@ As our transportation system grows in capacity and usage, it becomes increasingl
 
 ----
 ### Acknowledgement
-Our research work is supported by the Singapore Ministry of Education, National Research Foundation, Land Transport Authority, Urban Redevelopment Authority, A*STAR, Cisco Systems and ST Engineering.
+Our research work is supported by the Singapore Ministry of Education, National Research Foundation, Land Transport Authority, Urban Redevelopment Authority, A*STAR, Cisco Systems, ST Engineering and T Lab @ NUS.
 
 <br>

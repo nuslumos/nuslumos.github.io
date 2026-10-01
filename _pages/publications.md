@@ -8,6 +8,7 @@ permalink: /publications/
 ---
 
 
+{% comment %}
 ### Featured
 
 {% assign number_printed = 0 %}
@@ -46,6 +47,8 @@ permalink: /publications/
 
 ---
 
+
+{% endcomment %}
 
 ### Journal
 1. Zhu, X., Liu, Y., & Zhang, L. (2027). [Dynamic senior-centric type matching optimization for mobility-on-demand management in aging societies](https://www.sciencedirect.com/science/article/pii/S0968090X26004134). Transportation Research Part C: Emerging Technologies, 194, 105927.
