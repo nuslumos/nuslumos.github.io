@@ -76,10 +76,14 @@
 .team-page .team-list-member {
   max-width: 1000px;
   margin: 0 auto;
-  padding: 22px 0;
+  padding: 14px 0;
   border-bottom: 1px solid #edf0f3;
   overflow-wrap: anywhere;
 }
+.team-page .team-list-member p { margin-bottom: 6px; }
+.team-page > h3:has(+ .team-list-member) { margin-bottom: 18px; }
+.team-page > hr:has(+ h3 + .team-list-member),
+.team-page > .team-list-member + hr { margin: 36px 0; }
 .team-page .alumni1 { font-size: 18px; color: #013d7c; }
 .team-page .alumni2 { font-size: 16px; color: #505c68; }
 #gridid .team-page img.team-group-photo {

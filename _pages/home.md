@@ -7,8 +7,8 @@ permalink: /
 ---
 
 ## Welcome to Lab for Urban Mobility Systems (LUMOS) at NUS
-<div markdown="0" style="padding-top:5px; ">
-<div class="well" style="background-color: rgba(1, 61, 124, 0.05);">
+<div markdown="0" class="home-intro">
+<div class="well home-pi">
   <div class="media">
     <div class="media-left">
       <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/liuyang.jpg" class="media-object" style="width:120px; margin: 0px;">
@@ -43,10 +43,10 @@ The research team develops multidisciplinary approaches to address research ques
 
 ### Lab News
 
-<div markdown="0" style="padding-top:5px; ">
+<div markdown="0" class="home-news">
 {% for news in site.data.news limit:5 %}
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="{{ news.image | default: 'images/nus_logo_full-horizontal.jpg' }}" alt="News image" style="width: 175px; height: 125px; margin-right: 15px; object-fit: cover; border: 0.2px solid grey; margin-top: 10px;">
+<div class="home-news-entry">
+  <img src="{{ news.image | default: 'images/nus_logo_full-horizontal.jpg' }}" alt="News image" class="home-news-image">
   <div>
     <h4><a href="#">{{ news.headline }}</a></h4>
     <p style="font-size:14px">{{ news.type }} | <em>{{ news.date }}</em></p>

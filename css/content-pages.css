@@ -27,15 +27,20 @@
 .content-page-container a:hover { color: #0b5d94; }
 .content-page-container p { margin-bottom: 16px; }
 .content-page-container hr { margin: 40px 0; border-top-color: #e6eaee; }
+.publications-page h2,
+.publications-page h3 { margin: 32px 0 20px; }
+.publications-page hr { margin: 24px 0; }
+.publications-page #gridid > p { margin: 0; line-height: 0; }
 .publications-page ol { padding-left: 28px; }
-.publications-page li { margin-bottom: 22px; padding-left: 8px; }
+.publications-page li { margin-bottom: 14px; padding-left: 8px; }
 .publications-page li::marker { color: #687583; }
 .publications-page .pub1 { font: 600 18px/1.5 Arial, Helvetica, sans-serif; }
 .publications-page .pub2 { font: 400 15px/1.6 Arial, Helvetica, sans-serif; color: #505c68; }
-.publications-page #gridid > .row { display: flex; flex-wrap: wrap; margin: 0 -16px 24px; }
+.publications-page #gridid > .row { display: flex; flex-wrap: wrap; margin: 0 -12px 12px; }
 .publications-page #gridid > .row::before,
 .publications-page #gridid > .row::after { display: none; }
-.publications-page #gridid > .row > div { padding: 16px; }
+.publications-page #gridid > .row > div { padding: 10px 12px; }
+.publications-page #gridid > .row p { margin-bottom: 8px; }
 .publications-page #gridid > .row .row { margin: 0; }
 .publications-page #gridid img { border-radius: 4px; box-shadow: none; margin: 0 0 12px 18px; }
 .news-page .thumbnails { width: 100%; gap: 12px; max-height: 274px; }
