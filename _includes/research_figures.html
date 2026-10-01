@@ -1,0 +1,33 @@
+{% assign research_images = include.images | split: "|" %}
+{% assign research_descriptions = include.descriptions | split: "|" %}
+{% assign research_folder = include.folder | default: "respic" %}
+{% if research_images.size > 1 %}
+<div class="research-figure research-gallery" markdown="0">
+  <section id="research-{{ include.id }}" class="splide research-gallery-main" aria-label="Research figures: {{ include.id | replace: '-', ' ' }}">
+    <div class="splide__track">
+      <ul class="splide__list">
+        {% for research_image in research_images %}
+        <li class="splide__slide">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/{{ research_folder }}/{{ research_image }}" alt="{{ research_descriptions[forloop.index0] | escape }}">
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+  <section id="research-{{ include.id }}-thumbnails" class="splide research-gallery-thumbnails" aria-label="Choose a research figure: {{ include.id | replace: '-', ' ' }}">
+    <div class="splide__track">
+      <ul class="splide__list">
+        {% for research_image in research_images %}
+        <li class="splide__slide">
+          <img src="{{ site.url }}{{ site.baseurl }}/images/{{ research_folder }}/{{ research_image }}" alt="{{ research_descriptions[forloop.index0] | escape }}" loading="lazy">
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+</div>
+{% else %}
+<div class="research-figure research-figure-single" markdown="0">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ research_folder }}/{{ research_images.first }}" alt="{{ research_descriptions.first | escape }}">
+</div>
+{% endif %}

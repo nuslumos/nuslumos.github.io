@@ -33,36 +33,7 @@ Our research connects infrastructure planning, real-time operations, and travell
 
 The research team develops multidisciplinary approaches to address research questions with theoretical contributions and real-world implications for efficient and sustainable transportation system planning and management.
 
-<div markdown="0" id="carousel" style="max-width: 700px; margin: 0 auto;" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-    </ol>
-
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home/sharing.png" alt="Mixed-fleet MoD system" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home/congestion.png" alt="Congestion management and information provision for connected vehicles and RVs" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home/lane.png" alt="Simulating lane-changing behavior in response to information displayed on an electronic signboard" />
-        </div>
-    </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
+{% include research_figures.html id="home" images="homogeneity_based_mean_field_drl_framework.png|equitable_hybrid_intersection_design.png|learning_informed_optimization_saevs.png|senior_centric_type_matching_framework.jpg|traveller_preferences_and_information.png|congestion.png|smart_card_travel_pattern_analysis.png|delivery_pickup_dispatch_workflow.png|llm_travel_behavior_modeling.png|traffic_incident_severity_assessment.jpeg|rl_traffic_information_dissemination_simulation.jpeg" descriptions="Adaptive routing with mean-field deep reinforcement learning|Equitable hybrid intersection design|Learning-informed optimisation for shared autonomous electric vehicles|Dynamic senior-centric type matching for mobility-on-demand management|Heterogeneous traveller preferences and travel information|Congestion management and information provision in connected networks|Smart card travel pattern analysis for public transport|Truck-drone delivery and pickup dispatch workflow|Large language models for travel behaviour modelling|Simulation and deep learning for traffic incident severity assessment|Reinforcement learning for traffic information dissemination in simulation" %}
 
 <b>LUMOS aims to disseminate new insights, knowledge, and tools to academia, industry, government, and research organizations worldwide.</b>
 
