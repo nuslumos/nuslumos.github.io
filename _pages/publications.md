@@ -3,13 +3,10 @@ title: "LUMOS - Publications"
 layout: gridlay
 excerpt: "LUMOS -- Publications."
 sitemap: false
+content_style: publications
 permalink: /publications/
 ---
 
-
-### Publications
-
----
 
 ### Featured
 

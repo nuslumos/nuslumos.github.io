@@ -3,6 +3,7 @@ title: "LUMOS - Joining"
 layout: textlay
 excerpt: "Joining."
 sitemap: false
+content_style: joining
 permalink: /joining/
 ---
 
