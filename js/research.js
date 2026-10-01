@@ -26,5 +26,27 @@ document.addEventListener('DOMContentLoaded', function () {
     main.sync(thumbnails);
     main.mount();
     thumbnails.mount();
+
+    // Fit research galleries to the displayed image to avoid empty space above thumbnails.
+    // Homepage galleries retain their existing dimensions.
+    if (gallery.closest('.research-page-container')) {
+      var track = gallery.querySelector('.research-gallery-main .splide__track');
+      var images = Array.from(track.querySelectorAll('img'));
+      function fitResearchImages(index) {
+        var img = images[typeof index === 'number' ? index : main.index];
+        if (!img || !img.naturalWidth || !track.clientWidth) return;
+        var limit = window.matchMedia('(max-width: 767px)').matches ? 240 : 300;
+        var height = Math.min(limit, track.clientWidth * img.naturalHeight / img.naturalWidth);
+        gallery.style.setProperty('--research-image-height', Math.round(height) + 'px');
+      }
+      images.forEach(function (img) { img.addEventListener('load', fitResearchImages); });
+      main.on('move', fitResearchImages);
+      if (window.ResizeObserver) {
+        new ResizeObserver(fitResearchImages).observe(track);
+      } else {
+        window.addEventListener('resize', fitResearchImages);
+      }
+      fitResearchImages();
+    }
   });
 });

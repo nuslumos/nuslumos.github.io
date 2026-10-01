@@ -7,7 +7,7 @@
 
     {% include header.html %}
 
-    <div class="container-fluid">
+    <div class="container-fluid{% if page.research_layout %} research-page-container{% endif %}">
       <div class="row">
         {{ content }}
       </div>
