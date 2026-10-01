@@ -37,7 +37,7 @@ The research team develops multidisciplinary approaches to address research ques
 
 <b>LUMOS aims to disseminate new insights, knowledge, and tools to academia, industry, government, and research organizations worldwide.</b>
 
-<p><a href="/allnews" class="btn btn-primary" style="background-color: #013D7C; border-color: #013D7C; font-size:16px">see all research</a></p>
+<p class="home-more"><a href="/research/" class="home-more-link">Explore our research <span aria-hidden="true">→</span></a></p>
 
 ---
 
@@ -56,7 +56,7 @@ The research team develops multidisciplinary approaches to address research ques
 {% endfor %}
 </div>
 
-<p><a href="/allnews" class="btn btn-primary" style="background-color: #013D7C; border-color: #013D7C; font-size:16px">see all News</a></p>
+<p class="home-more"><a href="/allnews/" class="home-more-link">View all news <span aria-hidden="true">→</span></a></p>
 
 ---
 

@@ -49,12 +49,13 @@
 .home-pi .media-object { border-radius: 5px; }
 .home-pi p { margin-bottom: 4px; font-size: 15px; line-height: 1.65; }
 .home-pi h4 + p { font-size: 16px; font-weight: 600; margin-bottom: 10px; }
-.home-intro > a { display: inline-block; font-size: 15px; line-height: 1.65; }
+.home-intro > a { display: inline-block; font-size: inherit; line-height: 1.65; }
 .home-page .research-figure { margin: 28px auto; }
 .home-page > p:has(> b) { font-size: 16px; }
-.home-page > p:has(> .btn) { margin-top: 24px; text-align: center; }
-.home-page .btn { padding: 10px 22px; border-radius: 5px; line-height: 1.4; }
-.home-page .btn:hover { filter: brightness(1.12); }
+.home-page > .home-more { margin-top: 24px; text-align: left; }
+.home-more-link { display: inline-flex; align-items: center; gap: 8px; padding: 6px 0; color: #013d7c; font-size: 16px; font-weight: 600; line-height: 1.5; text-decoration: none; }
+.home-more-link:hover,
+.home-more-link:focus-visible { text-decoration: underline; text-underline-offset: 4px; }
 .home-news-entry {
   display: grid;
   grid-template-columns: 175px minmax(0, 1fr);
