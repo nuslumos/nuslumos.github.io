@@ -22,14 +22,14 @@ permalink: /
     </div>
   </div>
 </div>
-    <p>The mission of the Lab for Urban Mobility Systems (LUMOS) is to advance intelligent transportation systems, formulate new design and operational strategies, devise effective solutions to transportation problems, and bridge academic communities with industry to improve the mobility, reliability, and sustainability of transportation systems.</p>
+    <p>The Lab for Urban Mobility Systems (LUMOS) at the National University of Singapore develops data-driven models and AI-enabled decision-making methods for transportation and logistics systems. We integrate reinforcement learning, mathematical optimisation, and transport system and behaviour modelling to address challenges in planning, operations, and management. Our goal is to advance efficient, equitable, and reliable mobility through research that connects methodological innovation with practical needs.</p>
     <a href="https://ieeexplore.ieee.org/document/9733251">Our lab's research activities has been profiled at IEEE Intelligent Transportation Systems Magazine.</a>
 </div>
 
 ---
 
 ### Our Research 
-We focus on future urban mobility and transport systems, which cover the areas of shared mobility system operation and design, travel demand and congestion management, and data-driven transportation system modeling and analysis.
+Our research connects infrastructure planning, real-time operations, and traveller behaviour across urban mobility, public transport, logistics, and air transport, with a focus on emerging technologies such as autonomous vehicles (AVs) and electric vehicles (EVs).
 
 The research team develops multidisciplinary approaches to address research questions with theoretical contributions and real-world implications for efficient and sustainable transportation system planning and management.
 
