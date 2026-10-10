@@ -12,7 +12,7 @@ Personal page is required to contain the following parts: biography/introduction
 
 # How to add pubilication/news
 
-**Publication**: Add list here [_data/publist.yml](https://github.com/nuslumos/nuslumos.github.io/blob/master/_data/publist.yml). Image should be added to [images/pubpic](https://github.com/nuslumos/nuslumos.github.io/tree/master/images/pubpic). 
+**Publication**: Add list here [_pages/publications.md](https://github.com/nuslumos/nuslumos.github.io/blob/master/_pages/publications.md). Image should be added to [images/pubpic](https://github.com/nuslumos/nuslumos.github.io/tree/master/images/pubpic). 
 
 **News**: Add list here [_data/news.yml](https://github.com/nuslumos/nuslumos.github.io/blob/master/_data/news.yml).
 
