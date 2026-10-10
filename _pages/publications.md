@@ -51,7 +51,7 @@ permalink: /publications/
 {% endcomment %}
 
 ### Journal
-1. Zhao, J., Yang, H., Pan, Y., Liu, Y. (2027). [Wireless mobile charging for emergency electric vehicle routing: A mixed-integer and metaheuristic framework for in-motion energy transfer](https://www.sciencedirect.com/science/article/abs/pii/S0378779626010254). Electric Power Systems Research, 263, 113732.
+1. Zhao, J., Yang, H., Pan, Y., & Liu, Y. (2027). [Wireless mobile charging for emergency electric vehicle routing: A mixed-integer and metaheuristic framework for in-motion energy transfer](https://www.sciencedirect.com/science/article/abs/pii/S0378779626010254). Electric Power Systems Research, 263, 113732.
 2. Zhu, X., Liu, Y., & Zhang, L. (2027). [Dynamic senior-centric type matching optimization for mobility-on-demand management in aging societies](https://www.sciencedirect.com/science/article/pii/S0968090X26004134). Transportation Research Part C: Emerging Technologies, 194, 105927.
 3. Zhu, D., Xie, T., Liu, Y., & Rujeerapaiboon, N. (2026). [Equitable transportation network design for signal-free smart intersections](https://www.sciencedirect.com/science/article/pii/S0191261525002206). Transportation Research Part B: Methodological, 204, 103371.
 4. Zhu, D., Ng, C., Xie, L., & Liu, Y. (2025). [Interpretable machine learning for traffic congestion prediction: Unveiling the impact of different COVID-19 periods](https://www.sciencedirect.com/science/article/pii/S2772424725000666). Communications in Transportation Research, 5, 100226.
